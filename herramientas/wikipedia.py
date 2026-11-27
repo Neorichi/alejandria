@@ -1,7 +1,8 @@
-"""Spanish Wikipedia dump (pages-articles.xml.bz2) → Markdown packs.
+"""Spanish Wikipedia dump (pages-articles.xml.bz2) → OKF concepts (one Markdown file per article).
 
-- wikipedia-resumida/es: the lead of every article (+ the facts of its infobox), at most ~1200 characters.
-- wikipedia/es: every article whole (for the full pack).
+- wikipedia-resumida: the lead of every article (+ the facts of its infobox), at most ~1200 characters.
+  Two million concepts: not loose files in git but paquetes/wikipedia-resumida.okf.tar.gz (same bundle paths).
+- wikipedia: every article whole (fuera-del-repo/wikipedia.okf.tar.gz, for a future full pack).
 - medicina/wikipedia and seguridad/wikipedia: whole articles whose categories are about medicine or security.
 
 Uso: wikipedia.py [--max N]     (N = only the first N articles, for tests)
@@ -15,11 +16,9 @@ import xml.etree.ElementTree as ET
 
 import mwparserfromhell as mwp
 
-from comun import FUENTES, FUERA, Escritor
+from comun import FUENTES, FUERA, PAQ, Escritor, wiki_add
 
 DUMP = os.path.join(FUENTES, "eswiki-latest-pages-articles.xml.bz2")
-LIC = "CC BY-SA 4.0"
-FUENTE = "Wikipedia (es) 2026-11-01"
 
 SKIP_SECTIONS = re.compile(r"^(referencias|notas|bibliograf[ií]a|enlaces externos|v[eé]ase tambi[eé]n|fuentes|"
                            r"notas y referencias|referencias y notas|lecturas? adicional(es)?|galer[ií]a)$", re.I)
@@ -170,14 +169,13 @@ def pages(limit):
             el.clear()
 
 
-def url(title):
-    return "https://es.wikipedia.org/wiki/" + title.replace(" ", "_")
-
-
 if __name__ == "__main__":
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 0
-    w_lead, w_full = Escritor("wikipedia-resumida/es"), Escritor("wikipedia/es", base=FUERA)
-    w_med, w_sec = Escritor("medicina/wikipedia"), Escritor("seguridad/wikipedia")
+    w_lead = Escritor("wikipedia-resumida", "Wikipedia en español (resumen)",
+                      archivo=os.path.join(PAQ, "wikipedia-resumida.okf.tar.gz"))
+    w_full = Escritor("wikipedia", "Wikipedia en español", archivo=os.path.join(FUERA, "wikipedia.okf.tar.gz"))
+    w_med = Escritor("medicina/wikipedia", "Medicina en Wikipedia")
+    w_sec = Escritor("seguridad/wikipedia", "Seguridad informática en Wikipedia")
     n = 0
     with mp.Pool(max(1, os.cpu_count() - 1)) as pool:
         for r in pool.imap(work, pages(limit), chunksize=64):
@@ -187,13 +185,12 @@ if __name__ == "__main__":
             if not r:
                 continue
             title, lead, full, cats = r
-            uid = "eswiki-" + re.sub(r"\s+", "_", title)
-            w_lead.add(uid, title, lead, FUENTE, LIC, url(title))
-            w_full.add(uid, title, full, FUENTE, LIC, url(title))
+            wiki_add(w_lead, title, lead, ["wikipedia"], nivel=2)
+            wiki_add(w_full, title, full, ["wikipedia"], nivel=2)
             bio = any(BIO.match(c) for c in cats)
             if not bio and any(MED.search(c) and not NOTMED.search(c) for c in cats):
-                w_med.add(uid, title, full, FUENTE, LIC, url(title))
+                wiki_add(w_med, title, full, ["medicina", "wikipedia"])
             if any(SEC.search(c) for c in cats):
-                w_sec.add(uid, title, full, FUENTE, LIC, url(title))
+                wiki_add(w_sec, title, full, ["seguridad", "wikipedia"])
     print("fin:", n, "páginas · resumida", w_lead.close(), "· completa", w_full.close(),
           "· medicina", w_med.close(), "· seguridad", w_sec.close())
