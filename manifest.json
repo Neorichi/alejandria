@@ -4,27 +4,39 @@
    "id": "seguridad",
    "titulo": "Seguridad informática",
    "descripcion": "Vulnerabilidades explotadas (CISA KEV), técnicas y grupos de ataque (MITRE ATT&CK) y tipos de fallo (CWE).",
-   "version": "2026.11.27.1335",
-   "articulos": 4588,
+   "version": "2026.11.27.1431",
+   "articulos": 5975,
    "fichero": "seguridad.sqlite",
-   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1335/seguridad.sqlite",
-   "bytes": 8998912,
-   "sha256": "bdadde0f357a07eb97ed5c41461b25a8e3db60e771f9908f89a973902a48e7c7",
-   "fuentes": "CISA Known Exploited Vulnerabilities 2026.11.25; MITRE ATT&CK Enterprise; MITRE CWE"
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1431/seguridad.sqlite",
+   "bytes": 14684160,
+   "sha256": "9f7f8e8cafb5183e9c53000ce372b7bfbf4a5edfc6c00acf7efd65e9da496543",
+   "fuentes": "CISA Known Exploited Vulnerabilities 2026.11.25; MITRE ATT&CK Enterprise; MITRE CWE; Wikipedia (es) 2026-11-01"
   },
   {
    "id": "medicina",
    "titulo": "Medicina y salud",
    "descripcion": "Temas de salud de MedlinePlus en español y artículos de medicina de Wikipedia. No sustituye a un médico.",
-   "version": "2026.11.27.1335",
-   "articulos": 1016,
+   "version": "2026.11.27.1431",
+   "articulos": 16618,
    "fichero": "medicina.sqlite",
-   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1335/medicina.sqlite",
-   "bytes": 4947968,
-   "sha256": "fc34b6bf45dfa986ce6a32852572ba70bdd3e89c658f6b4526e7bf848863469e",
-   "fuentes": "MedlinePlus en español"
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1431/medicina.sqlite",
+   "bytes": 88428544,
+   "sha256": "7034be10da6a60a186746eb99a60d4f4413ee316edf9a9406b68053f79bca719",
+   "fuentes": "MedlinePlus en español; Wikipedia (es) 2026-11-01"
+  },
+  {
+   "id": "wikipedia-resumida",
+   "titulo": "Wikipedia (resumen)",
+   "descripcion": "El principio de cada artículo de la Wikipedia en español: historia, ciencia, geografía, personas…",
+   "version": "2026.11.27.1431",
+   "articulos": 2012680,
+   "fichero": "wikipedia-resumida.sqlite",
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1431/wikipedia-resumida.sqlite",
+   "bytes": 1996369920,
+   "sha256": "190061c35477659abc5bd980f40063fc4a92bc21040cbaea5f58ebe1af87b13e",
+   "fuentes": "Wikipedia (es) 2026-11-01"
   }
  ],
- "version": "2026.11.27.1335",
+ "version": "2026.11.27.1431",
  "formato": 1
 }
