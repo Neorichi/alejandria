@@ -1,0 +1,139 @@
+---
+type: Artículo de enciclopedia
+title: Muelas del juicio impactadas
+description: Las muelas del juicio impactadas son una afección en la que los terceros molares (muelas del juicio) no pueden erupcionar en la boca.
+resource: https://es.wikipedia.org/wiki/Muelas_del_juicio_impactadas
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Muelas_del_juicio_impactadas"}
+license: CC BY-SA 4.0
+id: eswiki-Muelas_del_juicio_impactadas
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Muelas del juicio impactadas
+
+- **Nombre:** Muelas del juicio impactadas
+- **Especialidad:** Odontología, cirugía oral y maxilofacial
+- **Síntomas:** Dolor localizado e hinchazón detrás de los últimos dientes
+- **Complicaciones:** Infecciones, pérdida de dientes adyacentes, quistes
+- **Edad:** Finales de la adolescencia, principios de los 20
+- **Tipos:** Total o parcialmente impactado, dirección de la impactación
+- **Causas:** Congénito
+- **Diagnóstico:** Examen, rayos X
+- **Diferencial:** Otras causas de dolor de muelas, disfunción de la articulación temporomandibular
+- **Tratamiento:** Buen cuidado dental, control periódico, extracción de las muelas del juicio
+
+Las **muelas del juicio impactadas** son una afección en la que los terceros molares (muelas del juicio) no pueden erupcionar en la boca. Esto puede deberse a una barrera física, como otros dientes, o cuando el diente está inclinado con respecto a una posición vertical. Las muelas del juicio completamente no erupcionadas no suelen presentar síntomas, aunque a veces pueden desarrollar quistes o neoplasias. Las muelas del juicio parcialmente erupcionadas o las muelas del juicio no erupcionadas pero expuestas a las bacterias orales a través de una bolsa periodontal profunda, pueden desarrollar caries o pericoronitis. La extracción de las muelas del juicio impactadas se aconseja para la prevención futura o en presencia actual de determinadas patologías, como la caries, la enfermedad periodontal o los quistes. La extracción profiláctica (preventiva) de las muelas del juicio es preferible realizarla a una edad más temprana (adolescencia media o tardía) para aprovechar el desarrollo incompleto de la raíz, que se asocia a un procedimiento quirúrgico más sencillo y a una menor probabilidad de complicaciones.
+
+Las muelas del juicio retenidas se clasifican por la dirección de impactación, su profundidad en comparación con la superficie de mordida de los dientes adyacentes y la parte de la corona del diente que atraviesa el tejido gingival o el hueso. Las muelas del juicio impactadas también pueden clasificarse por la presencia o ausencia de síntomas y enfermedad. La detección de la presencia de muelas del juicio suele comenzar al final de la adolescencia, cuando una muela parcialmente desarrollada puede quedar retenida. La exploración suele incluir un examen clínico y radiografías panorámicas.
+
+Las infecciones causadas por muelas del juicio retenidas pueden tratarse inicialmente con antibióticos, desbridamiento local o extirpación quirúrgica de la encía que recubre la muela. Con el tiempo, la mayoría de estos tratamientos tienden a fracasar y los pacientes desarrollan síntomas recurrentes. El tratamiento más habitual de la pericoronitis recurrente es la extracción de la muela del juicio. Los riesgos de la extracción de la muela del juicio son aproximadamente proporcionales a la dificultad de la extracción. A veces, cuando existe un alto riesgo para el nervio alveolar inferior, sólo se extrae la corona del diente (dejando intencionadamente las raíces) en un procedimiento denominado coronectomía. El riesgo a largo plazo de la coronectomía es que puede persistir una infección crónica de los restos del diente. El pronóstico para el segundo molar es bueno tras la extracción de las muelas del juicio, aunque la probabilidad de pérdida ósea tras la cirugía aumenta cuando las extracciones se realizan en personas de 25 años o más.  Existe una controversia sobre la necesidad y el momento de extraer las muelas del juicio retenidas y libres de enfermedad. Los partidarios de la extracción precoz citan el aumento de los riesgos de extracción con el tiempo y los costes del seguimiento de las muelas del juicio. Los partidarios de conservar las muelas del juicio alegan el riesgo y el coste de una intervención quirúrgica innecesaria.
+
+La afección puede ser frecuente, ya que afecta hasta al 72% de la población sueca. Las muelas del juicio se describen en los textos antiguos de Platón e Hipócrates, en las obras de Charles Darwin y en los primeros manuales de odontología operatoria. Fue el encuentro de la técnica estéril, la radiología y la anestesia a finales del  y principios del , lo que permitió el tratamiento más rutinario de las muelas del juicio retenidas.
+
+ Clasificación
+Todos los dientes se clasifican como en desarrollo, erupcionados (en la boca), encajados (no erupcionan a pesar de no estar bloqueados por otro diente) o impactados. Los dientes retenidos son los que no erupcionan debido a la obstrucción de otros dientes. Las muelas del juicio, al ser las últimas en erupcionar en la boca, son las más propensas a quedar retenidas. Se desarrollan entre los 14 y los 25 años, con un 50% de la formación radicular completada a los 16 años, y un 95% de todos los dientes erupcionados a los 25 años, sin embargo, algunos movimientos dentales pueden continuar más allá de los 25 años:
+
+Las muelas del juicio impactadas se clasifican según la dirección y la profundidad de la impactación, la cantidad de espacio disponible para la erupción dental y la cantidad de tejido blando o hueso (o ambos) que las recubre. La estructura de clasificación ayuda a los clínicos a estimar los riesgos de impactación, infecciones y complicaciones asociadas a la extracción de las muelas del juicio. Las muelas del juicio también se clasifican por la presencia (o ausencia) de síntomas y enfermedad.
+
+Las muelas del juicio impactadas suelen describirse por la dirección de su impactación (la inclinación hacia delante o mesioangular es la más común), la profundidad de la impactación y la edad del paciente, así como otros factores como la infección preexistente o la presencia de patología (quistes, tumores u otras enfermedades): Cada uno de estos factores se utiliza para predecir la dificultad (y la tasa de complicaciones) al extraer un diente impactado, siendo la edad el factor predictivo más fiable, que la orientación de la impactación.
+
+Otro sistema de clasificación que se suele enseñar en las facultades de Odontología de Estados Unidos es el conocido como Clasificación de Pell y Gregory. Este sistema incluye un componente horizontal y otro vertical para clasificar la ubicación de los terceros molares (aplicable predominantemente a los terceros molares inferiores): la relación del tercer molar con el nivel de los dientes que ya están en la boca, siendo el componente vertical o x, y con el borde anterior de la rama, siendo el componente horizontal o y.
+
+ Signos y síntomas
+
+Las muelas del juicio impactadas sin comunicación con la boca, que no tienen ninguna patología asociada al diente, y que no han causado reabsorción dentaria en el diente de bloqueo, raramente presentan síntomas. Las probabilidades de desarrollar patología en una muela del juicio impactada que no está en comunicación con la boca es aproximadamente del 12%. Sin embargo, cuando las muelas del juicio impactadas se comunican con la boca, los alimentos y las bacterias penetran en el espacio alrededor del diente y causan síntomas como dolor localizado, inflamación y sangrado del tejido que recubre el diente. El tejido que recubre el diente se denomina opérculo, y el trastorno se denomina pericoronitis, que significa inflamación alrededor de la corona del diente: 141 La periodontitis crónica de bajo grado suele aparecer en la muela del juicio o en el segundo molar, causando síntomas menos evidentes como mal aliento y sangrado de las encías. Los dientes también pueden permanecer asintomáticos (sin dolor), incluso con la enfermedad.
+
+El término asintomático significa que la persona no presenta síntomas. El término asintomático no debe equipararse a ausencia de enfermedad. La mayoría de las enfermedades no presentan síntomas al principio del proceso. Un diente asintomático o sin dolor puede estar infectado durante muchos años antes de que aparezcan síntomas de dolor.
+
+ Causas
+
+Las muelas del juicio quedan retenidas cuando no hay espacio suficiente en los maxilares para que todos los dientes erupcionen en la boca. Como las muelas del juicio son las últimas en erupcionar, debido a que no hay espacio suficiente en los maxilares para alojar más dientes, las muelas del juicio quedan atascadas en los maxilares, es decir, retenidas. Existe una predisposición genética a la impactación dental. La genética desempeña un papel importante, aunque impredecible, a la hora de dictar el tamaño de los maxilares y los dientes, así como el potencial de erupción de los mismos. Algunos también creen en la hipótesis de la matriz funcional, que afirma que existe una disminución evolutiva del tamaño de la mandíbula debido a las dietas modernas más blandas, más refinadas y menos toscas que las de nuestros antepasados.
+
+ Fisiopatología
+
+Las impactaciones están completamente cubiertas por hueso y tejido blando, no comunican con la boca y tienen una baja tasa de infección clínicamente significativa. Sin embargo, como el diente nunca erupciona, el folículo dental que lo rodea no degenera durante la erupción, y puede desarrollar quistes o tumores poco frecuentes con el tiempo:  Las estimaciones de la incidencia de quistes u otras neoplasias (casi todas benignas) alrededor de los dientes impactados es de un promedio del 3%, y suele observarse en personas menores de 40 años. Esto sugiere que la probabilidad de formación de tumores disminuye con la edad:
+
+En el caso de las muelas parcialmente impactadas en mayores de 20 años, la patología más frecuente, y la razón más común para la extracción de las muelas del juicio, es la pericoronitis o infección del tejido gingival sobre la muela impactada. Las bacterias asociadas a las infecciones son Peptostreptococcus, Fusobacterium y Bacteroides. La siguiente patología más frecuente son las caries. El 15% de las personas con muelas del juicio retenidas expuestas a la boca presentan caries en la muela del juicio o en el segundo molar adyacente debido a una muela del juicio. La tasa de caries en la parte posterior del segundo molar se ha informado en cualquier lugar del 1% al 19% con la amplia variación atribuida al aumento de la edad.
+
+En el cinco por ciento de los casos, la periodontitis avanzada o inflamación de las encías entre el segundo y el tercer molar precipita la extracción de las muelas del juicio:  Entre los pacientes con muelas del juicio retenidas y asintomáticas, aproximadamente el 25% tiene infecciones de las encías (enfermedad periodontal): ch13 Los dientes con bolsas periodontales de más de 5mm tienen tasas de pérdida de dientes que empiezan en 10 dientes perdidos por 1000 dientes al año a 5mm hasta una tasa de 70 dientes perdidos al año por 1000 dientes a 11mm: 57 El riesgo de enfermedad periodontal y caries en los terceros molares aumenta con la edad, con una pequeña minoría (menos del 2%) de adultos de 65 años o más manteniendo los dientes sin caries o enfermedad periodontal y el 13% manteniendo las muelas del juicio no impactadas sin caries o enfermedad periodontal. Las profundidades de sondaje periodontal aumentan con el tiempo a más de 4 mm en una proporción significativa de adultos jóvenes con muelas del juicio retenidas, lo que se asocia con aumentos de marcadores inflamatorios séricos como la interleucina-6, la molécula-1 de adhesión intracelular soluble y la proteína C reactiva.
+
+No se cree que el apiñamiento de los dientes frontales esté causado por la erupción de las muelas del juicio, aunque ésta es una razón que muchos odontólogos esgrimen para justificar la extracción de las muelas del juicio:,
+
+ Diagnóstico
+
+El diagnóstico de impactación se puede hacer clínicamente si es visible una parte suficiente de la muela del juicio para determinar su angulación y profundidad, y si el paciente es lo suficientemente mayor como para que sea improbable una erupción o enderezamiento posterior. Las muelas del juicio continúan moviéndose hasta la edad de 25 años debido a la erupción, y luego continúan algún movimiento posterior debido a la enfermedad periodontal.
+
+Si el diente no se puede evaluar únicamente con el examen clínico, el diagnóstico se realiza mediante una radiografía panorámica o una tomografía computarizada de haz cónico. Cuando las muelas del juicio no erupcionadas todavía tienen potencial de erupción, se utilizan varios factores predictivos para determinar la probabilidad de que los dientes se impacten. La relación de espacio entre la longitud de la corona del diente y la cantidad de espacio disponible, el ángulo de los dientes en comparación con los otros dientes son los dos predictores más utilizados, siendo la relación de espacio la más precisa. A pesar de la capacidad de movimiento en la edad adulta temprana, la probabilidad de que el diente se impacte puede predecirse cuando la relación entre el espacio disponible y la longitud de la corona del diente es inferior a 1.: 141
+
+ Cribado
+
+No existe una norma para detectar las muelas del juicio. Se ha sugerido, a falta de pruebas que apoyen la retención o extracción rutinaria de las muelas del juicio, que la evaluación con radiografía panorámica, comenzando entre los 16 y los 25 años de edad, se realice cada 3 años. Una vez que exista la posibilidad de que los dientes desarrollen una enfermedad, se recomienda una discusión sobre los riesgos operativos frente al riesgo a largo plazo de la retención con un cirujano oral y maxilofacial u otro clínico capacitado para evaluar las muelas del juicio. Estas recomendaciones se basan en pruebas de nivel de opinión de expertos. Puede ser necesaria la exploración a una edad más temprana si los segundos molares (los "molares de los 12 años") no erupcionan, ya que la posición ectópica de las muelas del juicio puede impedir su erupción. Las radiografías pueden evitarse si la mayor parte del diente es visible en la boca.
+
+ Tratamiento
+Las muelas del juicio completamente erupcionadas y en función normal no necesitan ninguna atención especial y deben tratarse como cualquier otro diente. Sin embargo, es más difícil tomar decisiones de tratamiento con muelas del juicio asintomáticas y libres de enfermedad cuando existe una alta probabilidad de que los dientes desarrollen una enfermedad con el tiempo, pero no existe ninguna en el examen, o en las radiografías (véase la controversia sobre el tratamiento a continuación).
+
+Comprender el proceso, desde la preparación hasta la recuperación, puede ayudar a aliviar la ansiedad y garantizar una experiencia sin complicaciones.
+
+ Tratamiento local
+
+La pericoronitis es una infección del opérculo de una muela del juicio parcialmente impactada. Puede tratarse con una limpieza local, un enjuague antiséptico de la zona y antibióticos si es grave. El tratamiento definitivo puede ser la extirpación del opérculo; sin embargo, la recurrencia de estas infecciones es alta. La pericoronitis, aunque es una zona pequeña de tejido, debe considerarse con precaución, porque se encuentra cerca de los planos anatómicos del cuello y puede evolucionar a infecciones del cuello potencialmente mortales:
+
+ Extracción de las muelas del juicio
+La extracción de las muelas del juicio es el tratamiento más común para las muelas del juicio retenidas. En Estados Unidos se extraen 10 millones de muelas del juicio al año. El procedimiento puede ser simple o quirúrgico, dependiendo de la profundidad de la impactación y del ángulo de la muela. La extracción quirúrgica consiste en crear una incisión en la mucosa de la boca, retirar el hueso de la mandíbula o el maxilar adyacente al diente, extraerlo o posiblemente seccionar el diente y extraerlo en trozos. Esto puede realizarse con anestesia local, sedación o anestesia general. Hasta 2020, las pruebas son insuficientes para recomendar un tipo de práctica quirúrgica sobre otro.
+
+ Recuperación, riesgos y complicaciones
+La mayoría de las personas experimentarán dolor e hinchazón (peor el primer día postoperatorio) y volverán al trabajo al cabo de 2 o 3
+días, con un índice de molestias que disminuye hasta aproximadamente el 25% el séptimo día postoperatorio, a menos que se vean afectadas por alveolitis seca: un trastorno de la cicatrización de la herida que prolonga el dolor postoperatorio. Pueden transcurrir entre 4 y 6 semanas hasta que los pacientes se recuperen por completo y puedan realizar todos los movimientos de la mandíbula.
+
+Una investigación Cochrane descubrió que el uso de antibióticos justo antes o después de la cirugía reduce el riesgo de infección, dolor y alveolitis seca tras la extracción de las muelas del juicio por parte de cirujanos orales, pero que el uso de antibióticos también provoca más efectos secundarios en estos pacientes. Diecinueve pacientes necesitaron recibir antibióticos para prevenir una infección. La conclusión de la revisión fue que los antibióticos administrados a personas sanas para prevenir infecciones pueden causar más daños que beneficios tanto a los pacientes individuales como a la población en su conjunto. Otra investigación Cochrane ha descubierto que el dolor postoperatorio se trata eficazmente con ibuprofeno o ibuprofeno en combinación con paracetamol.
+
+Las complicaciones a largo plazo pueden incluir complicaciones periodontales como la pérdida de hueso en el segundo molar tras la extracción de las muelas del juicio. La pérdida ósea como complicación tras la extracción de las muelas del juicio es poco frecuente en los jóvenes, pero está presente en el 43% de las personas de 25 años o más. La lesión del nervio alveolar inferior que provoca entumecimiento o entumecimiento parcial del labio inferior y la barbilla ha registrado tasas que varían ampliamente del 0,04% al 5%. El estudio más amplio es el de una encuesta de 535 cirujanos orales y maxilofaciales de California, en el que se registró una tasa de 1:2.500.
+
+La gran variación en las tasas notificadas se atribuye a variaciones en la técnica, el grupo de pacientes y la experiencia del cirujano. Se han notificado otras complicaciones poco frecuentes, como comunicación sinusal persistente, daños en los dientes adyacentes, lesión del nervio lingual, dientes desplazados, osteomielitis y fractura de mandíbula. También cabe esperar osteítis alveolar, infección postoperatoria y sangrado excesivo.
+
+ Controversia sobre el tratamiento
+Muchas muelas del juicio retenidas se extraen antes de los 25 años, cuando se puede esperar razonablemente una erupción completa y antes de que hayan comenzado los síntomas o la enfermedad. Esto ha dado lugar a una controversia sobre el tratamiento que se conoce generalmente como extracción de muelas del juicio asintomáticas y sin enfermedad.
+
+En el año 2000, el Instituto Nacional para la Excelencia Clínica (NICE) del Reino Unido estableció directrices para suspender la extracción de terceros molares asintomáticos libres de enfermedad en el Servicio Nacional de Salud del Reino Unido, afirmando que no existían pruebas fiables de investigación que apoyaran un beneficio para la salud de los pacientes de la extracción profiláctica de terceros molares impactados libres de patología, además de los riesgos de la extracción y el coste para el servicio. Los defensores de esta política señalan que las muelas del juicio retenidas pueden controlarse y que evitar la cirugía también significa evitar la recuperación, los riesgos, las complicaciones y los costes asociados a ella. Tras la aplicación de las directrices del NICE, en el Reino Unido se produjo un descenso del número de operaciones de terceros molares retenidos entre 2000 y 2006 y un aumento de la edad media de extracción de 25 a 31 años. La Asociación Americana de Salud Pública (APHA) ha adoptado una política similar.
+
+Quienes están en contra de una moratoria general sobre la extracción de muelas del juicio asintomáticas y libres de enfermedad señalan que las muelas del juicio suelen desarrollar enfermedad periodontal o caries que pueden acabar dañando los segundos molares y que existen costes asociados al seguimiento de las muelas del juicio. También señalan que existe un aumento de la tasa de enfermedad periodontal postoperatoria en el segundo molar, la dificultad de la cirugía y el tiempo de recuperación postoperatoria con la edad. En el Reino Unido también se ha observado un aumento de la tasa de caries dental en los segundos molares inferiores, que ha pasado del 4-5% antes de la directriz del NICE al 19% tras su adopción.
+
+Aunque la mayoría de los estudios llegan a la conclusión de resultados negativos a largo plazo, por ejemplo, aumento de las bolsas y pérdida de inserción tras la cirugía, está claro que la extracción temprana (antes de los 25 años), una buena higiene postoperatoria y control de la placa, y la ausencia de patología periodontal preexistente antes de la cirugía son los factores más cruciales que minimizan la probabilidad de resultados postoperatorios adversos.
+
+La revisión Cochrane de extracción quirúrgica versus retención de cordales retenidos asintomáticos libres de enfermedad sugiere que la presencia de cordales retenidos asintomáticos puede asociarse con un mayor riesgo de enfermedad periodontal que afecta al 2.º molar adyacente (medida por la profundidad de sondaje distal > 4 mm en ese diente) a largo plazo. Sin embargo, pocos estudios cumplieron los criterios para ser incluidos en la revisión Cochrane y los que se incluyeron aportaron pruebas de muy baja calidad y tenían un alto riesgo de sesgo. Otro estudio con alto riesgo de sesgo no encontró pruebas que sugieran que la extracción de las muelas del juicio asintomáticas libres de enfermedad tenga un efecto sobre el apiñamiento en la arcada dental. Tampoco hay pruebas suficientes para destacar una diferencia en el riesgo de caries con o sin muelas del juicio retenidas.
+
+Se identificó un ensayo en adolescentes con tratamiento ortodóncico que comparaba la extracción de las muelas del juicio inferiores impactadas con la retención. Sólo examinó el efecto sobre el apiñamiento tardío de los incisivos inferiores y los autores lo calificaron de "muy sesgado". Los autores concluyeron que no hay pruebas suficientes que respalden la extracción sistemática o la retención de las muelas del juicio retenidas asintomáticas.  Otro ensayo controlado aleatorio realizado en el Reino Unido ha sugerido que no es razonable extraer una muela del juicio retenida asintomática libre de enfermedad simplemente para prevenir el apiñamiento de los incisivos, ya que no hay pruebas suficientemente sólidas que demuestren esta asociación.
+
+Debido a la falta de pruebas suficientes para determinar si estos dientes deben extraerse o no, deben tenerse en cuenta las preferencias y los valores del paciente, junto con la experiencia clínica y una cuidadosa consideración de los riesgos y los beneficios para determinar el tratamiento. Si se decide conservar las muelas del juicio asintomáticas retenidas sin enfermedad, es aconsejable realizar una evaluación clínica a intervalos regulares para evitar resultados indeseables (pericoronitis, reabsorción radicular, formación de quistes, formación de tumores, inflamación/infección).
+
+ Coronectomía
+
+La coronectomía es un procedimiento en el que se extrae la corona de la muela del juicio impactada, pero las raíces se dejan intencionadamente en su sitio. Está indicada cuando no hay enfermedad de la pulpa dental ni infección alrededor de la corona del diente, y existe un alto riesgo de lesión del nervio alveolar inferior.
+
+La coronectomía, aunque disminuye el riesgo inmediato para la función del nervio alveolar inferior, tiene sus propias tasas de complicaciones y puede dar lugar a repetidas cirugías. Entre el 2,3% y el 38,3% de las raíces se aflojan durante la intervención y deben extraerse, y hasta el 4,9% de los casos requieren una nueva intervención debido a la persistencia del dolor, la exposición de la raíz o la persistencia de la infección. También se ha informado de que las raíces migran en el 13,2% al 85,9% de los casos.
+
+ Pronóstico
+El pronóstico de las muelas del juicio retenidas depende de la profundidad de la impactación. Cuando carecen de comunicación con la boca, el principal riesgo es la posibilidad de que se forme un quiste o una neoplasia en los tejidos que rodean el diente (como el folículo dental), lo cual es relativamente infrecuente.
+
+Una vez comunicadas con la boca, no se puede predecir la aparición de enfermedades o síntomas, pero la probabilidad de que se produzcan aumenta con la edad. Menos del 2% de las muelas del juicio están libres de enfermedad periodontal o caries a los 65 años. Además, varios estudios han descubierto que entre el 30% y el 60% de las personas con muelas del juicio previamente asintomáticas se las extraerán debido a síntomas o enfermedad, entre 4 y 12 años después del examen inicial.
+
+La extracción de las muelas del juicio elimina la enfermedad en la propia muela del juicio y también parece mejorar el estado periodontal del segundo molar, aunque este beneficio disminuye después de los 25 años.
+
+ Epidemiología
+Pocos estudios han analizado el porcentaje del tiempo en que están presentes las muelas del juicio o la tasa de erupción de las mismas. La falta de hasta cinco dientes (excluidos los terceros molares, es decir, las muelas del juicio) se denomina hipodoncia. La falta de terceros molares se da en el 9-30% de las poblaciones estudiadas. Un estudio a gran escala sobre un grupo de adultos jóvenes en Nueva Zelanda mostró que el 95,6% tenía al menos una muela del juicio, con una tasa de erupción del 15% en el maxilar y del 20% en la mandíbula. Otro estudio sobre 5.000 reclutas del ejército encontró 10.767 muelas del juicio impactadas. La frecuencia de terceros molares inferiores impactados fue del 72% en un estudio sueco, y la frecuencia de muelas del juicio impactadas retenidas que no presentan enfermedad ni síntomas se estima entre el 11,6% y el 29%, porcentaje que disminuye con la edad.
+
+La incidencia de extracción de muelas del juicio se estimaba en 4 por 1000 años-persona en Inglaterra y Gales antes de las directrices NICE de 2000.
+
+ Historia
+
+Las muelas del juicio aparecen descritas en los textos antiguos de Platón e Hipócrates. La frase «muelas del juicio» procede del latín , que a su vez deriva del término del griego antiguo  , cuya raíz es  , que significa «prudente».
+
+Charles Darwin creía que las muelas del juicio disminuían con la evolución, una teoría que su contemporáneo, Paolo Mantegazza, demostró más tarde que era falsa cuando descubrió que Darwin no abría los maxilares de los especímenes para encontrar el diente impactado atascado en la mandíbula.
+
+A finales del  y principios del , la colisión de la técnica estéril, la anestesia y la radiología hizo posible la cirugía rutinaria de las muelas del juicio. El texto de John Tomes de 1873, A *System of Dental Surgery*, describe técnicas para la extracción de los "terceros molares, o dentes sapientiæ", incluyendo descripciones de lesiones del nervio alveolar inferior, fractura de mandíbula y dilatación de la pupila tras la introducción de opio en el alveolo. Otros textos de esta época especulan sobre su desevolución, que son propensos a la caries y discuten sobre si provocan o no el apiñamiento de los demás dientes.
+
+ Referencias

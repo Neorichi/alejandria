@@ -1,0 +1,60 @@
+---
+type: Artículo de enciclopedia
+title: Tratamiento del cáncer de mama
+description: El tratamiento del cáncer de mama es multidisciplinario, es decir precisa la combinación de diversas modalidades o disciplinas terapéuticas para conseguir un control eficaz de la enfermedad.
+resource: https://es.wikipedia.org/wiki/Tratamiento_del_cáncer_de_mama
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Tratamiento_del_cáncer_de_mama"}
+license: CC BY-SA 4.0
+id: eswiki-Tratamiento_del_cáncer_de_mama
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Tratamiento del cáncer de mama
+
+El **tratamiento del cáncer de mama** es multidisciplinario, es decir precisa la combinación de diversas modalidades o disciplinas terapéuticas para conseguir un control eficaz de la enfermedad. Las modalidades terapéuticas contra el cáncer de mama son la cirugía, la radioterapia, la quimioterapia, la hormonoterapia y la terapia biomolecular. Las dos primeras actúan a nivel local, es decir sobre la enfermedad en la mama y los ganglios linfáticos y constituyen el tratamiento de elección en la enfermedad localizada no metastásica. Las restantes actúan tanto a nivel local, como general de todo el organismo, en lo que se denomina tratamiento sistémico, y se utilizan de forma complementaria al tratamiento local con cirugía y/o radioterapia o como tratamiento de primera elección en la enfermedad metastásica o diseminada.
+
+ Cirugía
+La **cirugía** tiene como finalidad extirpar el tumor en su totalidad a nivel local, es decir a nivel de la mama y de los ganglios linfáticos. El primer tratamiento quirúrgico eficaz fue la mastectomía asociada a la extirpación de los ganglios linfáticos axilares, introducida a finales del  y principios del XX. Ha de tenerse en cuenta que, en esta época, habitualmente resultaba el único tratamiento quirúrgico factible, ya que las pacientes solían consultar en una fase avanzada, con un desarrollo tumoral importante. Además existía la creencia que una alta radicalidad de la cirugía contribuía a evitar metástasis a distancia al eliminar posibles residuos tumorales en la mama aparentemente sana o en los ganglios linfáticos, que representaban un primer escalón de la enfermedad a partir del cual, posteriormente, se diseminaba a otros órganos en forma de metástasis a distancia.
+
+En el último cuarto de  se comenzó a considerar la posibilidad de tratar localmente la enfermedad mamaria extirpando solo la parte de la glándula en la que se había desarrollado el tumor, dando lugar al concepto de cirugía conservadora de la mama. Esta consideración se debió a diversos factores. En primer lugar la mayor educación sanitaria dio lugar a que las pacientes consultasen con tumores más pequeños que podían erradicarse extirpando una proporción de la glándula lo suficientemente pequeña como para permitir una secuela estética aceptable. Este hecho se acentuó cuando el diagnóstico precoz de las campañas poblacionales de cribaje con mamografía que permitió la identificación de tumores antes de que se manifestaran como tumores palpables. En segundo lugar la consciencia en la comunidad científica de que la enfermedad podía comenzar a diseminarse desde sus primeras fases y que por tanto una mayor radicalidad de la cirugía era limitada para evitar la enfermedad a distancia. En tercer lugar el desarrollo y la introducción de otros medios terapéuticos como la quimioterapia o la hormonoterapia que permitían abordar el tratamiento de la enfermedad a distancia, en el que la mayor radicalidad de la cirugía había fracasado. En la actualidad estos tratamientos complementarios se aplican en la inmensa mayoría de casos después de la cirugía.
+
+La aceptación de la cirugía conservadora de la mama se consolidó en los años 1980 cuando diversos estudios con un elevado número de casos evaluados, demostraron una supervivencia a largo plazo de las pacientes tratadas con cirugía conservadora similar a la de los tratados con mastectomía, cuando se cumplían los criterios de disponer de un margen de sección sano sin células tumorales en contacto o proximidad inmediata a este margen y cuando no había sospecha o evidencia de enfermedad tumoral en localizaciones múltiples de la mama, la denominada multicentricidad. Otro concepto importante de estos estudios es que el tratamiento quirúrgico conservador debe asociase prácticamente siempre con radioterapia sobre la totalidad de la mama, con sobredosis en el lecho tumoral, ya que de lo contrario la probabilidad de reproducción local asciende excesivamente. El beneficio de la radioterapia parece existir incluso en la forma más inicial de la historia natural de la enfermedad, la del carcionoma intraductal, en el que un tratamiento adecuado permite una supervivencia a largo plazo en casi el 100% de los casos.
+
+La cirugía de mama presenta diferentes técnicas. Existe actualmente la tendencia a practicar una cirugía tan conservadora como sea posible. La resección de una parte limitada de la mama que contiene el tumor se denomina tumorectomía o lumpectomía. Antes de que un tumor se logre palpar en una revisión clínica a veces es identificado en la mamografía. La extirpación de los tumores no palpables precisa realizar una técnica de marcaje del sitio donde se observa la lesión que guie la cirugía, ya sea con la inserción asistida por ecografía o mamografía de un fino fiador metálico, como técnica más extendida, o mediante otras técnicas como la ecografía intra- operatoria, la tinción del trayecto de acceso o la más reciente consistente en la detección del isótopo utilizado para la biopsia de ganglio centinela (Técnica ROLL o SNOLL). No existe una unanimidad establecida sobre la magnitud del margen mínimo aceptable para la cirugía conservadora, variando según autores y escuelas entre 1 y 3 mm. En tumores que exigen una mayor demolición glandular, en ocasiones se puede conseguir un tratamiento conservador con la cuadrantectomía, donde se reseca la cuarta parte de la mama.
+
+La mastectomía, a pesar de ser indicada en una minoría de casos, no constituye una proporción pequeña o marginal de la cirugía por cáncer de mama, representando el tratamiento quirúrgico indicado en el 20 al 40% de los casos. Ello se debe que su indicación no solo es necesaria por diagnóstico de tumores localmente avanzados, sino también por enfermedad multicéntrica o por enfermedad en fases precoces, incluso de cáncer de mama no palpable y de carcinoma intraductal, que presenten una afectación extensa y no localizada, a pesar de que no hayan experimentado un crecimiento que se manifieste en masas con volumen tumoral.
+
+El tratamiento quirúrgico del cáncer de mama también se propone el tratamiento de los ganglios linfáticos axilares. Por ello, hasta muy recientemente el tratamiento normativo tanto de la mastectomía como de la cirugía conservadora, incluía la extirpación sistemática de los ganglios linfáticos de la axila, que constituye la técnica del vaciamiento axilar o linfadenectomia axilar. Esta se indicaba aunque no existiese evidencia o sospecha de afectación, salvo en el carcinoma intraductal o ductal in situ en el que se considera que esta afectación es excepcional. El diagnóstico precoz ha permitido la identificación de tumores pequeños en los que la probabilidad de metástasis linfáticas axilares, aunque posible, representa una fracción minoritaria de casos. Para evitar vaciamientos ganglionares innecesarios y su correspondiente secuela se ha desarrollado la biopsia del ganglio centinela, en la que la inyección de isótopos o colorantes en la mama que migran al primer ganglio de relevo del tumor, el cual se denomina ganglio centinela, permiten la identificación del mismo. Se reseca dicho ganglio, se procede a su biopsia y estudio histológico y si solo si se demuestra tumor se procede a resecar todos los ganglios de la axila.
+
+La cirugía como primera elección se considera contraindicada en el tratamiento del cáncer de mama en la mayoría de casos de afectación de estructuras vecinas, incluida la piel (estadio T4 de la clasificación TNM), en la enfermedad metastática diseminada y en el carcinoma inflamatorio. En estos casos la cirugía se indica de forma secundaria como tratamiento de rescate de la enfermedad local después de otros tratamientos como la quimioterapia, la hormonoterapia y la radioterapia como terapéutica primaria de elección.
+
+ Quimioterapia
+Las modalidades de aplicación de la quimioterapia en las pacientes con cáncer de mama pueden ser las siguientes:
+
+ Quimioterapia Neoadyuvante
+Es la quimioterapia que se administra antes de la cirugía. Está indicada en los cánceres de mama localmente avanzados, y en aquellos que midan más de 3 cm o que tengan adenopatías axilares. Se suele utilizar adriamicina y taxanos. El principal objetivo de la neadyuvancia es  la disminución del tamaño tumoral para practicar una cirugía conservadora y la valoración de la respuesta a la quimioterapia para posteriores tratamientos.
+
+ Quimioterapia Adyuvante
+La quimioterapia adyuvante es la que se administra después de la cirugía. Su indicación depende de los factores pronóstico clásicos que son la edad, el tamaño tumoral, la afectación ganglionar axilar, el grado de diferenciación celular (grado histológico) y los receptores hormonales. Si los ganglios axilares son negativos de infiltración tumoral las pacientes se clasifican en bajo y medio-alto riesgo. Las de bajo riesgo (receptores hormonales positivos, tumores menores de 2 cm, grado medio-alto I histológico y mayores de 35 años no son susceptibles de quimioterapia adyuvante. Las de riesgo (receptores hormonales negativos o receptores hormonales positivos pero con grado II-III histológico y tumores mayores de 2 cm), se benefician de la quimioterapia adyuvante. Las pacientes con ganglios axilares positivos, siempre se benefician de la quimioterapia adyuvante, excepto en mujeres mayores (70-75 años) o que padezcan otras enfermedades que contraindique la quimioterapia.
+
+ Quimioterapia Paliativa
+La quimioterapia ante una enfermedad diseminada o recaída está indicada de primera línea ante receptores hormonales negativos, enfermedad visceral, intervalo corto desde la cirugía o sintomatología relacionada con la recaída o la metástasis.
+
+ Radioterapia
+La radioterapia adyuvante tras cirugía está indicada en dos situaciones:
+
+ Radioterapia tras cirugía conservadora de la mama
+La radioterapia del cáncer de mama siempre está indicada ante una cirugía conservadora de la mama pues disminuye la probabilidad de recaída local. La irradiación de las regiones ganglionares adyacentes, sobre todo de la fosa supraclavicular, depende de la presencia de adenopatías en el vaciamiento axilar. Si ha tenido de 1 a 3 adenopatías, se irradiará la fosa supraclavicular ante dos de los tres siguientes factores pronóstico: grado III histológico, receptores hormonales negativos o mujer premenopáusica o menor de 40 años. Si tiene más de 3 ganglios infiltrados en la axila siempre se irradia la fosa supraclavicular.
+La dosis de irradiación oscila entre los 45 y 50 Gray, más una sobredosificación en el lecho tumoral entre 10 y 16 Gy.
+
+ Radioterapia tras mastectomía radical
+La pared costal restante tras mastectomía, la fosa supraclavicular y la cadena ganglionar de la mamaria interna se irradiará si existen más de 3 ganglios axilares infiltrados, si el tamaño tumoral es mayor de 5 cm o es T4. Si solo se existen entre 1 y 3 adenopatías en la axila, existe indicación de radioterapia tras mastectomía de la pared costal y la fosa supraclavicular si se cumplen dos de los tres factores de mal pronóstico como grado III histológico, menor de 40 años o premenopáusica y receptores hormonales negativos.
+
+ Radioterapia paliativa
+Está indicada ante metástasis que generalmente producen dolor, sobre todo las metástasis óseas y cerebrales.
+
+Referencias

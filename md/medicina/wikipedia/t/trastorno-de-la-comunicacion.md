@@ -1,0 +1,51 @@
+---
+type: Artículo de enciclopedia
+title: Trastorno de la comunicación
+description: Los trastornos de la comunicación son trastornos del discurso y del lenguaje que se refieren a problemas en la comunicación y áreas relacionadas, como la función motora oral.
+resource: https://es.wikipedia.org/wiki/Trastorno_de_la_comunicación
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Trastorno_de_la_comunicación"}
+license: CC BY-SA 4.0
+id: eswiki-Trastorno_de_la_comunicación
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Trastorno de la comunicación
+
+- **Nombre:** Trastorno de la comunicación
+- **Meshid:** D003147
+
+Los **trastornos de la comunicación** son trastornos del discurso y del lenguaje que se refieren a problemas en la comunicación y áreas relacionadas, como la función motora oral. Los retrasos y trastornos pueden ir desde la sustitución de sonidos simples a la incapacidad de comprender o utilizar su lengua materna.
+
+ Criterios diagnósticos
+Las personas que padecen del trastorno de la comunicación tienen dificultades con la pragmática (disciplina que estudia el lenguaje en relación con el acto del habla y las circunstancias de la comunicación). Estas personas no entienden el ir venir de una conversación, otros interrumpen constantemente y algunos simplemente no se deciden a hablar.
+Los trastornos de la comunicación generalmente se diagnostican en la infancia o la adolescencia, aunque pueden persistir hasta la edad adulta (DSM-IV-TR, Rapoport DSM-IV Guía de Capacitación para el diagnóstico de trastornos de la infancia). También puede ocurrir con otros trastornos.
+
+El diagnóstico implica la prueba y evaluación durante el cual se determina si los resultados o rendimiento son "sustancialmente inferior" a las expectativas de desarrollo y si "significativamente" interfieren el rendimiento académico, las interacciones sociales y la vida diaria. Esta evaluación también puede determinar si la característica es desviada o retrasada. Por lo tanto, puede ser posible que una persona tenga problemas de comunicación, pero no cumplen con los criterios del DSM de ser "sustancialmente inferiores" (DSM IV-TR).
+
+También hay que señalar que las categorías del DSM no constituyen una lista completa de todos los trastornos de la comunicación, por ejemplo, desórdenes del procesamiento auditivo (ASD) no se clasifican en el DSM o CIE-10.
+
+  Trastornos de la comunicación (DSM-IV)
+ Trastorno del lenguaje expresivo: caracterizado por la dificultad para expresarse más allá de oraciones simples y un vocabulario limitado.
+ Trastorno mixto del lenguaje receptivo-expresivo: problemas para comprender las demandas de los demás.
+ Tartamudeo: un trastorno del habla caracterizado por una ruptura en la fluidez, en donde los sonidos, sílabas o palabras pueden ser repetidos o prolongados.
+ Trastorno fonológico: errores de la producción, utilización, representación u organización de los sonidos, tales como: sustituciones de un sonido por otro (utilización del sonido /t/ en lugar de /k/ u omisiones de sonidos tales como consonantes finales).
+ Trastorno de la comunicación no especificado: en el que los trastornos dentro de la categoría no cumplen con los criterios específicos para la enfermedad mencionados anteriormente.
+
+ Tratamiento
+El tratamiento debe plantearse desde una perspectiva multidisciplinar, estableciendo una coordinación terapéutica permanente entre los diferentes profesionales implicados en la asistencia y la familia, con el propósito de alcanzar objetivos comunes, reducir las dificultades específicas y favorecer el desarrollo integral.
+
+El tratamiento más destacable es la logopedia y su intervención ha de ser  multifuncional e iniciarse lo antes posible ya que se trata de un proceso de reeducación individualizado y específico. El objetivo primordial ha de ser ofrecer herramientas para comunicarse competentemente a pesar de las dificultades del lenguaje y programar una terapia sobre todos aquellos aspectos específicos que están más alterados, teniendo en cuenta los síntomas según el grado de desarrollo del niño y su estadio evolutivo.
+
+En los casos más graves y de larga duración, la relación coste/beneficio debe valorarse, pues los niños con dificultades crónicas importantes pueden requerir múltiples tratamientos de carácter psicopedagógico, psicológico o fisioterapéutico.
+
+Una intervención logopédica eficaz supone mejorar la rehabilitación de los moduladores más directamente relacionados con el lenguaje en sí mismo y su pronóstico en lo referente a aprendizajes, funciones cognitivas, relación social y comunicación, desempeñando un papel muy relevante la aplicación de estrategias integradas en la vida cotidiana del niño, tanto en el entorno familiar como escolar.
+
+El tratamiento farmacológico en principio no está indicado en los trastornos de la comunicación a no ser que concurran con algún trastorno comórbido (p.ej. ansiedad) o un factor que contribuya al trastorno o haya surgido como reacción a este13. Además, no hay indicación específica de ningún medicamento para tratar los trastornos de la comunicación.
+
+ Referencias
+
+ https://www.aepap.org/sites/default/files/pags._569-577_trastornos_del_lenguaje_y_la_comunicacion.pdf

@@ -1,0 +1,67 @@
+---
+type: Artículo de enciclopedia
+title: Ala (zoología)
+description: "Las alas son extremidades o apéndices que poseen solamente tres grupos de animales: insectos, aves, quirópteros y, antiguamente, los pterosaurios."
+resource: https://es.wikipedia.org/wiki/Ala_(zoología)
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Ala_(zoología)"}
+license: CC BY-SA 4.0
+id: eswiki-Ala_(zoología)
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Ala (zoología)
+
+Las **alas** son extremidades o apéndices que poseen solamente tres grupos de animales: insectos, aves, quirópteros y, antiguamente, los pterosaurios. Normalmente las alas se utilizan para volar, aunque no todos los animales que las poseen son capaces de mantenerse en el aire.
+
+Algunos animales tienen membranas entre las patas y el cuerpo (como los dermópteros), o entre los dedos (como la rana voladora) o entre costillas móviles (el reptil *Draco volans*), pero no son suficientes para ejercer el vuelo y no se denominan alas; con ellas solamente pueden planear.
+
+ Insectos
+
+En los insectos las alas (uno o dos pares) son expansiones del tórax. En los insectos, solo los adultos tienen alas en número, por regla general, de dos pares, membranosas con nervaciones reticuladas más o menos abundantes, transparentes o con coloraciones y matices diversos y plegables o no según que permanezcan o no extendidas durante el reposo. En algunos órdenes (coleópteros y ortópteros) tienen el primer par de alas formado de una sustancia coriácea y córnea y entonces a estas alas se les llama *élitros*. En los lepidópteros (mariposas) las alas son mucho mayores que en los demás órdenes. Se hallan recubiertas de un polvillo finísimo formado de un gran número de escamas de diverso color a las cuales se debe la hermosa coloración de las mariposas.
+
+Los caracteres de las alas han servido a los entomólogos para clasificar los insectos por órdenes:
+
+ Coleópteros, con alas anteriores endurecidas formando un estuche (*koleos*, "estuche" y *pteron*, "ala").
+ Dípteros, con solo un par de alas, las anteriores, ya que las posteriores están modificadas como balancines (*di*, "dos").
+ Lepidópteros, con alas cubiertas de escamas (*lepidos*, "escama").
+ Tricópteros, con alas cubiertas de pelos (*trichós*, "pelo").
+ Isópteros, con las cuatro alas iguales (*isos*, "igual").
+ Ortópteros, con las alas rectas (*orthós*, "recto").
+
+ Aves
+
+En las aves las extremidades anteriores son las que les permiten el vuelo y portan las plumas que forman la superficie sustentadora que les permite volar.
+
+Las plumas remeras son las grandes plumas de las aves, las que mayor importancia tiene a la hora de volar. Combinan robustez, ligereza y flexibilidad.
+
+Las remeras primarias, es decir las plumas largas del borde del ala, son responsables en gran medida de la potencia del vuelo. Para seguir su rumbo, el ave puede abrir o cerrar las que se encuentran situadas en la parte más externa.
+
+Las remeras secundarias son, en general, cortas. Trabajan menos durante el vuelo, sus cañones son también más cortos y están menos firmemente ancladas en la carne. Excepto algunas plumas de parada nupcial, tienen una forma más regular que las remeras primarias.
+
+Las remeras secundarias se orientan en el sentido del viento. Por lo tanto, no necesitan tener una forma escorada para favorecer el empuje elevador como las remeras primarias.
+
+Las alas de las aves ofrecen una variedad extraordinaria. Las hay como las de los pingüinos que carecen de plumas y se hallan reducidas a verdaderos muñones aptos solo para la natación. Otras, como las del kiwi (*Apteryx*), son más rudimentarias aún y están cubiertas de plumaje similar a pelo. En los avestruces y algunas gallináceas, las alas se caracterizan por su escaso desarrollo. En cambio las aves de vuelo ofrecen un gran desarrollo, aun cuando presenten entre ellas notables diferencias pues las hay cortas, anchas y redondeadas en la punta y estrechas, alargadas y muy agudas en su extremidad. Por regla general, las aves de vuelo prolongado (grulla, oca, garza real, etc.) tienen las alas largas y anchas y las de vuelo rápido (golondrina, albatros, martinetes, etc.) las tienen largas pero mucho más estrechas.
+
+ Quirópteros
+
+En los mamíferos quirópteros (murciélagos) las extremidades anteriores y los dedos crean un soporte para una membrana que les permite el vuelo. Son los únicos mamíferos capaces de volar (vuelo activo, no planeo). El ala es una mano abierta cubierta por membrana (patagio), el vuelo es lento y de gran maniobrabilidad (a diferencia de las aves).
+
+Mitología
+
+Los antiguos griegos daban alas al amor, a la victoria y a otras divinidades que después han sido representadas sin ellas: tales como Minerva, Diana, Venus, etc.
+
+En muchos antiguos monumentos y principalmente en los llamados impropiamente etruscos, estas alas no son más que alegorías y el símbolo de la ligereza. Por la misma razón los poetas han dado alas a las serpientes de Ceres, al Pegaso, a los caballos de Pelops, al carro de Triptolemo, al rayo, al caduceo, etc. Estas alas son fijas o movibles; de las últimas son las de Mercurio aseguradas en su petaso o sombrero y en sus sandalias. Las de la victoria y de las furias suelen verse aseguradas con cintas sobre el pecho. Las alas, según Platón, son un jeroglífico de la inteligencia; y las alas de oro que el pretendido Orfeo da al primer hijo de Saturno, son según Kirquer el símbolo de la sabiduría del alma del mundo con arreglo a las ideas platónicas.
+
+Expresiones relacionadas
+*Cortarle las alas o las plumas a un buque*, desarbolarlo de todos o de alguno de los palos o masteleros con el fuego de la artillería en un combate.
+*Dar alas*, animar, alentar, excitar con el ejemplo o haciendo la vista gorda, etc.; casi siempre se toma en mal sentido, sin embargo, puede tenerlo muy sublime como al decir *dadle alas al genio*
+*Caérsele a alguien las alas del corazón*, desmayar, desfallecer, faltar el ánimo y constancia por algún contratiempo, infortunio o adversidad
+*Cortar o quebrar las alas*, abatir los vuelos de cualquier presumido, poner coto a su soberbia, vanidad, etc., y también quitar el ánimo o aliento para hacer o solicitar algo
+
+ Referencias
+
+ Enlaces externos

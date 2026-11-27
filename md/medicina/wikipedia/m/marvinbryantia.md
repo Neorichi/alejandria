@@ -1,0 +1,30 @@
+---
+type: Artículo de enciclopedia
+title: Marvinbryantia
+description: Marvinbryantia es un género de bacterias grampositivas de la familia Lachnospiraceae.
+resource: https://es.wikipedia.org/wiki/Marvinbryantia
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Marvinbryantia"}
+license: CC BY-SA 4.0
+id: eswiki-Marvinbryantia
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Marvinbryantia
+
+- **Name:** Marvinbryantia
+- **Domain:** Bacteria
+- **Regnum:** Bacillati
+- **Phylum:** Bacillota
+- **Genus:** Marvinbryantia
+- **Ordo:** Eubacteriales
+- **Classis:** Clostridia
+- **Familia:** Lachnospiraceae
+- **Species:** Marvinbryantia formatexigens
+
+***Marvinbryantia*** es un género de bacterias grampositivas de la familia Lachnospiraceae. Actualmente sólo contiene una especie: ***Marvinbryantia formatexigens***. Fue descrita en el año 2008. Su etimología hace referencia al microbiólogo americano Marvin P. Bryant. El nombre de la especie hace referencia a la demanda de formato. Es inmóvil y anaerobia estricta. Anteriormente fue llamada *Bryantella formatexigens*, pero el nombre no fue válido. Catalasa y oxidasa negativas. Tiene un tamaño de 0,7 μm de ancho por 1,2 μm de largo. Se ha aislado de heces humanas.
+
+ Referencias

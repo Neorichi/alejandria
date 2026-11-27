@@ -1,0 +1,58 @@
+---
+type: Artículo de enciclopedia
+title: Granuloma piógeno
+description: "Un granuloma piógeno o hemangioma capilar lobular es un tumor vascular que se presenta tanto en la mucosa como en la piel, y aparece como un crecimiento excesivo de tejido debido a irritación, trauma físico o factores …"
+resource: https://es.wikipedia.org/wiki/Granuloma_piógeno
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Granuloma_piógeno"}
+license: CC BY-SA 4.0
+id: eswiki-Granuloma_piógeno
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Granuloma piógeno
+
+- **Nombre:** Granuloma piógeno
+- **Especialidad:** Dermatología
+- **Sinónimos:** Hemangioma capilar lobular, fibroma piógeno, tumor del embarazo
+
+Un **granuloma piógeno** o **hemangioma capilar lobular** es un tumor vascular que se presenta tanto en la mucosa como en la piel, y aparece como un crecimiento excesivo de tejido debido a irritación, trauma físico o factores hormonales. En ocasiones se encuentra en las encías, la piel, o el tabique nasal, también se ha encontrado lejos de la cabeza, como en los muslos.
+
+Los granulomas piógenos pueden observarse a cualquier edad, y son más comunes en mujeres que en hombres. En mujeres embarazadas, las lesiones pueden presentarse en el primer trimestre con una incidencia creciente hasta el séptimo mes y a veces se observan en las encías.
+
+ Signos y síntomas
+La apariencia del granuloma piógeno es generalmente de un color que va del rojo/rosa al morado, crece rápidamente y puede ser liso o tener forma de hongo. Es más probable que las lesiones recientes sean rojas debido a su gran cantidad de vasos sanguíneos. Las lesiones que tienen más tiempo cambian a un color rosa. Generalmente el tamaño varía de unos cuantos milímetros a centímetros, aunque pueden aparecer lesiones más pequeñas o grandes. Un granuloma piógeno puede ser doloroso, especialmente si está localizado en una zona del cuerpo en donde es perturbado constantemente. Los granulomas piógenos pueden crecer rápidamente y en ocasiones sangrar abundantemente con poco o ningún traumatismo. Pueden exudar una sustancia similar al aceite, provocando que la superficie esté húmeda. Esto ocurre especialmente si el granuloma se encuentra en el cuero cabelludo.
+
+El épulis granulomatoso es una variante del granuloma piógeno que se forma solo en la encía y, en ocasiones, se observa formándose en el alvéolo después de una extracción reciente. Los granulomas piógenos aparecen en la encía en el 75% de casos, más frecuentemente en el maxilar que en la mandíbula. Las zonas anteriores se ven afectadas con mayor frecuencia que las posteriores. También puede ser encontrado en los labios, la lengua y la parte interna de las mejillas. La mala higiene bucal o los traumatismos suelen ser factores precipitantes.
+
+Un estudio ha sugerido una correlación entre los granulomas piógenos y la seropositividad a *Bartonella*. Sin embargo, esta asociación ha sido cuestionada por otros. La apariencia microscópica de un granuloma piógeno consiste en tejido de granulación altamente vascularizado, hay inflamación presente. La lesión puede tener un carácter fibroso si es más antigua y la superficie puede tener ulceraciones. Los granulomas piógenos rara vez aparecen en la conjuntiva, la córnea o el tejido conjuntivo del ojo después de un traumatismo local menor.
+
+ Enfermedades asociadas
+Debido a su frecuente incidencia en la encía a menudo es asociada con el granuloma periférico de células gigantes y el fibroma osificante periférico las cuales son enfermedades que de igual manera aparecen la encía. Se debe realizar un análisis detallado para distinguir entre estas condiciones.
+
+ Causa
+Los granulomas piógenos son causados por la proliferación de capilares y no son causados por infección o cáncer.
+
+ Diagnóstico
+
+Es probable que un médico pueda diagnosticar un granuloma piógeno según su apariencia y podría realizar una biopsia para hacer un diagnóstico más preciso. Una biopsia también ayuda a descartar afecciones médicas malignas (cancerosas) que pueden causar un tipo similar de crecimiento. Estas afecciones incluyen el carcinoma de células escamosas, el carcinoma de células basales y el melanoma.
+
+Un examen histopatológico de un granuloma piógeno mostraría múltiples capilares (debido a la naturaleza vascular del tumor), neutrófilos y tejido necrótico.
+
+ Tratamiento
+Aunque los granulomas piógenos no son infecciosos ni cancerosos, se puede considerar el tratamiento debido al sangrado o la ulceración. Con frecuencia, se tratan con electro desecación (cauterización) y legrado (escisión), aunque el tratamiento con láser de colorante pulsado o láser de CO2 suele ser eficaz.
+
+Varios informes han demostrado la eficacia de la aplicación tópica del antagonista beta-adrenérgico timolol en el tratamiento del granuloma piógeno pediátrico.
+
+Por lo general, no se utiliza ningún tratamiento si el granuloma piógeno ocurre durante el embarazo, ya que la lesión puede curarse espontáneamente. Sin embargo, el sangrado recurrente en lesiones orales o nasales puede requerir una previa escisión y cauterización. Si la estética es una preocupación, entonces se puede priorizar el tratamiento. Por lo general, es posible que solo se necesite una cirugía menor, junto con una limpieza dental de las lesiones bucales para eliminar cualquier cálculo u otra fuente de irritación.
+
+ Historia
+Los granulomas piógenos fueron descritos por primera vez en 1897 por dos cirujanos franceses, Antonin Poncet y L. Dor, quienes denominaron a estas lesiones como *botriomicosis hominis*.
+
+ Terminología
+El nombre "granuloma piógeno" es engañoso, ya que no es ni piógeno ni un verdadero granuloma. Más bien, se trata de un hemangioma capilar de subtipo lobular, por lo que dicha lesión es propensa a sangrar. Tampoco es verdaderamente piógeno (productor de pus), ya que la causa es hormonal o traumática y no tiene asociación con infección o producción de pus.
+
+ Referencias

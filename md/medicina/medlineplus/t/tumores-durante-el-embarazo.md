@@ -1,0 +1,26 @@
+---
+type: Tema de salud
+title: Tumores durante el embarazo
+description: Los tumores en el embarazo son raros. El tratamiento depende del tipo de tumor, si éste se ha diseminado a otras partes del cuerpo y su estado de salud.
+resource: https://medlineplus.gov/spanish/tumorsandpregnancy.html
+tags: [salud, medlineplus, Cánceres, Embarazo y reproducción]
+sources:
+  - {"id": "medlineplus", "resource": "https://medlineplus.gov/spanish/tumorsandpregnancy.html", "title": "MedlinePlus en español", "author": "org:nlm", "last_modified": "2026-11-24T02:30:05Z"}
+license: "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU. (NLM). Resúmenes de dominio público; cita la fuente."
+id: medlineplus-5535
+english: Tumors and Pregnancy
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Tumores durante el embarazo
+
+- **También se llama:** Cáncer durante el embarazo
+- **Grupo:** Cánceres, Embarazo y reproducción
+
+Los tumores durante el [embarazo](/medicina/medlineplus/e/embarazo.md) son raros, pero ocurren. Los tumores pueden ser benignos (no cancerosos) o malignos (canceroso). Los cánceres más comunes en el embarazo incluyen el de [mama](/medicina/medlineplus/c/cancer-de-seno.md), de [tiroides](/medicina/medlineplus/c/cancer-de-tiroides.md), de [cuello uterino](/medicina/medlineplus/c/cancer-de-cuello-uterino.md), [linfoma](/medicina/medlineplus/l/linfoma.md) y [melanoma](/medicina/medlineplus/m/melanoma.md). El cáncer raras veces afecta al feto y algunos tratamientos son seguros durante el embarazo. Usted y su profesional de la salud colaborarán para encontrar el mejor tratamiento. Sus opciones dependerán de cuán avanzado esté su embarazo, así como también el tipo, tamaño y estadio del cáncer.
+
+Otro tipo de tumor es la enfermedad trofoblástica de la gestación. Ocurre cuando el feto no se desarrolla luego de la unión del óvulo y del esperma. Esta enfermedad no siempre es fácil de detectar. Generalmente es benigno pero algunos tipos pueden ser malignos. El tipo más común de la enfermedad trofoblástica gestacional es el embarazo molar. En sus estadios más tempranos, puede parecer como un embarazo normal. Deber ver a su proveedor de atención médica si tiene sangrado vaginal (no menstruación).
+
+El tratamiento depende el tipo de tumor, si se diseminó a otros lugares y su estado de salud general.

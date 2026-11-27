@@ -1,0 +1,99 @@
+---
+type: Artículo de enciclopedia
+title: Cloxacilina
+description: La cloxacilina es un antibiótico betalactámico, del grupo de las penicilinas, resistente a las betalactamasas bacterianas y de uso preferente intramuscular.
+resource: https://es.wikipedia.org/wiki/Cloxacilina
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Cloxacilina"}
+license: CC BY-SA 4.0
+id: eswiki-Cloxacilina
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Cloxacilina
+
+- **Número cas:** 61-72-3
+- **Prefijo atc:** J01
+- **Sufijo atc:** CF02
+- **Pubchem:** 6098
+- **Chebi:** 49566
+- **Drugbank:** APRD00882
+- **C:** 19
+- **H:** 18
+- **N:** 3
+- **O:** 5
+
+La **cloxacilina** es un antibiótico betalactámico, del grupo de las penicilinas, resistente a las betalactamasas bacterianas y de uso preferente intramuscular.
+
+ Farmacocinética
+
+ Vías de administración (formas de uso)
+Intramuscular, intravenosa y oral.
+ Absorción
+Tras la inyección intramuscular se alcanzan concentraciones plasmáticas máximas al cabo de 45 minutos.
+ Distribución
+La unión a proteínas es muy elevada, en torno al 95-97%. El volumen de distribución de cloxacilina sódica es de 0,1 l/ kg.
+Se distribuye ampliamente en la mayoría de los fluidos corporales, incluyendo, entre otros, fluido amniótico, líquido sinovial y tejido óseo. Atraviesa la placenta y la barrera hematoencefálica, aunque difunde en pequeña proporción en el líquido cefalorraquídeo de sujetos cuyas meninges no están inflamadas. Los estados inflamatorios aumentan generalmente la permeabilidad de la barrera hematoencefálica a las penicilinas y esto es aplicable a la cloxacilina sódica.
+
+La cloxacilina se excreta por leche materna.
+
+ Metabolismo y metabolitos
+La cloxacilina sódica sufre biotransformación hepática en un 9-22%. Aproximadamente el 30-45 % de cloxacilina sódica se excreta inalterada.
+
+ Excreción
+Se elimina vía renal, mediante secreción tubular y filtración glomerular, variando la eliminación según el grado de unión a proteínas. Disminuida por el probenecid, en niños pequeños y en la insuficiencia renal.
+
+También se excretan pequeñas cantidades por heces y bilis.
+
+Su vida media es de 0,5-1,1 horas
+
+ Farmacodinámica
+
+ Mecanismo de acción
+Su mecanismo de acción es similar al de resto de las penicilinas actuando sobre la pared celular e inhibiendo una serie de enzimas (transpeptidasas y carboxipeptidasas), lo  que impide la síntesis de peptidoglicano y la formación de enlaces cruzados necesarios para la pared celular bacteriana.
+
+ Interacciones
+
+ Uso clínico
+La cloxacilina sódica es activa, principalmente,  frente a las siguientes bacterias:
+ *Streptococcus pyogenes*.
+ *Streptococcus pneumoniae*.
+ *Staphylococcus aureus* resistentes y sensibles a bencilpenicilina (Penicilina G).
+ *Staphylococcus epidermidis*.
+ *Bacillus anthracis*.
+ *Neisseria meningitidis*.
+ *Neisseria gonorrhoeae* (cepas productora y no productoras de penicilinasa).
+ Algunas cepas de *Haemophilus influenzae*.
+
+ Indicaciones
+ Infecciones de la piel y tejidos blandos: forunculosis, heridas y quemaduras infectadas, celulitis y piomiositis.
+ Mastitis.
+ Infecciones osteoarticulares tales como artritis séptica y osteomielitis.
+ Sepsis.
+ Endocarditis.
+ Meningitis.
+
+ Efectos adversos
+Para la valoración de las reacciones adversas (RAM) se tendrán en cuenta los criterios de la CIOSM.
+
+ Contraindicaciones
+ Alergia a penicilinas.
+ Embarazo: Categoría B. No se dispone de datos clínicos controlados de cloxacilina  en mujeres embarazadas expuestas. La administración durante el embarazo solo debe considerarse si el beneficio esperado para la madre es mayor que cualquier posible riesgo para el feto.
+ Precaución en mujeres lactantes.
+
+ Presentaciones
+Suele presentarse en forma de viales liofilizados con ampollas de agua destilada para su reconstitución. Tras la misma ha de usarse en 24 horas si se conserva a temperatura ambiente (25 °C) o 72 horas si se mantiene refrigerado.
+
+ Véase también
+ Clases de antibióticos
+ Patogenicidad bacteriana
+ Referencias
+Notas
+
+Bibliografía
+ Guía de terapéutica antimicrobiana 2008. Mensa J, Gatell J Mª, Azanza J R, et al. Elsevier Doyma. 2008. ISBN 978-84-458-1813-8.
+ Goodman & Gilman. Las bases farmacológicas de la Terapéutica . Brunton L, Parker K. 2006. ISBN 970-10-5739-2.
+ Antibiotic essentials. Cunha BA. Physicians´Press 2007.

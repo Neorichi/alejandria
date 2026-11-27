@@ -1,0 +1,55 @@
+---
+type: Artículo de enciclopedia
+title: ZMapp
+description: ZMapp es un suero inmunológico experimental que contiene tres anticuerpos monoclonales y se emplea en el tratamiento de la infección por el Virus del Ébola.
+resource: https://es.wikipedia.org/wiki/ZMapp
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/ZMapp"}
+license: CC BY-SA 4.0
+id: eswiki-ZMapp
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# ZMapp
+
+**ZMapp** es un suero inmunológico experimental que contiene tres anticuerpos monoclonales y se emplea en el tratamiento de la infección por el Virus del Ébola.
+
+Saltándose las etapas habituales en el desarrollo de un medicamento y sus correspondientes ensayos clínicos,  el 31 de julio de 2014 el fármaco fue probado por primera vez en humanos afectados por el brote de Ébola en África Occidental de 2014. Fue administrado a dos ciudadanos estadounidenses, coooperantes en Liberia -Kent Brantly y Nancy Writebol-, que habían sido infectados por el ébola; en ambos parece que el tratamiento ha sido positivo.
+
+El 9 de agosto de 2014 llegaba desde Ginebra a España el fármaco y al día siguiente se hacía oficial que el sacerdote español Miguel Pajares, infectado por el virus en Liberia iba a ser tratado con ZMapp tras tramitarse con éxito las autorizaciones pertinentes. El 10 de agosto se confirmó que el enfermo ya recibía el tratamiento y el día 12 de agosto murió a causa de la fiebre hemorrágica del Ébola.
+
+El 12 de agosto de 2014 la Organización Mundial de la Salud (OMS) aprobó el uso de tratamientos experimentales para curar el ébola en África.
+
+ Desarrollo del medicamento
+
+El fármaco ZMapp ha sido desarrollado por la empresa estadounidense Mapp Biopharmaceutical Inc., como resultado de la colaboración entre Mapp Biopharmaceutical (San Diego), LeafBio (la empresaria filial comercializadora de Mapp Biopharmaceutical), Defyrus Inc. (Toronto), el Gobierno de los Estados Unidos y la 'Agencia Pública de Salud de Canadá' (Canadá). La investigación en el anticuerpo ZMapp tuvo su origen en proyectos de investigación financiados por el Ejército de Estados Unidos a principios del . La *Agencia de la Defensa para la Reducción de Amenazas* -Defense Threat Reduction Agency (DTRA)- anunció la aprobación de fondos adicionales para la investigación ante los "resultados prometedores".
+
+El 7 de agosto de 2014 la Organización Mundial de la Salud (WHO, por sus siglas en inglés) anunció la creación de un grupo expertos para explorar los nuevos tratamientos farmacológicos que están actualmente en fase de desarrollo, entre ellos el ZMapp.
+
+ Composición y producción de ZMapp
+
+El fármaco está compuesto de tres anticuerpos monoclonales humanizados producidos transgénicamente y cultivados en plantas de tabaco de la especie *Nicotiana benthamiana* (género Nicotiana).  El suero combina los componentes más idóneos de MB-003 (Mapp) y ZMAb (Defyrus/PHAC).
+El diseño actual del proceso incluye la colocación de los genes de los anticuerpos deseados en la planta *Nicotiana benthamiana*. La incorporación de los genes en la planta se produce gracias a *Agrobacterium* (conocido género de bacterias que causan tumores en las plantas y que poseen la capacidad natural para transferir ADN a las células vegetales, hecho que los científicos rápidamente aprovecharon para convertirla en una herramienta para la creación de plantas transgénicas mediante ingeniería genética). La planta, comienza entonces a crear anticuerpos que posteriormente se extraen y se purifican. El proceso dura en torno a las dos semanas. El ciclo completo de producción dura unos meses.
+
+Referencias
+
+ Véase también
+ Ébola
+Fiebre hemorrágica del Ébola
+Ébola (virus)
+Brote de Ébola en África Occidental de 2014
+ Anticuerpo monoclonal
+ :Categoría:Anticuerpos monoclonales
+ Ensayo clínico
+
+ Enlaces externos
+Official website of Mapp Biopharmaceutical
+El fármaco experimental para tratar el ébola llega al hospital Carlos III, Infolibre, 9 de agosto de 2014
+¿En qué consiste el tratamiento experimental contra el ébola?, El País, 7 de agosto de 2014
+África: detener el Ébola requiere acción masiva inmediata, Médicos sin Fronteras, publicado en Sin Permiso, 10 de agosto de 2014
+
+Literatura médica sobre  en Google Académico
+ Literatura médica sobre  en PubMed

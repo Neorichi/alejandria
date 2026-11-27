@@ -1,0 +1,56 @@
+---
+type: Artículo de enciclopedia
+title: Vestido de carne de Lady Gaga
+description: El vestido de carne fue una prenda confeccionada íntegramente con carne de vacuno cruda que la cantante estadounidense Lady Gaga usó el 12 de septiembre de 2010 durante los .
+resource: https://es.wikipedia.org/wiki/Vestido_de_carne_de_Lady_Gaga
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Vestido_de_carne_de_Lady_Gaga"}
+license: CC BY-SA 4.0
+id: eswiki-Vestido_de_carne_de_Lady_Gaga
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Vestido de carne de Lady Gaga
+
+El **vestido de carne** fue una prenda confeccionada íntegramente con carne de vacuno cruda que la cantante estadounidense Lady Gaga usó el 12 de septiembre de 2010 durante los . Gaga explicó que la prenda representaba la necesidad de luchar por aquello en lo que uno cree y manifestó su oposición a la política militar estadounidense *Don't ask, don't tell* (No preguntes, no lo digas), que restringía la participación de personas homosexuales en las Fuerzas Armadas. El diseñador argentino Franc Fernandez creó el vestido y Nicola Formichetti se encargó de su estilismo.
+
+La prenda recibió críticas de organizaciones defensoras de los derechos de los animales, mientras que la revista *Time* la incluyó entre las principales declaraciones de moda de 2010. La prensa cuestionó la originalidad de la idea y señaló similitudes con imágenes del arte y la cultura popular. En 2011, el vestido se exhibió en el Salón de la Fama del Rock and Roll, después de que especialistas en taxidermia lo conservaran mediante un proceso que le dio una consistencia similar a la de la cecina. Pedoosteriormente, pasó al Newseum, en Washington D. C.. Desde 2019, se exhibe en el museo Haus of Gaga, ubicado en el casino Park MGM, en Las Vegas.
+
+ Antecedentes
+Gaga fue la artista más nominada en los Video Music Awards de 2010 con un récord de trece nominaciones, incluyendo dos nominaciones para Video del Año —la primera artista femenina en lograr esta hazaña—. Llegó con un vestido de Alexander McQueen y se cambió a otro de Giorgio Armani antes de ponerse su tercer y último atuendo de la noche: un vestido, sombrero, botas y bolso hecho de carne cruda. Gaga usó el vestido de carne para recibir su trofeo por el Video del año por «Bad Romance»; cuando aceptó el premio de la presentadora Cher, bromeó: «Nunca pensé que le pediría a Cher que tomara mi bolso de carne». Gaga continuó usando el vestido después de la entrega de premios para fotos de prensa y una entrevista en *The Ellen DeGeneres Show*. Gaga explicó su interpretación del vestido a DeGeneres, declarando: «Si no defendemos lo que creemos y si no luchamos por nuestros derechos [,] pronto tendremos tantos derechos como la carne en nuestros huesos». «Ahora, amo a Lady Gaga, pero como alguien que también ama a los animales, fue realmente difícil para mí sentarme al lado de Lady Gaga mientras llevaba ese atuendo», escribió DeGeneres, que es vegana. «Pero me hizo preguntarme, ¿cuál es la diferencia entre su atuendo y un atuendo hecho de cuero?».
+
+ Diseño
+
+El diseñador y estilista Formichetti se acercó a Fernandez para producir el vestido, y lo planeó en el transcurso de una semana. Formichetti diseñó el estilo. El vestido era corto, asimétrico, con cuello vuelto. Fernandez eligió específicamente cortes para asegurarse de que el vestido se mantuviera bien. La carne de ternera fue elegida como el material a utilizar, con la carne proveniente de su carnicero familiar. El vestido fue cosido sobre Gaga usándolo detrás del escenario antes de salir.
+
+Fernandez dijo sobre su diseño: «Sabía que el vestido sería una de las otras piezas increíbles que Gaga usó esa noche. Está muy bien hecho y se veía genial en ella, dentro y fuera de la cámara. No tuvimos la oportunidad de hacer una adaptación. La única vez que lo tuvo fue en los VMA. Solo cuando lo vi en el monitor, supe que sería grande».
+
+Fernandez, informando la opinión de Gaga en una entrevista, dijo que la propia Gaga dijo que olía bien, porque olía a carne. El diseñador habló de lo que le sucedería al vestido después de la entrega de los premios, «El vestido será puesto en un archivo con todos sus vestidos. Los Archivos de Gaga, supongo. No durará, esa es la belleza de eso. Cuando vuelva a salir, espero que sea en una retrospectiva, y será un vestido diferente, que es lo mejor. Me gusta la idea de que cambie y se convierta en algo más». Más tarde explicó que el vestido se conservaría y se convertiría en un tipo de cecina antes de ser archivado.
+
+El Salón de la Fama del Rock and Roll pagó  al taxidermista Sergio Vigilato para preservar el vestido. Se había congelado después de las dos apariciones en televisión, aunque Vigilato descubrió signos de descomposición en el vestido que había ocurrido antes de que se congelara, y notó que estaba emitiendo mal olor una vez que se descongeló. Se lo trató con lejía, formaldehído y detergente para matar cualquier bacteria que se hubiera formado, y se reacondicionó tiñéndolo de rojo oscuro una vez que se conservó para darle la misma apariencia que cuando se usó por primera vez. Sin embargo, después de la preservación, quedaron varias piezas de carne de res que no se incluyeron en el vestido restaurado.
+
+Precediendo a la creación de Fernández, Gaga había lucido un bikini hecho de carne en la portada de la edición japonesa de *Vogue*. Gaga lució un vestido de carne falsa mientras interpretaba las canciones «Americano» y «Poker Face» durante su gira Born This Way Ball (2012-2013).
+
+ Influencia
+
+Anteriormente, ella había llevado un bikini hecho de carne en la portada de la edición japonesa de *Vogue*. Originalmente fue usado por Gaga en los MTV Video Music Awards 2010 para aceptar su premio al Video del Año. Aunque fue el tercer cambio de vestuario de Gaga de la noche, el vestido de carne fue descrito inmediatamente como el "momento de moda más escandaloso" de la noche.
+
+Fernández acredita el vestido con un cambio en su carrera, diciendo: "Siento que tengo una voz ahora como artista y como diseñador". Anteriormente había creado elementos para Gaga, incluido un disfraz para su video musical de "Bad Romance". Continuó creando un sombrero que Gaga usó para la 53.ª entrega de los premios Grammy en febrero de 2011.
+
+El vestido se exhibió en el Salón de la Fama y el Museo del Rock and Roll en 2011 como parte de una exposición titulada "Mujeres que rockean: visión, pasión, poder".
+
+Una encuesta realizada por el sitio web MyCelebrityFashion.co.uk colocó el vestido como el atuendo más icónico de 2010, superando el vestido de compromiso de Kate Middleton, que quedó en el segundo lugar. Al resumir 2010 a través de una serie de listas, *Time* votó el vestido de carne como su principal declaración de moda de 2010.
+
+Cuando "Weird Al" Yankovic hizo una parodia de "Born This Way" de Gaga, titulada "Perform This Way", incluyó una referencia lírica al vestido de carne ("Me pongo la costilla en los pies / Me cubro con carne cruda / Y apuesto a que nunca has visto un bistec de falda usado de esta manera ") y tenía una bailarina vestida con un atuendo similar en el vídeo musical.
+
+ Recepción
+Después de los VMA, los medios de comunicación intentaron analizar el significado del vestido con sugerencias en BBC News que van desde la antimoda, al feminismo, el envejecimiento y la decadencia, y la actitud de la sociedad hacia la carne. El chef Fergus Henderson explicó esta actitud hacia la carne como: "La gente a menudo no quiere que la carne se vea como carne. Quieren que esté prolijamente envuelta en plástico en un supermercado". PETA condenó el vestido y publicó una declaración que decía que "llevar un vestido hecho con cortes de vacas muertas es lo suficientemente ofensivo como para traer comentarios, pero alguien debería susurrarle al oído que la carnicería que están impresionados por eso ". La Sociedad Vegetariana también condenó el vestido y publicó una declaración que decía "No importa cuán bellamente se presente, la carne de un animal torturado es la carne de un animal torturado. Suficientes animales mueren por comida y no deberían ser asesinados por acrobacias como esta. "
+
+Otra controversia en torno al vestido fue la cuestión de su originalidad. Brooks Barnes de *The New York Times* escribió que el vestido fue "derivado" de 'Incarnation', una pintura de una niña de pelo blanco que llevaba un vestido de carne del artista Mark Ryden. Sharon Clott de MTV también notó la similitud entre el vestido de Gaga y la pintura de Ryden. Según los informes, Ryden estaba molesto porque Gaga no reconoció que ella se había inspirado en su trabajo. Algunos en la prensa de arte y moda comentaron sobre la similitud del vestido con 'Vanitas: vestido de carne para un Albino Anoréxico', un vestido de carne hecho por la escultora canadiense Jana Sterbak en 1987 expuesto con considerable controversia en la Galería Nacional de Canadá en 1991. Karen Rosenberg de *The New York Times* comparó el vestido con una serie de fotografías de Francis Bacon posando con flancos de carne de vaca unidos a su torso como alas en 1952, mientras que *The Daily Telegraph* comparó el vestido con la portada original del álbum de 1966 de The Beatles *Yesterday and Today*, y notó su similitud también con la portada del álbum de noviembre de 1983 de The Undertones *All Wrapped Up*, que mostraba a una modelo femenina con un vestido y guantes hechos con lonchas de carne (principalmente tocino) sujetos en su lugar con envoltura de plástico y un collar de salchichas. Los arquitectos Diller Scofidio + Renfro también diseñaron un vestido de carne en 2006. Un ejemplo anterior de una prenda hecha de carne cosida de la misma manera que el vestido de Lady Gaga se vio en la inauguración de la exposición de posgrado del Slade School of Art en Londres, Inglaterra en julio de 1979, cuando el artista de performance Robert Connolly usó un traje de dos piezas hecho de rodajas de salami.
+
+Algunas fuentes de los medios de comunicación propusieron que el vestido podría interpretarse como anti vegano. El cantante y compositor británico Morrissey declaró que sentía que el vestido era aceptable siempre que fuera una declaración social o política, y no solo una "idea loca", señalando que la artista Linder Sterling había usado un vestido de carne en 1982 para protestar contra lo que ella cree que es la percepción de las mujeres por los hombres. Ellen DeGeneres le regaló a Gaga un bikini hecho de verduras cuando la cantante apareció en su programa de entrevistas, y la cantante utilizó la plataforma para responder a la controversia que rodeaba el vestido diciendo: "... tiene muchas interpretaciones. Para mí esta noche, si no defendemos lo que creemos y si no luchamos por nuestros derechos muy pronto, vamos a tener tantos derechos como la carne en nuestros propios huesos. Y no soy un pedazo de carne". Explicó además que también estaba usando el vestido para resaltar su disgusto por la política de "no preguntar, no decir" del ejército de EE. UU.
+
+ Referencias

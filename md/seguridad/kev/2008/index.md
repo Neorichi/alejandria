@@ -1,0 +1,8 @@
+# Vulnerabilidades explotadas (CISA KEV) · 2008
+
+* [CVE-2008-0015 · Microsoft Windows: Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability](CVE-2008-0015.md) - Microsoft Windows Video ActiveX Control contains a remote code execution vulnerability. An attacker could exploit the vulnerability by constructing a specially 
+* [CVE-2008-0655 · Adobe Acrobat and Reader: Adobe Acrobat and Reader Unspecified Vulnerability](CVE-2008-0655.md) - Adobe Acrobat and Reader contains an unespecified vulnerability described as a design flaw which could allow a specially crafted file to be printed silently an 
+* [CVE-2008-2992 · Adobe Acrobat and Reader: Adobe Reader and Acrobat Input Validation Vulnerability](CVE-2008-2992.md) - Adobe Acrobat and Reader contain an input validation issue in a JavaScript method that could potentially lead to remote code execution.
+* [CVE-2008-3431 · Oracle VirtualBox: Oracle VirtualBox Insufficient Input Validation Vulnerability](CVE-2008-3431.md) - An input validation vulnerability exists in the VBoxDrv.sys driver of Sun xVM VirtualBox which allows attackers to locally execute arbitrary code.
+* [CVE-2008-4128 · Cisco IOS: Cisco IOS Cross-Site Request Forgery Vulnerability](CVE-2008-4128.md) - Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain "show privilege
+* [CVE-2008-4250 · Microsoft Windows: Microsoft Windows Buffer Overflow Vulnerability](CVE-2008-4250.md) - Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RP

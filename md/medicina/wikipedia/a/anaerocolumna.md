@@ -1,0 +1,31 @@
+---
+type: Artículo de enciclopedia
+title: Anaerocolumna
+description: Anaerocolumna es un género de bacterias grampositivas de la familia Lachnospiraceae.
+resource: https://es.wikipedia.org/wiki/Anaerocolumna
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Anaerocolumna"}
+license: CC BY-SA 4.0
+id: eswiki-Anaerocolumna
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Anaerocolumna
+
+- **Name:** Anaerocolulmna
+- **Domain:** Bacteria
+- **Regnum:** Bacillati
+- **Phylum:** Bacillota
+- **Genus:** Anaerocolumna
+- **Ordo:** Eubacteriales
+- **Classis:** Clostridia
+- **Familia:** Lachnospiraceae
+- **Subdivision:** A. aminovalerica A. cellulosilytica A. chitinilytica A. jejuensis A. sedimenticola A. xylanovorans
+- **Subdivision ranks:** Especies
+
+***Anaerocolumna*** es un género de bacterias grampositivas de la familia Lachnospiraceae. Fue descrito en el año 2016. Su etimología hace referencia a columna que no vive en el aire. Consiste en bacterias anaerobias estrictas, móviles y productoras de esporas. Pueden crecer de forma individual o en parejas. La catalasa es negativa. Se han aislado de reactores metanógenos y de suelos.
+
+ Referencias

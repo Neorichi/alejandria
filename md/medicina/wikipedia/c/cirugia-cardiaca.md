@@ -1,0 +1,75 @@
+---
+type: Artículo de enciclopedia
+title: Cirugía cardíaca
+description: La cirugía cardíaca es la especialidad quirúrgica que se ocupa del corazón o grandes vasos, realizada por un cirujano cardíaco.
+resource: https://es.wikipedia.org/wiki/Cirugía_cardíaca
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Cirugía_cardíaca"}
+license: CC BY-SA 4.0
+id: eswiki-Cirugía_cardíaca
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Cirugía cardíaca
+
+- **Nombre:** Cirugía cardíaca
+- **Meshid:** D006348
+
+La **cirugía cardíaca** es la especialidad quirúrgica que se ocupa del corazón o grandes vasos, realizada por un cirujano cardíaco. Frecuentemente se utiliza para tratar complicaciones de la cardiopatía isquémica (por ejemplo, mediante un baipás coronario), corregir malformaciones cardíacas congénitas, o tratar enfermedades valvulares del corazón debidas a causas diversas, como la endocarditis. También incluye el trasplante cardíaco.
+
+ Historia
+Las primeras intervenciones en el pericardio (el saco que rodea el corazón) tuvieron lugar en el  y fueron realizadas por Francisco Romero, cirujano catalán, en la ciudad de Almería. Otros pioneros fueron Dominique Jean Larrey, Henry Dalton, y Daniel Hale Williams. La primera cirugía sobre el corazón propiamente dicho fue realizada por el cirujano noruego Axel Cappelen el 4 de septiembre de 1895 en el Rikshospitalet de Kristiania, ahora Oslo. La intervención consistió en la ligadura de una arteria coronaria sangrante en un hombre de 24 años que había sido apuñalado en la axila izquierda y que a su llegada estaba en un shock profundo. El abordaje fue a través de una toracotomía. El paciente se despertó y pareció estar bien durante 24 horas, pero enfermó y sufrió un aumento de temperatura, y acabó muriendo por lo que el examen *post mortem* probó que era una mediastinitis en el tercer día de postoperatorio. La primera cirugía cardíaca exitosa, realizada sin complicaciones, fue llevada a cabo por el Dr. Ludwig Rehn de Fráncfort del Meno, Alemania, quien reparó una herida de una puñalada en el ventrículo derecho el 7 de septiembre de 1896.
+
+La cirugía de los grandes vasos (reparación de coartación aórtica, creación de un shunt de Blalock-Taussig, cierre de un conducto arterioso persistente), se volvió común con el cambio de siglo y entra en los dominios de la cirugía cardíaca, aunque técnicamente no pueda considerarse como tal.
+
+ Malformaciones cardíacas
+En 1925 las operaciones de las válvulas del corazón eran desconocidas. Henry Souttar intervino con éxito a una mujer joven con estenosis mitral. Practicó una abertura en la aurícula izquierda e insertó un dedo en esta cavidad para palpar y explorar la válvula mitral dañada. La paciente sobrevivió durante varios años, pero los colegas médicos de Souttar de aquella época decidieron que el proceso no estaba justificado y no pudo seguir practicándolo.
+
+La cirugía cardíaca cambió significativamente después de la Segunda Guerra Mundial. En 1948 cuatro cirujanos llevaron a cabo operaciones exitosas de estenosis mitral secundaria a fiebre reumática. Horace Smithy (1914-1948), de Charlotte, retomó la intervención gracias al trabajo del Dr. Dwight Harken del Peter Bent Brigham Hospital usando un punch para extirpar una porción de la válvula mitral. Charles Bailey (1910-1993) del Hahnemann Hospital, Filadelfia, Dwight Harken en Boston y Russell Brock en el Guy’s Hospital adoptaron el método de Souttar. Todos estos hombres empezaron sus trabajos independientemente, en el rango de unos meses. Esta vez la técnica de Souttar fue ampliamente aceptada, aunque hubo modificaciones.
+
+En 1947 Thomas Holmes Sellors (1902-1987) del Middlesex Hospital operó una Tetralogía de Fallot con estenosis pulmonar, reparando la válvula pulmonar con éxito. En 1948, Russell Brock, probablemente desconociendo el trabajo de Sellors, usó un dilatador especialmente diseñado en tres casos de estenosis pulmonar. Más tarde ese mismo año diseñó un punch para resecar la estenosis del cono arterioso, que se asocia frecuentemente a la tetralogía de Fallot. Se realizaron miles de estas operaciones “a ciegas” hasta que la introducción del bypass cardiopulmonar hizo posible la cirugía con visualización directa de las válvulas.
+
+ Cirugía a corazón abierto
+Se trata de una intervención en la que se abre el pecho del paciente y se realiza cirugía en el corazón. El término “abierto” se refiere al tórax, no al corazón en sí mismo. Este puede ser abierto o no, dependiendo del tipo particular de cirugía.
+
+Pronto se descubrió que las reparaciones de patologías intracardíacas eran mejor realizadas en un corazón sin sangre ni movimiento, lo que significa que este órgano debía detenerse y ser drenado de sangre. La primera intervención intracardíaca exitosa de una cardiopatía congénita usando hipotermia fue realizada por el Dr. C. Walton Lillehei y el Dr. F. John Lewis en la Universidad de Minnesota el 2 de septiembre de 1952. El año siguiente el cirujano soviético Aleksandr Aleksandrovich Vishnevskiy dirigió la primera cirugía cardíaca con anestesia local.
+
+Los cirujanos se dieron cuenta de las limitaciones de la hipotermia —las complejas reparaciones intracardíacas requieren más tiempo y el paciente necesita flujo sanguíneo en el cuerpo (sobre todo en el cerebro)—; el paciente necesita que la función del corazón y de los pulmones sea proporcionada por un mecanismo artificial, de ahí el término bypass cardiopulmonar. El Dr. John Heysham Gibbon del Jefferson Medical School en Filadelfia informó en 1953 del primer uso exitoso de la circulación extracorpórea por medio de un oxigenador, pero abandonó el método, decepcionado por los fracasos posteriores. En 1954 el Dr. Lillehei realizó una serie de exitosas operaciones con la técnica de la circulación cruzada controlada, en la que la madre o el padre del paciente eran usados como una máquina de circulación extracorpórea. El Dr. John W. Kirklin en la Clínica Mayo en Rochester, Minnesota, comenzó a usar un oxigenador con bomba del mismo tipo que el de Gibbon en una serie de exitosas intervenciones, y pronto fue seguido por cirujanos de varias partes del mundo.
+
+El Dr. Nazih Zuhdi trabajó durante 4 años con los Drs. Clarence Dennis, Karl Karlson, y Charles Fries, quienes construyeron un oxigenador con bomba elemental. Zuhdi y Fries trabajaron en varios diseños y rediseños del modelo elemental de Dennis desde 1952 a 1956 en el Brooklyn Center. Después Zuhdi fue a trabajar con el Dr. C. Walton Lillehei en la Universidad de Minnesota. Lillehei había diseñado su propia versión de una máquina de circulación cruzada, que acabó llamándose la máquina de corazón-pulmón DeWall-Lillehei. Zuhdi trabajó en la perfusión y flujo sanguíneo tratando de resolver el problema de las burbujas de aire que se podían formar durante el bypass cardíaco, por las que el corazón se podía parar durante la operación. Zuhdi se trasladó a Oklahoma City en 1957, y empezó a trabajar en la Universidad de Oklahoma. Zudhi, cirujano cardíaco, se unió al Dr. Allen Greer, cirujano de pulmón, y al Dr. John Carey, formando un equipo de tres hombres de cirugía a corazón abierto. Con la llegada de la máquina corazón-pulmón, cuyo tamaño fue modificado, volviéndose mucho más pequeña que la máquina de DeWall-Lillehei, y con algunas otras modificaciones, se redujo la necesidad de sangre a una cantidad mínima, el coste de la equipación se redujo a 50000 dólares, y el tiempo de preparación de 2 horas a 20 minutos. El Dr. Zuhdi llevó a cabo la primera operación a corazón abierto con Hemodilución Intencional Total en Terry Gene Nix, de 7 años, el 25 de febrero de 1960, en el Mercy Hospital, Oklahoma City. La operación fue un éxito; sin embargo, Nix murió tres años después. En marzo de 1961 Zuhdi, Carey y Greer realizaron una operación a corazón abierto en un niño de tres años y medio usando la máquina de Hemodilución Intencional Total, con éxito. Este paciente aún está vivo.
+
+En 1985 el Dr. Zuhdi realizó el primer trasplante de corazón exitoso de Oklahoma a Nancy Rogers en el Baptist Hospital. A pesar del éxito de la operación, Roger, que sufría de cáncer, murió de una infección 54 días después.
+
+El 13 de junio de 1957 en el Children's Hospital-Houston Texas, el Dr. Denton Coley, realiza la cirugía a corazón abierto con la ayuda de los Drs. McNamara y Barnard (primer trasplante de corazón) y el Dr. Salvador Loffredo Rodríguez/Ecuador; con la máquina de circulación extracorpórea, para tratar el defecto congénito derivado de la tetralogía de Fallot, en una niña de 1 año. Durante ese primer año de vida se realizó la preparación y creación del instrumental médico para esa edad y el doctor Salvador Loffredo realizó en el Ecuador todos los cuidados para mantener con vida y dentro de lo posible saludable en una cuna de oxígeno a esa niña que era su hija, Sonia Loffredo Autheman. Ahora es el año 2019, tengo 62 años y me encuentro muy bien. Doy fe de lo escrito anteriormente.
+
+En el año 2012, se presentó una técnica híbrida con aplicabilidad en Medicina Veterinaria, en la que se utilizó un sistema de circulación extracorpórea sin oxigenador de membrana junto a la inducción de hipotermia moderada en dos grupos de ovinos (GI: tórax cerrado) y (GII: tórax abierto y arresto circulatorio). Los principales objetivos fueron: reducir a 25°C la temperatura corporal de los animales utilizando este sistema, evaluar el efecto de la circulación extracorpórea sobre la función pulmonar y determinar la correlación entre hipotermia y oxigenación. En el grupo I se utilizó un bypass venoso arterial (femoro-femoral), para inducir la hipotermia y el recalentamiento. En el grupo II se utilizó un bypass desde aurícula izquierda a la arteria femoral. En este grupo al alcanzar los 25°C se realizó arresto cardíaco mediante la administración de solución cardioplégica. Luego de 12 minutos de estasis circulatorio se reanudó el flujo del bypass y el recalentamiento de los animales. En ambos grupos fue posible conducir a temperaturas de 25°C sin evidenciar arritmias y con valores hemodinámicos adecuados. Pudo evidenciarse los efectos de la hipotermia sobre la compresión de los gases en sangre. En el grupoII, la reperfusión se asoció a mayor alteración en la difusión de los gases, aunque en ambos grupos la saturación de oxihemoglobina fue superior al 98% durante toda la experiencia.
+
+ Cirugía moderna con corazón latiente
+Desde la década de los 90 los cirujanos han empezado a realizar la cirugía de derivación o bypass sin bomba, es decir, una cirugía de baipás coronario sin utilizar el bypass cardiopulmonar citado anteriormente. En estas operaciones el corazón late durante la cirugía, pero es estabilizado para proporcionar un área de trabajo prácticamente inmóvil. Algunos investigadores creen que esta técnica conlleva menos complicaciones postoperatorias (como el síndrome postperfusión) y mejores resultados globales (los estudios han resultado controvertidos, por lo que hoy en día la preferencia del cirujano y los resultados del hospital siguen teniendo un rol determinante).
+
+ Cirugía cardíaca mínimamente invasiva
+Una nueva forma de cirugía cardíaca que ha crecido en popularidad es la cirugía cardíaca asistida por robot. Consiste en el uso de una máquina que realiza la cirugía siendo controlada por el cirujano cardíaco. La principal ventaja es el tamaño de la incisión hecha en el paciente. En lugar de que la incisión tenga que ser suficientemente grande como para que el cirujano introduzca sus manos en ella, no tiene que ser mayor que tres pequeños agujeros por los que las manos mucho más pequeñas del robot pueden introducirse. Además, otra ventaja de esta técnica es que reduce el tiempo de recuperación del paciente.
+
+La cirugía cardíaca mínimamente invasiva incluye también, procedimientos donde se realizan incisiones pequeñas para realizar el mismo procedimiento que se realiza con esternotomía completa. Los abordajes pueden ser hemiesternotomía en J o en T, minitoracotomía derecha (abordaje Mitral, Tricuspídeo, Aórtico) o izquierda (MIDCAB).
+
+ Cirugía cardíaca sin sangre
+En su dilatada experiencia como catedrático de cirugía y profesor emérito de la Universidad de Cantabria, el doctor José Manuel Revuelta, en la obra *Más cerca del corazón* (Publicaciones del Sur Editores, pág. 186), explica que: “Actualmente, gracias a diversos avances técnicos y logísticos, se llevan a cabo importantes operaciones, incluso trasplantes de órganos, sin utilizar transfusiones. La cirugía coronaria puede realizarse a corazón abierto —circulación extracorpórea—, manteniendo el corazón latiendo, con pérdida sanguínea significativamente menor que la cirugía convencional”.A las nuevas aportaciones en el campo de la cirugía, como el recuperador de sangre (en inglés, *cell saver*) —que permite el almacenamiento y la reinfusión de las pérdidas sanguíneas durante la operación—, hay que añadir la acción de agentes farmacológicos hemostáticos tópicos, que facilitan el control de la hemorragia durante la cirugía.
+
+Asimismo, la obra antes mencionada, en la página 187, detalla nuevas formas de abordar situaciones en las que, en un principio, se pudiera contemplar también el uso de transfusiones: “Cuando se producen hemorragias y no es posible transfundir sangre o hemoderivados, se dispone de otros tratamientos alternativos. Los fármacos *antifibrinolíticos* impiden que se destruya un tipo de “gasa biológica” que produce el organismo humano con fibrina para taponar eficazmente las heridas y las arterias y las venas rotas, favoreciendo la formación de coágulos. Entre estos productos contamos con la *aprotinina*, *ácido tranexámico*, *épsilonaminocaproico* y *aminometilbenzoico*. En situaciones de hemorragias masivas, resulta muy eficaz administrar el *factor VII recombinante activado*, elemento de coagulación de la sangre que moviliza las plaquetas para la formación de coágulos de fibrina”.
+
+ Riesgos
+El desarrollo de la cirugía cardíaca y de las técnicas de bypass cardiopulmonar ha reducido la tasa de mortalidad de estas cirugías a niveles relativamente bajos. Por ejemplo, actualmente se estima que la reparación de defectos cardíacos congénitos tiene una tasa de mortalidad de 4-6 %.
+
+Un problema importante de la cirugía cardíaca es la incidencia de daño neurológico. El ictus sucede en el 2-3% de los pacientes sometidos a cirugía cardíaca, y aún más en los pacientes con riesgo de ictus. Una constelación más sutil de déficits neurológicos atribuidos al bypass cardiopulmonar es conocida como síndrome postperfusión. Inicialmente se pensó que los síntomas de este síndrome eran permanentes, pero han resultado ser transitorios, sin discapacidad neurológica irreversible.
+
+ Véase también
+ Cirugía vascular
+ Rene Favaloro
+
+ Referencias
+
+ Enlaces externos
+ Biografía de Alfonso Roque Albanese

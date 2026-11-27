@@ -1,0 +1,77 @@
+---
+type: Artículo de enciclopedia
+title: Hidroxocobalamina
+description: La hidroxicobalamina, también conocida como vitamina B12a, es una vitamina que se encuentra en los alimentos y en su forma de síntesis bacteriana se utiliza como suplemento dietético.
+resource: https://es.wikipedia.org/wiki/Hidroxocobalamina
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Hidroxocobalamina"}
+license: CC BY-SA 4.0
+id: eswiki-Hidroxocobalamina
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Hidroxocobalamina
+
+- **Drug name:** Hidroxicobalamina
+- **Nombre iupac:** Coα-[α-(5,6-dimethylbenzimidazolyl)]-Coβ-hydroxocobamide
+- **Width:** 250
+- **Medlineplus:** a605007
+- **Pregnancy us:** C
+- **Legal us:** OTC
+- **Legal us comment:** (by prescription when injectable), not DEA-controlled
+- **Routes of administration:** IM, IV
+- **Protein bound:** Very high (90%)
+- **Metabolism:** Primarily liver, cobalamins are absorbed in the ileum and stored in the liver.
+
+La **hidroxicobalamina**, también conocida como **vitamina B12a**, es una vitamina que se encuentra en los alimentos y en su forma de síntesis bacteriana se utiliza como suplemento dietético. Como suplemento, se utiliza para tratar la deficiencia de vitamina B12, incluida la anemia perniciosa. Otros usos incluyen el tratamiento del envenenamiento por cianuro, la atrofia óptica de Leber y la ambliopía tóxica. Se administra mediante inyección en un músculo o vena.
+
+Los efectos secundarios son generalmente pocos.  Pueden incluir diarrea, niveles bajos de potasio en la sangre, reacciones alérgicas y presión arterial alta. Las dosis normales se consideran seguras en el embarazo. La hidroxicobalamina es la forma artificial de la vitamina B12 y un miembro de la familia de compuestos de cobalamina. La hidroxicobalamina, la vitamina B12, se requiere para que el cuerpo produzca ADN. Los alimentos que naturalmente contienen vitamina B12 incluyen carne, huevos y productos lácteos.
+
+La hidroxicobalamina se aisló por primera vez en 1949.  Está en la , los medicamentos más efectivos y seguros que se necesitan en un sistema de salud. Hidroxicobalamina está disponible como un medicamento genérico. El costo mayorista en el mundo en desarrollo era en 2016 de aproximadamente 0,12 a 0,84 por dosis. En los Estados Unidos esta cantidad al por mayor costaba en 2016 alrededor de 0,84. Comercialmente se fabrica a partir de uno de varios tipos diferentes de bacterias.
+
+ Usos médicos
+
+ Deficiencia de vitamina B12
+Los compuestos de vitamina B12 se utilizan como un medicamento recetado (inyección) para la terapia de reemplazo de vitamina B12, generalmente a 100 µg/dosis. En el Reino Unido, 1000 µg (1 mg) por dosis es utilizado generalmente. El daño que resulta de la deficiencia de vitamina B12 se puede prevenir con un diagnóstico temprano y un tratamiento adecuado.
+
+Para la mayoría, la terapia estándar para el tratamiento de la deficiencia de vitamina B12 ha sido la inyección intramuscular (IM) en forma de cianocobalamina (CNCbl) o hidroxicobalamina (OHCbl). La cianocobalamina se prescribe tradicionalmente en los Estados Unidos. Fuera de los Estados Unidos, la hidroxicobalamina se usa generalmente para la terapia de reemplazo de vitamina B12 y se considera el "fármaco de elección" para la deficiencia de vitamina B12 por parte de la Farmacopea Extra de Martindale (Sweetman, 2002) y la Lista modelo de medicamentos esenciales de la Organización Mundial de la Salud (OMS)..Esta preferencia por la hidroxicobalamina en muchos países se debe a su larga retención en el cuerpo y la necesidad de inyecciones IM menos frecuentes para restablecer los niveles séricos de vitamina B12 (cobalamina). Además, la administración IM de hidroxicobalamina es también el tratamiento preferido para pacientes pediátricos con enfermedades metabólicas intrínsecas de cobalamina; pacientes con deficiencia de vitamina B12 con ambliopía del tabaco debido a envenenamiento por cianuro; y pacientes con anemia perniciosa que tienen neuropatía óptica.
+
+En un paciente deficiente en vitamina B12 recién diagnosticado, normalmente definido con niveles séricos inferiores a 200 pg/ml, se administran inyecciones diarias de hidroxicobalamina de hasta 1000 μg (1 mg) por día para reponer las reservas de cobalamina agotadas en el cuerpo. En presencia de síntomas neurológicos, después del tratamiento diario, las inyecciones semanales o quincenales se indican durante seis meses antes de iniciar las inyecciones mensuales IM. Una vez que se confirma la mejoría clínica, la suplementación de mantenimiento de B12 generalmente será necesaria de por vida.
+
+ Envenenamiento por cianuro
+La hidroxicobalamina es una terapia de primera línea para personas con envenenamiento por cianuro. La hidroxicobalamina convierte el cianuro en una cianocobalamina mucho menos tóxica. La cianocobalamina se elimina por vía renal. El uso de hidroxicobalamina se convirtió en primera línea debido a su bajo perfil de riesgo adverso, rápido inicio de acción y facilidad de uso en el ámbito prehospitalario.
+
+ Efectos secundarios
+Los datos de la literatura sobre el perfil de toxicidad aguda de la hidroxicobalamina muestran que generalmente se considera seguro en exposición local y sistémica. La capacidad de la hidroxicobalamina para ser eliminada y desintoxicar rápidamente el cianuro por quelación ha dado lugar a varios estudios agudos en animales y humanos que utilizan dosis sistémicas de hidroxicobalamina a dosis suprafarmacológicas de hasta 140 mg/kg para apoyar su uso como tratamiento intravenoso (IV) para la exposición al cianuro. A finales de 2006, la FDA de EE. UU. aprobó el uso de la hidroxicobalamina como inyección para el tratamiento del envenenamiento por cianuro.
+
+El medicamento causa una decoloración rojiza de la orina (cromaturia), que puede parecer sangre en la orina.
+
+ Propiedades
+El acetato de hidroxicobalamina se presenta como agujas ortorrómbicas de color rojo oscuro inodoras.  Las formulaciones de inyección aparecen como soluciones claras de color rojo oscuro. Tiene un coeficiente de distribución de 1.133 × 10-5 y un pKa de 7,65.
+
+ Causas de deficiencia
+La inyección de hidroxicobalamina se usa para rectificar las siguientes causas de deficiencia de vitamina B12 (lista tomada de la etiqueta de prescripción de medicamentos publicada por la Administración de Alimentos y Medicamentos de EE.UU.)
+
+ Deficiencia dietética de vitamina B12 que se presenta en vegetarianos estrictos y en sus bebés amamantados (la deficiencia aislada de vitamina B12 es muy rara).
+ Malabsorción de vitamina B12 como resultado del daño al estómago, donde se secreta el factor intrínseco, o daño al íleon, donde el factor intrínseco facilita la absorción de la vitamina B12. Estas condiciones incluyen la enfermedad tropical y la enfermedad no tropical (enfermedad celíaca).
+ Secreción inadecuada del factor intrínseco, resultante de lesiones que destruyen la mucosa gástrica (que puede ser causada por la ingestión de sustancias corrosivas, tumores extensos y afecciones asociadas con atrofia gástrica, como esclerosis múltiple, ciertos trastornos endocrinos, deficiencia de hierro y gastrectomía subtotal).
+ Lesiones estructurales que conducen a una deficiencia de vitamina B12 , como ileítis regional, reacciones ileales y tumores malignos.
+ Competencia por la vitamina B12 por parásitos o bacterias intestinales. La tenia de los peces cocidos deficientemente (*Diphyllobothrium latum*) absorbe grandes cantidades de vitamina B12, y los pacientes infestados a menudo tienen atrofia gástrica asociada. El síndrome de bucle ciego puede producir deficiencia de vitamina B12 o folato.
+ Uso inadecuado de la vitamina B12, que puede ocurrir si se emplean antimetabolitos para la vitamina en el tratamiento de una neoplasia.
+
+La anemia perniciosa no es una causa de deficiencia de vitamina B12 , sino más bien el resultado de la deficiencia de vitamina B12. Si bien técnicamente se refiere a la anemia causada específicamente por la deficiencia autoinmune del factor intrínseco, se usa comúnmente para referirse a la anemia deficiente en B12 como un todo, independiente de la causa.
+
+ Mecanismo de acción
+La vitamina B12 se refiere a un grupo de compuestos llamados cobalaminas que están disponibles en el cuerpo humano en una variedad de formas principalmente interconvertibles. Junto con el folato, las cobalaminas son cofactores esenciales requeridos para la síntesis de ADN en células donde se produce replicación y división cromosómica, especialmente las células de médula ósea y mieloide. Como cofactor, las cobalaminas son esenciales para dos reacciones celulares:
+
+ la conversión mitocondrial vía metilmalonil-CoA mutasa del ácido metilmalónico (MMA) en succinato, que vincula el metabolismo de los lípidos y los carbohidratos, y
+ la activación de la metionina sintasa, que es el paso limitante de la velocidad en la síntesis de metionina a partir de homocisteína y 5-metiltetrahidrofolato.
+
+Las cobalaminas se caracterizan por un núcleo de corrina similar a la porfirina que contiene un solo átomo de cobalto unido a un nucleótido de bencimidazolilo y un grupo de residuo variable (R). El grupo R variable da lugar a las cuatro cobalaminas más conocidas: CNCbl, metilcobalamina, 5-desoxiadenosilcobalamina y OHCbl. En el suero, se cree que la hidroxicobalamina y la cianocobalamina funcionan como formas de almacenamiento o transporte de la molécula, mientras que la metilcobalamina y la 5-desoxiadenosilcobalamina son las formas activas de la coenzima requeridas para el crecimiento y la replicación celular. La cianocobalamina generalmente se convierte en hidroxicobalamina en el suero, mientras que la hidroxicobalamina se convierte en metilcobalamina o 5-desoxiadenosil cobalamina.  Las cobalaminas circulan unidas a proteínas séricas llamadas transcobalaminas (TC) y haptocorrinas. La hidroxicobalamina tiene una mayor afinidad por la proteína de transporte TC II que la cianocobalamina o 5-desoxiadenosilcobalamina. Desde un punto de vista bioquímico, dos reacciones enzimáticas esenciales requieren vitamina B12 (cobalamina).
+
+La vitamina B12 intracelular se mantiene en dos coenzimas activas, metilcobalamina y 5-desoxiadenosilcobalamina. Ante la deficiencia de vitamina B12, la conversión de metilmalonil-CoA en succinil-CoA no puede tener lugar, lo que resulta en la acumulación de metilmalonil-CoA y en la síntesis aberrante de ácidos grasos. En la otra reacción enzimática, la metilcobalamina apoya la reacción de la metionina sintasa, que es esencial para el metabolismo normal del folato. La interacción folato-cobalamina es fundamental para la síntesis normal de purinas y pirimidinas, y la transferencia del grupo metilo a cobalamina es esencial para el suministro adecuado de tetrahidrofolato, el sustrato para los pasos metabólicos que requieren folato. En un estado de deficiencia de vitamina B12, la célula responde redirigiendo las vías metabólicas del folato para suministrar cantidades crecientes de metiltetrahidrofolato. Las concentraciones elevadas resultantes de homocisteína y MMA a menudo se encuentran en pacientes con bajo contenido de vitamina B12 en suero y, por lo general, pueden reducirse con una terapia de reemplazo exitosa de vitamina B12. Sin embargo, las concentraciones elevadas de MMA y homocisteína pueden persistir en pacientes con concentraciones de cobalamina entre 200 y 350 pg/ml. La suplementación con vitamina B12 en condiciones de deficiencia restaura el nivel intracelular de cobalamina y mantiene un nivel suficiente de las dos coenzimas activas: metilcobalamina y desoxiadenosilcobalamina.
+
+ Referencias

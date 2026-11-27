@@ -1,0 +1,43 @@
+---
+type: Artículo de enciclopedia
+title: Enfermedad de Gumboro
+description: "La enfermedad de Gumboro o enfermedad de bursitis infecciosa (IBD) es una enfermedad altamente contagiosa de pollos jóvenes causada por el virus de la enfermedad de bursitis infecciosa (IBDV), caracterizado por la …"
+resource: https://es.wikipedia.org/wiki/Enfermedad_de_Gumboro
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Enfermedad_de_Gumboro"}
+license: CC BY-SA 4.0
+id: eswiki-Enfermedad_de_Gumboro
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Enfermedad de Gumboro
+
+La **enfermedad de Gumboro** o **enfermedad de bursitis infecciosa** (**IBD**) es una enfermedad altamente contagiosa de pollos jóvenes causada por el *virus de la enfermedad de bursitis infecciosa* (IBDV), caracterizado por la inmunosupresión y la mortalidad generalmente a la edad de tres a seis semanas de vida. La enfermedad se descubrió por primera vez en Gumboro, Delaware en 1962.  Es económicamente importante para la industria avícola en el mundo entero debido a la susceptibilidad incrementada a otras enfermedades y la interferencia negativa con la vacunación efectiva. En años recientes, cepas muy virulentas de IBDV (vvIBDV), causantes de alta mortalidad en pollos, ha emergido en Europa, América Latina, Asia del Sudeste, África y el Medio Oriente.
+
+IBDV es un virus de RNA de doble cadena que tiene un genoma bisegmentado y pertenece al género *Avibirnavirus* de la familia Birnaviridae. Existen dos serotipos distintos de virus, pero solo el virus del serotipo 1 causa la enfermedad en los pollos (gallinas) Al menos seis subtipos antigénicos de IBDV serotipo 1 se han identificado por ensayos de neutralización cruzada *in vitro*. Los virus pertenecientes a uno de esos subtipos antigénicos son conocidos comúnmente como variantes, las cuales se reportaron venciendo a altos niveles de anticuerpos maternos en criaderos comerciales, causando hasta 60-100 por ciento de mortalidad en pollos.  Con la aparición de técnicas moleculares altamente sensibles, tales como reacción en cadena de la polimerasa con transcripción reversa (RT-PCR) y el polimorfismo de longitud de fragmento de restricción (RFLP), se hizo posible detectar las cepas muy virulentas de IBDV, diferenciar las distintas cepas, y usar tal información en la epidemiología molecular del virus.
+
+Le genoma del IBDV consiste de dos segmentos, A y B, los cuales están rodeados por una cápsida icosahédrica no envolvente. El segmento genómico B (2,9 kb) codifica para VP1, de la supuesta ARN polimerasa viral. El segmento mayor A (3,2 kb) codifica las proteínas virales VP2, VP3, VP4 y VP5. Entre éstas, la proteína VP2 contiene importantes sitios antigénicos neutralizantes, por lo que induce respuestas inmunes protectoras y la mayoría de los cambios de aminoácidos entre los IBDV antigénicamente diferentes están agrupados en la región hipervariable de VP2. Por lo tanto, esta región hipervariable de VP2 es el objetivo obvio para las técnicas moleculares aplicadas para la detección y los estudios de variación de cepas del IBDV.
+
+Estructura viral
+La proteína de la cápsida del IBDV exhibe dominios estructurales que muestran homología con aquellos de las proteínas de la cápsida de algunos virus de cadena simple de ARN en sentido positivo, tales como los nodavirus y tetravirus, así como la proteína de la vaina de la cápsida T=13 de los reovirus. La vaina T=13 de la cápsida de IBDV está formada por trímeros de VP2, una proteína generada por la eliminación del dominio C-terminal de su precursor, pVP2. El corte de pVP2 es realizado en la partícula inmadura como parte del proceso de maduración. La otra proteína principal, VP3, es un componente multifuncional dispuesto bajo la vaina T=13 que influencia el polimorfismo estructural inherente de pVP2. La ARN polimerasa ARN-dependiente codificada por el virus, VP1, se incorpora a la cápsida a través de su asociación con VP3. VP3 también interactúa extensamente con el genoma viral de ARN de cadena doble.
+
+ Virología
+
+El IBDV es un virus de ARN de doble cadena que pertenece al género *Avibirnavirus* de la familia *Birnaviridae* . Tiene una cápside icosaédrica no envuelta con un diámetro de aproximadamente 55-65 nanómetros (nm).  Existen dos serotipos distintos del virus, pero únicamente los del serotipo 1 son responsables de enfermedades en  aves de corral.  Se han identificado al menos seis subtipos antigénicos del serotipo 1 del virus de la enfermedad de Gumboro (IBDV) gracias a ensayos de neutralización cruzada *in vitro*,  Lis virus pertenecientes a uno de estos subtipos antigénicos se conocen comúnmente como variantes, y se ha informado que logran superar altos niveles de anticuerpos maternos en las granjas avícolas comerciales, causando tasas de mortalidad entre el 60 y el 100 por ciento en los pollos. Con la llegada de técnicas moleculares de alta sensibilidad, como la reacción en cadena de la polimerasa con transcripción inversa (RT-PCR) y el polimorfismo de longitud de fragmentos de restricción (RFLP), ha resultado posible detectar el vvIBDV, diferenciar las cepas de IBDV y utilizar dicha información para estudiar la epidemiología molecular del virus.
+
+El IBDV tiene un genoma bisegmentado que consiste de dos segmentos: A y B.  El segmento genómico B (2,9 kb) codifica VP1, la presunta ARN polimerasa viral. El segmento A, al ser de mayor tamaño (3,2 kb), codifica las proteínas virales VP2, VP3, VP4 y VP5. La proteína VP2 forma la cápside del virus. Contiene dominios antigénicos importantes, entre ellos el dominio variable VP2, donde se agrupan la mayoría de los cambios de aminoácidos (AA) entre los virus IBDV antigénicamente diferentes. Por tanto, esta región de VP2 es el objetivo obvio para las técnicas moleculares aplicadas a la detección del IBDV y a los estudios de variación de cepas. VP3 es otra proteína estructural importante ubicada dentro de la partícula viral y es esencial para la actividad de VP1 y el ensamblaje de VP2.  VP4 es una proteasa que participa en la maduración del virus, y VP5 es una proteína no estructural que es importante para la liberación del virus de las células infectadas.
+ Patogénesis
+El virus es atraído a las células linfoideas y especialmente a aquellas originadas de linfocitos B. Las aves jóvenes de edades de dos a ocho semanas que tienen bolsa de Fabricio altamente activa son más susceptibles a la enfermedad. Las aves de más de ocho semanas son resistentes al desafío del virus y no mostrarán signos clínicos a menos que estén infectadas por cepas altamente virulentas.
+Luego de su ingreso, el virus destruye los folículos linfoides en la bolsa de Fabricio así como las células B circulantes en los tejidos linfoides secundarios tales como los tejidos linfoides asociados a intestinos, los tejidos linfoides asociados a la conjuntiva, los tejidos linfoides asociados a bronquios, las amígdalas cecales, la glándula de Harder, etc. La enfermedad aguda y la muerte es debida al efecto necrotizante de estos virus en el tejido del huésped  (hospedero). Si el ave sobrevive y se recupera de esta fase de la enfermedad, queda inmunocomprometida lo que significa que es más susceptible a otras enfermedades y las vacunaciones en previsión de brotes no serán efectivas.
+La inmunidad pasiva protege contra la enfermedad, igual que la infección previa con una cepa no virulenta. En las granjas de cría para carne, las gallinas reproductoras son inmunizadas contra IBD, así que ellas conferirían anticuerpos protectores a su progenie las que serán sacrificadas para el consumo antes de que se pierda la inmunidad pasiva.
+
+ Signos clínicos
+En la forma aguda las aves están deprimidas, debilitadas y deshidratadas. Producen diarrea acuosa y tienen la cloaca hinchada, teñida en sangre. Las tasas de mortalidad varían con la virulencia de la cepa involucrada, la dosis desafiante, así como la capacidad de la aves de levantar una respuesta inmune eficiente. La infección con cepas menos virulentas puede no mostrar signos clínicos manifiestos pero las aves pueden tener la bolsa de Fabricio fibrosa y con quistes, atrofiada prematuramente (antes de los seis meses de edad) y pueden morir de infecciones por agentes que usualmente no causan enfermedad en aves inmunocompetentes.
+ Referencias
+
+La bursite infectieuse (maladie de Gumboro) , Organisación Mundial de la Salud (francés)
+Maladie de Gumboro , CIRAD (francés)
+Traducido de :en:Infectious bursal disease de la Wikipedia inglesa

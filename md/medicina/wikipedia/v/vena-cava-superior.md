@@ -1,0 +1,55 @@
+---
+type: Artículo de enciclopedia
+title: Vena cava superior
+description: La vena cava superior es una de las dos venas más importantes del cuerpo humano.
+resource: https://es.wikipedia.org/wiki/Vena_cava_superior
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Vena_cava_superior"}
+license: CC BY-SA 4.0
+id: eswiki-Vena_cava_superior
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Vena cava superior
+
+- **Nombre:** Vena cava superior
+- **Ta:** A12.3.03.001
+- **Procedentede:** vena braquiocefálica derechavena braquiocefálica izquierda
+- **Drenaen:** aurícula derecha
+
+La **vena cava superior** es una de las dos venas más importantes del cuerpo humano. Es un *tronco venoso* o vena de gran calibre que recoge la sangre de la cabeza, el cuello, los miembros superiores y el tórax. Se inicia en la unión de las dos venas braquiocefálicas, pasa directamente hacia abajo y desemboca en la aurícula derecha. A través de la **vena cava superior** retorna la sangre de todas las estructuras que quedan por encima del músculo diafragma, con excepción de los pulmones y el corazón.
+
+ Sistema de la vena cava superior
+
+Los afluentes principales de la *vena cava superior* son los siguientes:
+
+Tributarias superficiales:
+ Vena yugular externa
+ Vena yugular anterior
+
+Tributarias profundas:
+ Vena yugular interna
+ Vena vertebral
+ Vena yugular posterior
+ Vena tiroidea inferior
+ Vena ácigos (por medio del cayado de la vena ácigos a nivel de la cuarta vértebra dorsal)
+*Otros autores consideran como único afluente a la Vena ácigos.*
+
+ Trayecto
+
+Se origina en la confluencia entre los dos troncos venosos braquiocefálicos derecho e izquierdo, a la altura del *primer cartílago costal*. Sigue su trayecto inferior y termina a la altura del *tercer cartílago costal*, por donde ingresa a la aurícula derecha. La **vena cava superior** radica a la derecha del mediastino superior, anterolateral a la tráquea y posterolateral a la aorta ascendente. El nervio frénico se encuentra entre la VCS y la pleura mediastínica. La mitad terminal de la VCS está en el mediastino medio, al lado de la aorta ascendente, y forma el límite posterior del seno pericárdico transverso. El final de su trayecto se encuentra en el orificio de la vena cava superior, situado en la pared superior de la aurícula derecha.
+
+ Relación (proximidad) con otras estructuras
+
+ Anterior: timo y sus vestigios.
+ Posterior: *cayado* de la vena ácigos y *pedículo pulmonar derecho*.
+ Lateral: pleura mediastínica del pulmón derecho y nervio frénico derecho.
+ Medial: Aorta ascendente.
+
+ Enfermedad
+Se conoce como vena cava superior izquierda persistente a una anomalía del desarrollo en la que persiste la vena cava superior izquierda, propia del feto, durante la vida postnatal. Esta vena suele drenar en la aurícula izquierda del corazón; la causa de esta malformación es una obliteración (cierre) insuficiente de la parte superior de la *vena cardinal anterior izquierda*. Puede ser una anomalía aislada o puede ir acompañada de otros defectos cardiovasculares, como por ejemplo la tetralogía de Fallot e inflamación de brazos.
+
+ Referencias

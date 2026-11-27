@@ -1,0 +1,50 @@
+---
+type: Artículo de enciclopedia
+title: Síndrome de Hiper-IgD
+description: "El síndrome de hiperinmunoglobulinemia D con fiebre periódica (acrónimo del inglés HIDS) o Deficiencia parcial de mevalonato quinasa, es una enfermedad rara autoinflamatoria, caracterizada por ataques periódicos de …"
+resource: https://es.wikipedia.org/wiki/Síndrome_de_Hiper-IgD
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Síndrome_de_Hiper-IgD"}
+license: CC BY-SA 4.0
+id: eswiki-Síndrome_de_Hiper-IgD
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Síndrome de Hiper-IgD
+
+- **Nombre:** Hiperinmunoglobulinemia D con fiebre recurrente
+- **Diseasesdb:** 30161
+- **Omim:** 260920
+
+El **síndrome de hiperinmunoglobulinemia D con fiebre periódica** (acrónimo del inglés **HIDS)** o Deficiencia parcial de mevalonato quinasa, es una enfermedad rara autoinflamatoria, caracterizada por ataques periódicos de fiebre y una reacción inflamatoria sistémica (linfadenopatía cervical, dolor abdominal, vómitos, diarrea, artralgia y afectación cutánea).
+
+Historia
+Fue descripta en 1984 por el internista Jos van der Meer,
+Se desconoce su prevalencia; hasta el momento se han identificado unos 200 pacientes en todo el mundo.
+
+ Clínica
+Los síntomas de la enfermedad suelen aparecer en el primer año de vida y se manifiestan con episodios febriles acompañados de dolor abdominal, vómitos y diarrea. También se puede observar afectación de las articulaciones (artralgia/artritis), inflamación de los nódulos linfáticos, lesiones cutáneas y dolor de cabeza. Los episodios suelen durar 3-7 días y repetirse al cabo de 2 a 8 semanas, aunque varía en cada paciente. La frecuencia de los episodios es mayor durante la infancia y suele disminuir con la edad. Los episodios pueden presentarse de manera espontánea o ser provocados por vacunas, infecciones, estrés físico o emocional. En general, los pacientes con HIDS no sufren alteraciones en su crecimiento y desarrollo. En ocasiones se han observado complicaciones de la enfermedad como: amiloidosis, adherencias abdominales y, muy raramente, contracturas articulares.
+
+El HIDS es un síndrome heredado de forma autosómica recesiva, causado por mutaciones en el gen mevalonato quinasa (MVK), y se asocia con una reducción de la actividad de la enzima MVK.
+
+Diagnóstico
+El diagnóstico se establece en función de las características clínicas de la enfermedad junto con las pruebas bioquímicas o genéticas que definen el déficit de MVK. Los niveles de IgD en suero están con frecuencia elevados, aunque suelen ser normales en pacientes menores de 3 años. Además, en un 80% de pacientes se han descrito la existencia de niveles elevados de IgA. Durante un ataque, la tasa de sedimentación eritrocitaria aumenta, al igual que los niveles de proteína C reactiva (CRP), Il-1, IL-6 y TNF-alfa. El análisis genético revela una mutación en el gen MVK en todos los pacientes con HIDS.
+
+La aciduria mevalónica (MVA; ver término) es la forma más severa de la deficiencia de mevalonato quinasa y está también causada por una mutación en el gen MVK, y se asocia con un déficit casi total de MVK. En este caso, deben descartarse otras enfermedades autoinflamatorias como la fiebre mediterránea familiar (FMF), el síndrome periódico asociado al receptor de TNF (TRAPS) y el síndrome Muckle-Wells (ver términos). En niños, el cuadro clínico del HIDS puede ser indistinguible del síndrome fiebre periódica - aftosis - faringitis - adenitis (PFAPA; ver término).
+
+El diagnóstico prenatal es teóricamente posible, pero no suele realizarse.
+
+Pronóstico
+En una pareja con un hijo afectado, las posibilidades de engendrar un nuevo hijo con la enfermedad son del 25%, por lo que se recomienda asesoramiento genético.
+
+No existe cura para el HIDS. A día de hoy, tampoco existe un tratamiento establecido. Algunos pacientes han respondido a altas dosis de prednisona. En algunos casos también han sido utilizados con éxito anakinra (un antagonista del receptor de Il-1), y etanercept, inhibidor de TNF-alfa.
+
+El HIDS tiene un buen pronóstico. La esperanza de vida no se ve reducida excepto en casos raros en los que se producen infecciones graves o amiloidosis renal.
+ Referencias
+
+ Enlaces externos
+ Sitio de HIDSNet
+ SAID Support - Hyper-IgD Syndrome

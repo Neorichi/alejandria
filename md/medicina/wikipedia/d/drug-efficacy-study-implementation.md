@@ -1,0 +1,26 @@
+---
+type: Artículo de enciclopedia
+title: Drug Efficacy Study Implementation
+description: "Drug Efficacy Study Implementation —DESI— (en español Implementación del Estudio de la Eficacia de los Medicamentos) fue un programa iniciado por la Food and Drug Administration (FDA) en la década de 1960 después que se …"
+resource: https://es.wikipedia.org/wiki/Drug_Efficacy_Study_Implementation
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Drug_Efficacy_Study_Implementation"}
+license: CC BY-SA 4.0
+id: eswiki-Drug_Efficacy_Study_Implementation
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Drug Efficacy Study Implementation
+
+**Drug Efficacy Study Implementation** —**DESI**— (en español Implementación del Estudio de la Eficacia de los Medicamentos) fue un programa iniciado por la Food and Drug Administration (FDA) en la década de 1960 después que se requiriera (en la Ley de Control de Drogas Kefauver-Harris) que todos los medicamentos fueran eficaces y seguros. El programa DESI tenía la intención de clasificar a todos los medicamentos que ya estuvieran en el mercado previo a 1962, como eficaces, ineficaces, o con necesidad de más  estudios. Se evaluaron más de 3 000 productos diferentes y más de 16 000 demandas terapéuticas. En 1984, se había completado todas las evaluaciones en 3 443 productos, de los cuales 2 225 resultaron ser efectivos, 1 051 ineficaces, y 167 en proceso de estudio. Uno de los primeros efectos de la DESI el estudio fue el desarrollo de la Abbreviated New Drug Application —ANDA— (Solicitud de nuevo fármaco abreviada).
+
+Véase también
+Ley Federal de Alimentos, Medicamentos y Cosméticos de Estados Unidos
+Frances Oldham Kelsey
+Elíxir sulfanilamida
+
+Referencias
+ The Drug Efficacy Study of the National Research Council’s Division of Medical Sciences

@@ -1,0 +1,89 @@
+---
+type: Artículo de enciclopedia
+title: Priapismo
+description: El priapismo es una condición en la que el pene sigue erecto durante horas en ausencia de estimulación o después de que la estimulación ha terminado.
+resource: https://es.wikipedia.org/wiki/Priapismo
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Priapismo"}
+license: CC BY-SA 4.0
+id: eswiki-Priapismo
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Priapismo
+
+- **Nombre:** Priapismo
+- **Diseasesdb:** 25148
+- **Medlineplus:** 003166
+
+El **priapismo** es una condición en la que el pene sigue erecto durante horas en ausencia de estimulación o después de que la estimulación ha terminado.
+
+Se divide en tres tipos: el priapismo isquémico (flujo bajo), el priapismo no isquémico (flujo alto) y priapismo recurrente isquémico (intermitente). La mayoría de los casos son isquémicos. El priapismo isquémico es generalmente doloroso mientras que el no isquémico no lo es. En el priapismo isquémico, la mayor parte del pene permanece duro; sin embargo, el glande no lo está. En el priapismo no isquémico, todo el pene está más o menos duro. Muy rara vez, se produce el priapismo de clítoris en las mujeres.
+
+La enfermedad de células falciformes es la causa más común de priapismo isquémico. Otras causas incluyen el uso de fármacos tales como antipsicóticos,  ISRS y diluyentes de la sangre, así como drogas tales como cocaína y cannabis. El priapismo isquémico se produce cuando la sangre no se drena adecuadamente por el pene. El no isquémico es generalmente debido a una conexión que se forma entre una arteria y el cuerpo cavernoso o la alteración del sistema nervioso parasimpático resultando en un aumento del flujo arterial. El no isquémico puede ocurrir después de un traumatismo en el pene o una lesión de la médula espinal. El diagnóstico puede ser apoyado por análisis de sangre aspirada del pene o de un ultrasonido.
+
+El tratamiento del priapismo depende del tipo. El priapismo isquémico generalmente es tratado con un bloqueo de los nervios del pene, seguido por la aspiración de la sangre de los cuerpos cavernosos. Si esto no es suficiente, los cuerpos cavernosos del pene pueden ser irrigados con solución salina normal fría o ser inyectados con fenilefrina. El priapismo no isquémico es a menudo tratado con compresas frías y compresión. La cirugía puede realizarse si las medidas usuales no son eficaces. En el priapismo isquémico, el riesgo de cicatrización permanente del pene comienza a aumentar después de cuatro horas y, definitivamente, se produce después de 48 horas. El priapismo se presenta en aproximadamente 1 de cada 20 000 a 1 por cada 100 000 varones cada año.
+
+ Etimología
+La palabra priapismo proviene del nombre del dios griego Príapo , un dios de fertilidad a menudo representado con una erección permanente y desproporcionada; en la civilización clásica encarnaba la fuerza fecunda de la naturaleza. De hecho, en la Casa de los Vettii, una villa de Pompeya, existe una pintura con la representación de este dios, que hace referencia explícita a su potencia sexual.
+
+Como tantos otros términos, la medicina lo ha tomado prestado para describir una erección permanente y dolorosa sin excitación sexual.
+
+ Clasificación
+El priapismo se clasifica en tres grupos: isquémico (flujo bajo), no isquémico (flujo alto), y por último el recurrente isquémico. La mayoría de los casos (19 de 20) son isquémicos en la naturaleza.
+
+Algunas fuentes dan a una duración de cuatro horas la definición de priapismo, pero otros la ubican en seis: "La duración de una erección normal antes de que sea clasificada como priapismo es aún controversial. Cuando la erección se da por más de 6 horas puede ser clasificada como priapismo".
+
+El priapismo en mujeres (continua y dolorosa erección del clítoris) es significativamente más raro que el priapismo en los hombres, y es conocido como priapismo clítoral o clítorismo. Se asocia con el trastorno persistente de la excitación genital (PGAD, por sus siglas en inglés). Sólo existen unos pocos informes de casos de mujeres que sufren clítorismo.
+
+ Historia
+Las semi-erecciones persistentes o intermitente estados de erecciones prolongadas han sido, históricamente, llamadas semi-priapismo.
+
+ Etiología
+El priapismo puede estar asociado con trastornos hematológicos, especialmente drepanocitosis, anemia de células, y otras enfermedades tales como leucemia, talasemia, enfermedad de Fabry y trastornos neurológicos, como los de la médula espinal (lesiones y traumatismos de la médula (se han notificado casos en personas ahorcadas: *erección post mortem*.
+
+El priapismo también puede estar asociado con un déficit de glucosa-6-fosfato deshidrogenasa, que conduce a la disminución de los niveles de NADPH. El NADPH es un cofactor implicado en la formación de óxido nítrico, que puede causar priapismo.
+
+La terapia de oxígeno hiperbárico también se ha utilizado con éxito en algunos pacientes. El priapismo se produce también en casos extremos de rabia. También ocurre debido a la rabia encefalitica.
+
+ Medicamentos
+Esta condición puede ser causada como una reacción a ciertos medicamentos. Los medicamentos más comunes que causan priapismo son los inyectados de forma intra-cavernosa para el tratamiento de la disfunción eréctil (papaverina, alprostadil). Otros grupos reportados son los antihipertensivos, antipsicóticos (por ejemplo, clorpromazina, la clozapina), antidepresivos (especialmente trazodone), anti-convulsivante y estabilizador del estado de ánimo, drogas tales como el valproato de sodio, anticoagulantes, cantharides (*Mosca española*) y drogas recreativas (alcohol, heroína y cocaína). El priapismo también puede darse debido a la mordedura de la araña errante brasileña y la viuda negra.
+
+ Patogenia
+Los mecanismos son poco conocidos, pero implican complejos factores neurológicos y vasculares.
+
+ Cuadro clínico
+
+ Complicaciones
+Debido a que el priapismo isquémico  hace que la sangre permanezca en el pene inusualmente por largos períodos de tiempo, la sangre deja de oxigenarse y puede causar daño a los tejidos del pene. Si el tejido del pene se daña, puede resultar en disfunción eréctil o la deformación del pene. En casos extremos, si se desarrolla una enfermedad vascular grave, el priapismo puede resultar en la gangrena del pene.
+
+ Diagnóstico
+El diagnóstico se basa a menudo en la historia de la enfermedad y el examen físico.
+
+La prueba de gas en sangre tomada del pene puede ayudar en el diagnóstico. Si el tipo de priapismo es de flujo bajo, la sangre normalmente tiene un pH bajo, mientras que si es del tipo de flujo alto el pH generalmente es normal. El color del ultrasonido también puede ayudar a diferenciarlos. Comprobar si la persona no tiene una hemoglobinopatía también puede ser razonable.
+
+ Tratamiento
+La evaluación médica se recomienda para las erecciones que duran más de cuatro horas. El dolor a menudo se puede reducir con un bloqueo del nervio dorsal del pene o un anillo de bloqueo. Para aquellos con priapismo no isquémico compresas frías y presión en el área puede ser suficiente.
+
+ Aspiración
+Para aquellos con priapismo isquémico el tratamiento inicial es típicamente la succión de la sangre de los cuerpos cavernosos. Esto procedimiento se hace en cualquiera de los lados. Si este no es suficientemente eficaz, a continuación se puede inyectar solución salina fría.
+
+Si la aspiración no es suficiente una pequeña dosis de fenilefrina puede ser inyectada en el cuerpo cavernoso. Sin embargo, los efectos secundarios de la fenilefrina pueden incluir presión arterial alta, latido cardíaco lento, y arritmia. Si este medicamento es utilizado, se recomienda que los pacientes sean monitoreados durante al menos una hora después de aplicarlo. Para aquellos con priapismo recurrente isquémico se puede utilizar dietilestilbestrol (DES) o terbutalina.
+
+ Cirugía
+Derivaciones distales, como las realizadas por Winter, implican la perforación del glande (la parte distal del pene) en uno de los cuerpos cavernosos, donde se encuentra estancada la sangre. Esto hace que la sangre salga del pene y vuelva a circular. Este procedimiento puede ser realizado por un urólogo en la camilla. Las derivaciones son a menudo la primera técnica invasiva que se utiliza, especialmente en el priapismo inducido hematológicamente, debido a que es relativamente simple y repetible.
+
+Como las tasas de complicaciones debido a priapismos prolongados son altos, la implantación de prótesis de pene puede ser considerada.
+
+ Anemia de células falciformes
+
+El tratamiento de esta anemia es inicialmente con fluidos intravenosos, medicación contra el dolor, y terapia de oxígeno. El tratamiento típico del priapismo puede ser llevado a cabo también. Las transfusiones de sangre no son recomendadas normalmente como parte del tratamiento inicial, pero si otros tratamientos no son efectivos una transfusión de intercambio puede ser realizada.
+
+ Referencias
+
+ Enlaces externos
+
+ Guideline on the Management of Priapism (2003)  - American Urological Association website - The unabridged 275-page version of this guideline.

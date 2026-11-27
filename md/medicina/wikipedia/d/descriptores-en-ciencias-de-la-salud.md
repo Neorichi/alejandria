@@ -1,0 +1,43 @@
+---
+type: Artículo de enciclopedia
+title: Descriptores en Ciencias de la Salud
+description: "El vocabulario estructurado y cuatrilingüe DeCS - Descriptores en Ciencias de la Salud - fue creado por BIREME - Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud en 1986 para uso en la …"
+resource: https://es.wikipedia.org/wiki/Descriptores_en_Ciencias_de_la_Salud
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Descriptores_en_Ciencias_de_la_Salud"}
+license: CC BY-SA 4.0
+id: eswiki-Descriptores_en_Ciencias_de_la_Salud
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Descriptores en Ciencias de la Salud
+
+El vocabulario estructurado y cuatrilingüe **DeCS - Descriptores en Ciencias de la Salud** - fue creado por BIREME - Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud en 1986 para uso en la indización de artículos de revistas científicas, libros, anales de congresos, informes técnicos y otros tipos de materiales, así como para usarse en la búsqueda y recuperación de asuntos de la literatura científica en las bases de datos LILACS, MEDLINE y otras. En la BVS, Biblioteca Virtual en Salud, el DeCS es la herramienta que permite la navegación entre registros y fuentes de información a través de conceptos controlados y organizados en portugués, español, inglés y francés.
+
+Se desarrolló a partir del MeSH - Medical Subject Headings de la NLM - U.S. National Library of Medicine - con objeto de permitir el uso de terminología común para búsqueda en los idiomas de las Américas, proporcionando un medio consistente y único para la recuperación de información independientemente del idioma. Además de los términos médicos originales del MeSH se desarrollaron las áreas específicas de Ciencia y Salud (2005), Homeopatía (1991), Salud Pública (1986) y Vigilancia Sanitaria (2005).
+
+Los conceptos que componen el DeCS se organizan en una estructura jerárquica permitiendo la ejecución de búsquedas en términos más amplios o más específicos o todos los términos que pertenezcan a una misma estructura jerárquica.
+
+Tiene como finalidad principal servir como un lenguaje único para indexación (o indización) y recuperación de información entre los componentes del Sistema Latinoamericano y de Caribe de Información en Ciencias de la Salud, coordinado por BIREME y que abarca 37 países en América Latina y en Caribe, permitiendo un diálogo uniforme entre cerca de 600 bibliotecas.
+
+Participa en el proyecto de desarrollo de terminología única y red semántica en salud, UMLS - Unified Medical Language System de la NLM con la responsabilidad de la actualización anual y envío de los términos del MeSH en portugués y español.
+
+ Referencias
+
+ Véase también
+ Base de datos
+ Lingüística
+ Tesauro
+
+ Enlaces externos
+ DeCS - Descritores en Ciencias de la Salud
+ DeCS en el Wiki de BIREME
+ BIREME - Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud
+ Portal Regional de la BVS - Biblioteca Virtual en Salud
+ NLM - U. S. National Library of Medicine
+ MeSH - Medical Subject Headings
+ UMLS - Unified Medical Language System
+ Metodología LILACS

@@ -1,0 +1,74 @@
+---
+type: Artículo de enciclopedia
+title: Mastoiditis
+description: La mastoiditis es una infección de la apófisis mastoides o hueso mastoideo del cráneo.
+resource: https://es.wikipedia.org/wiki/Mastoiditis
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Mastoiditis"}
+license: CC BY-SA 4.0
+id: eswiki-Mastoiditis
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Mastoiditis
+
+La **mastoiditis** es una infección de la apófisis mastoides o hueso mastoideo del cráneo. Este hueso está localizado por detrás de la oreja/oído.
+
+ Síntomas de la mastoiditis
+ Secreción del oído
+ Dolor o molestia en el oído
+ Fiebre que puede ser alta o incrementarse súbitamente
+ Dolor de cabeza
+ Enrojecimiento del oído o por detrás de este
+ Hinchazón detrás del oído que puede hacer que éste sobresalga
+
+ Causas de la mastoiditis
+La mastoiditis generalmente es causada por una infección del oído medio (otitis media aguda). La infección se puede diseminar desde el oído hasta el hueso mastoideo del cráneo. Este hueso se llena de materiales infectados y su estructura en forma de panal se puede deteriorar.
+
+La mastoiditis afecta por lo general a los niños. Antes de que existieran los antibióticos, la mastoiditis era una de las causas principales de muerte infantil, pero en la actualidad es una enfermedad relativamente escasa y mucho menos peligrosa.
+
+ Exámenes y pruebas de la mastoiditis
+
+Un examen de la cabeza puede revelar signos de mastoiditis. Los siguientes exámenes pueden mostrar una anomalía en el hueso mastoideo:
+ Tomografía computarizada del oído
+ Tomografía computarizada de la cabeza
+ Radiografía del cráneo. Un cultivo del drenaje del oído puede revelar presencia de bacterias.
+
+ El tratamiento de la mastoiditis
+La mastoiditis puede ser difícil de tratar, debido a que los medicamentos pueden no alcanzar la profundidad suficiente dentro del hueso mastoideo y además puede requerir un tratamiento repetitivo o prolongado. La infección se trata con antibióticos por medio de inyección y luego por vía oral.
+
+En caso de que la terapia con antibióticos no sea efectiva, es posible que se necesite una cirugía para extraer parte del hueso mastoideo y drenarlo (mastoidectomía). Para el tratamiento de la infección del oído medio, se puede necesitar cirugía para drenar el oído medio a través del tímpano (miringotomía).
+
+ Expectativas (pronóstico)
+La mastoiditis es curable con tratamiento; sin embargo, puede ser difícil de tratar y puede reaparecer.
+
+ Complicaciones
+ Destrucción del hueso mastoideo
+ Mareo o vértigo
+ Absceso epidural
+ Parálisis facial
+ Meningitis
+ Hipoacusia parcial o completa
+ Diseminación de la infección al cerebro o en todo el cuerpo
+
+ Situaciones que requieren un especialista médico
+Consulte con el médico si tiene síntomas de mastoiditis.
+
+Solicite una cita con el médico si:
+ Tiene una infección en el oído que no responde al tratamiento o que va seguida de nuevos síntomas
+ Los síntomas no responden al tratamiento
+
+ Prevención de la mastoiditis
+El tratamiento completo y oportuno de las infecciones del oído reduce el riesgo de la mastoiditis.
+
+ Véase también
+ Hipoacusia
+ Meningitis
+ Parálisis facial
+
+ Referencias
+ Cummings CW, Flint PW, Haughey BH, et al. Otorrinolaringología: Cirugía de Cabeza y Cuello. 4th ed. St Louis, Mo; Mosby; 2005:3019-3020.
+ Mandell GL, Bennett JE, Dolin R. Principios y Práctica de Enfermedades Infecciosas. 6th ed. London: Churchill Livingstone; 2005:771

@@ -1,0 +1,26 @@
+# Vulnerabilidades explotadas (CISA KEV)
+
+* [2002](2002/) - 1 conceptos
+* [2004](2004/) - 2 conceptos
+* [2005](2005/) - 1 conceptos
+* [2006](2006/) - 2 conceptos
+* [2007](2007/) - 3 conceptos
+* [2008](2008/) - 6 conceptos
+* [2009](2009/) - 15 conceptos
+* [2010](2010/) - 23 conceptos
+* [2011](2011/) - 9 conceptos
+* [2012](2012/) - 22 conceptos
+* [2013](2013/) - 38 conceptos
+* [2014](2014/) - 34 conceptos
+* [2015](2015/) - 48 conceptos
+* [2016](2016/) - 60 conceptos
+* [2017](2017/) - 86 conceptos
+* [2018](2018/) - 89 conceptos
+* [2019](2019/) - 119 conceptos
+* [2020](2020/) - 146 conceptos
+* [2021](2021/) - 216 conceptos
+* [2022](2022/) - 132 conceptos
+* [2023](2023/) - 168 conceptos
+* [2024](2024/) - 166 conceptos
+* [2025](2025/) - 191 conceptos
+* [2026](2026/) - 228 conceptos

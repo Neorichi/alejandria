@@ -1,0 +1,73 @@
+---
+type: Artículo de enciclopedia
+title: El club de la medianoche
+description: "El club de la medianoche (en inglés: The Midnight Club) es una serie de televisión en línea estadounidense de terror y suspenso creada por Mike Flanagan y Leah Fong para Netflix."
+resource: https://es.wikipedia.org/wiki/El_club_de_la_medianoche
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/El_club_de_la_medianoche"}
+license: CC BY-SA 4.0
+id: eswiki-El_club_de_la_medianoche
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# El club de la medianoche
+
+- **Distribuidora:** Netflix
+- **Medios de difusión:** Netflix
+- **Tipo:** 4
+- **Empresa productora:** Intrepid Pictures
+- **Creador:** Mike Flanagan
+- **Idioma:** Inglés
+- **País de origen:** Estados Unidos
+- **Basado en:** El Club de Medianoche de Christopher Pike
+- **Título:** El Club de la Medianoche
+
+***El club de la medianoche*** (en inglés: ***The Midnight Club***) es una serie de televisión en línea estadounidense de terror y suspenso creada por Mike Flanagan y Leah Fong para Netflix. Flanagan ejerce como *showrunner*, además de productor ejecutivo junto con Trevor Macy. Es una adaptación de la novela de literatura juvenil de Christopher Pike *El Club de Medianoche* (1994), aunque incorpora también otras novelas de Pike. La historia sigue a un grupo de pacientes terminales residentes de un hospicio que se reúnen cada medianoche para contarse historias de terror. Tras un tiempo, hacen un pacto por el cual quien muera primero se pondrá en contacto con los demás desde más allá. Está protagonizada por Iman Benson, Adia, Igby Rigney, Ruth Codd, Aya Furukawa, Annarah Shephard, William Chris Sumpter, Sauriyan y Sapkota como los pacientes titulares, y Heather Langenkamp como la enigmática médica que dirige el hospicio *Rotterdam Home*. Zach Gilford, Matt Biedel y Samantha Sloyan actúan en papeles secundarios.
+
+ Sinopsis
+
+Un grupo de ocho jóvenes, enfermos terminales, residen en el hospicio Brightcliffe, el cual está dirigido por una misteriosa doctora. Cada medianoche se reúnen para contar historias de terror.
+
+Siguiendo la supuesta curación de cáncer de tiroides de una adolescente llamada Julia, Ilonka se interna en el hospital, dónde conoce al Club de la Medianoche y en el primer día hacen un pacto: el primero en sucumbir a su enfermedad deberá comunicarse con los demás desde más allá de la tumba.
+
+Tras conocer a vecinos del lugar que ven criaturas de ojos rojos, ver personas muertas, y darle seguimiento a un libro que dejó Julia en la biblioteca descubren un sótano donde se practica el rito, o culto a las 5 diosas que deciden realizar. Tras la muerte de uno de ellos debido al ritual antiguo, que en algún tiempo incluyó el asesinato para prolongar la vida, comienzan una serie de sucesos extraños.
+
+ Elenco
+
+ Principal
+
+ Iman Benson
+ Adia
+ Igby Rigney
+ Ruth Codd
+ Aya Furukawa
+ Annarah Cymone
+ William Chris Sumpter
+ Sauriyan Sapkota
+ Heather Langenkamp como el médico enigmático que dirige el hospicio para jóvenes adultos.
+
+ Secundario
+
+ Zach Gilford
+ Matt Biedel
+ Samantha Sloyan
+ Larsen Thompson
+ William B. Davis
+ Crystal Balint
+ Patricia Drake
+
+ Producción
+En mayo de 2020 se anunció que se crearía una adaptación de la novela de literatura juvenil de Christopher Pike, *El Club de Medianoche* (1994), para la plataforma de Netflix.
+
+ Reparto
+Flanagan reveló el reparto en una serie de tuits en Twitter: Adia, Igby Rigney, Ruth Codd, Aya Furukawa, Annarah Shephard, William Chris Sumpter, Sauriyan Sapkota como el elenco principal, y Heather Langenkamp como el médico que dirige el hospicio. Zach Gilford, Matt Biedel, y la frecuente colaboradora de Flanagan, Samantha Sloyan, asumirán roles secundarios. En abril de 2021, Iman Benson, Larsen Thompson, William B. Davis, Crystal Balint y Patricia Drak se unieron al reparto.
+
+ Rodaje
+El proyecto comenzó la producción el 15 de marzo en Burnaby, Canadá, y estaba previsto que concluyera el 8 de septiembre de 2021; aunque no se finalizó hasta el 10 de septiembre. Los dos primeros episodios de la serie están dirigidos por Flanagan, mientras que otros capítulos serán dirigidos por Axelle Carolyn, Emmanuel Osei-Kuffour, Michael Fimognari, Morgan Beggs y Viet Nyugen.
+
+ Referencias
+
+ Enlaces externos

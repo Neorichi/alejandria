@@ -1,0 +1,83 @@
+---
+type: Artículo de enciclopedia
+title: Aspidogastrea
+description: "Los aspidogástreos o aspidogastros (Aspidogastrea, del griego aspis, \"escudo\" y gaster, \"vientre\") son una subclase de platelmintos trematodos, parásitos de moluscos y vertebrados acuáticos."
+resource: https://es.wikipedia.org/wiki/Aspidogastrea
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Aspidogastrea"}
+license: CC BY-SA 4.0
+id: eswiki-Aspidogastrea
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Aspidogastrea
+
+- **Name:** Aspidogastrea
+- **Regnum:** Animalia
+- **Phylum:** Platyhelminthes
+- **Subphylum:** Rhabditophora
+- **Superclassis:** Neodermata
+- **Classis:** Trematoda
+- **Subclassis:** Aspidogastrea
+- **Subdivision ranks:** familia
+- **Subdivision:** Aspidogastridae Multicalycidae Rugogastridae Stichocotylidae
+- **Synonyms:** Aspidobothria Aspidobothrea
+
+Los **aspidogástreos** o **aspidogastros** (**Aspidogastrea**, del griego *aspis*, "escudo" y *gaster*, "vientre") son una subclase de platelmintos trematodos, parásitos de moluscos y vertebrados acuáticos. Su longitud varía entre aproximadamente 1 mm hasta varios centímetros. Son un grupo muy pequeño con unas 80 especies conocidas, lo que contrasta mucho con la otra subclase de trematodos, los digeneos, que tiene 6.000.
+
+Todas las especies son parásitas de moluscos y vertebrados, tanto marinos como de agua dulce, entre los que se encuentran peces óseos y cartilaginosos y tortugas. Ninguna especie es parásita de los seres humanos o causa daños económicos, pero el grupo es de un gran interés para los zoólogos ya que presentan muchas características aparentemente arcaicas.
+
+ Características
+
+Los aspidogastros se caracterizan por la presencia de un gran disco adhesivo ventral que consiste en una serie surcos transversos, en una fila simple de pequeñas ventosas, o tres o cuatro filas de alvéolos. El tegumento está cubierto de pequeñas protrusiones llamadas micortubérculos.
+
+ Aparato excretor
+Como la mayoría de los platelmintos los aspidogastros poseen como órganos excretores los protonefridios. Las dos glándulas excretoras que poseen se localizan en la parte dorsal, cada una a un lado del cuerpo, y constan de tres células flamígeras cada una que desembocan al exterior a través de un conducto ciliado.
+
+ Sistema nervioso
+Los aspidogástreos poseen un sistema nervioso muy complejo en comparación con otros platelmintos. Tienen un gran número de receptores sensoriales de muchos tipos distintos, dispersos sobre la superficie dorsal y sobre todo la ventral y en el disco adhesivo. Estudios con microscopía electrónica han revelado la presencia de 13 tipos de receptores, incluyendo ojos. El cerebro es dorsal y se sitúa en la parte anterior del cuerpo. Poseen muchos nervios longitudinales conectados por comisuras circulares.
+
+ Larvas
+Las larvas de los aspidogastros poseen siempre una ventosa posterior y pueden tener una falsa ventosa anterior, llamada así porque no está separada de los tejidos circundantes por auténtico tejido conectivo. Las larvas de algunas especies poseen áreas ciliadas; las de *Multicotyle purvisi* presentan cuatro de estas áreas en la zona anterior de la ventosa posterior y seis en la zona posterior; las larvas de *Cotylogaster occidentalis* presentn un anillo anterior con ocho áreas ciliadas y uno posterior con seis, mientras que las de *Aspidogaster conchicola*, *Lobatostoma manteri* y *Rugogaster hydrolagi* carecen de cilios.
+
+ Ciclo biológico
+Todos los aspidogastros son hermafroditas. Aunque sus hospedadores son vertebrados y moluscos, en éstos no se produce etapas larvarias multiplicativas, como ocurre en los trematodos digeneos, sino que un huevo produce directamente en adulto. El ciclo biológico es, pues, mucho más simple en los aspidogátreos.
+
+La especificidad por el hospedador es muy baja y una misma especie puede infectar muchas especies diferentes (los digeneos son mucho más selectivos). Por ejemplo, *Aspidogaster conchicola* infecta muchas especies de bivalvos de agua dulce pertenecientes a diversas familias, así como caracoles, numerosas especies de peces y tortugas.
+
+El ciclo biológico se ha elucidado solo en algunas especies. *Lobatostoma manteri* es una de ellas; tiene a un vertebrado como hospedador obligado. Los adultos viven en el intestino delgado del pez teleósteo *Trachinotus blochi* de la Gran Barrera australiana; los parásitos producen un gran número de huevos que son liberados con las heces. Cuando son ingeridos por diversas especies de gasterópodos prosobranquios, las larvas de emergen en el estómago y, dependiendo de la especie de caracol, permanecen allí o bien migran al hepatopancreas donde se desarrollan hasta el estadio preadulto, que tiene todas las características del gusano adulto, incluyendo ovarios y testículos.
+
+ Relaciones evolutivas
+Los aspidogastros, a diferencia de los digeneos, sobreviven durante días o incluso semanas fuera de sus hospedadores, en un medio simple como una solución fisiológica. Por ejemplo, los adultos de *A. conchicola* sobreviven en agua dos semanas y, en una mezcla de agua y solución salina, durante cinco. *L. manteri* extraído de un pez se mantuvo vivo 13 días en agua de mar diluida y puso huevos con larvas capaces de infectar un caracol. Todo ello sugiere que los aspidogastros son trematodos arcaicos que todavía no se han adaptado por completo a sus hospedadores y que pudieron dar origen a los digeneos y, por tanto, los complejos ciclos biológicos de éstos podrían haber evolucionado de los ciclos simples de los aspidogástreos.
+
+Las sinapomorfías (caracteres comunes derivados) de los trematodos son la presencia de un canal de Laurer, de ventosa posterior (transformada en un disco adhesivo en los aspidogastros), y ciclos biológicos que involucran moluscos y vertebrados.
+
+Estudios basados en ADN han demostrado de manera concluyente que los aspidogastros son el grupo hermano de la otra subclase de trematodos, los digeneos, lo cual queda también provado por el estudio de los hospedadores de estos grupos; así, los hospedadores de los aspiodogástreos son los condrictios (tiburones, rayas) y las quimeras, un grupo con una antigüedad ee 450 millones de años, mientras que los hospedadores de los digeneos son peces teleósteos, con 210 millones de años de antigüedad, y vertebrados superiores, y muy pocas especies parasitan condrictios. Queda por dilucidar si los hospedadores originales de los trematodos fueron los moluscos o los vertebrados.
+
+ Taxonomía
+Rohde (2001) distingue cuatro familis de aspidogastros:
+
+Familia **Rugogastridae**. Incluye un solo género, *Rugogaster*, con dos especies de las glándulas rectales de quimeras. Se caracterizan por poseer una sola hilera de rugosidades en el disco adhesivo, numerosos testículos y dos ciegos. Las especies de las otras familias tienen un solo ciego y uno o dos testículos.
+Familia **Stichocotylidae**. Incluye una sola especie, *Stichocotyle nephropis*  del intestino de elasmobranquios. Presenta una sola hilera de ventosas separadas entre sí.
+Familia **Multicalycidae**. Incluye un solo género, *Multicalyx*, del intestino de quimeras y elasmobranquios. Se caracteriza poe poseer una sola hilera de alvéolos en el disco adhesivo.
+
+Familia **Aspidogastridae**. Incluye especies que parasitan moluscos, teleóstos y tortugas. El disco adhesivo ventral tiene tres o cuatro hileras de alvéolos. Se subdivide en tres subfamilias, Rohdellinae, Cotylaspidinae y Aspidogastrinae.
+
+Gibson (1987) reconocía dos órdenes de aspidogastros:
+
+ Orden **Aspidogastrida** que incluye la familia Aspidogastridae.
+ Orden **Stichocotylida** que incluye las familias Stichocotylidae, Multicalycidae y Rugogastridae.
+
+No obstante, la similitudes entre las diferentes especies son tan grandes que la diferenciación de dos órdenes no parece justificada.
+
+ Referencias
+
+ Enlaces externos
+ Aspidogastrea from Tree of Life
+ Checklist of European aspidogastreans
+ Fishdisease.net
+ Rohde, K. *The Aspidogastrea: A Parasitological Model II*. Knol
+ Rohde, K. *The Aspidogastrea: A Parasitological Model III*. Knol

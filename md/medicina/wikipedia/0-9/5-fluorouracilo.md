@@ -1,0 +1,65 @@
+---
+type: Artículo de enciclopedia
+title: 5-fluorouracilo
+description: El 5-fluorouracilo, también conocido como 5-FU, es un potente antimetabolito utilizado en el tratamiento del cáncer.
+resource: https://es.wikipedia.org/wiki/5-fluorouracilo
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/5-fluorouracilo"}
+license: CC BY-SA 4.0
+id: eswiki-5-fluorouracilo
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# 5-fluorouracilo
+
+- **Nombre iupac:** 5-fluoropirimidina-2,4-diona
+- **Prefijo atc:** L01
+- **Sufijo atc:** BC02
+- **Pubchem:** 3385
+- **Chemspiderid:** 3268
+- **Drugbank:** DB00544
+- **Chebi:** 46345
+- **C:** 4
+- **H:** 3
+- **N:** 2
+
+El **5-fluorouracilo**, también conocido como **5-FU**, es un potente antimetabolito utilizado en el tratamiento del cáncer. Pertenece al grupo de antimetabolitos conocido como fluoropirimidinas, al igual que la capecitabina y la floxuridina.
+
+ Antecedentes
+El primero en informar sobre la síntesis y actividad biológica del 5-fluorouracilo fue el equipo de trabajo del doctor Charles Heidelberger y sus colegas a finales de la década de los cincuenta. Fue uno de los primeros fármacos utilizados en oncología y desde que se descubrió la característica carcinostática del 5-fluorouracilo, se han buscado maneras de atacar las células tumorales y estudiado la forma en que este fármaco actúa. Posteriormente se desarrollaron derivados con resultados más o menos satisfactorios.
+
+ Farmacología
+El 5-fluorouracilo es un fármaco que bloquea la reacción de metilación del ácido desoxiuridílico para convertirlo en ácido timidílico mediante la inhibición de una enzima que es importante para la síntesis de la timidina, que siendo parte de la molécula de ADN detiene su formación. El fármaco es específico del ciclo de fase celular, fase S.
+
+ Mecanismo de acción
+El 5-fluorouracilo interviene en la síntesis de ADN e inhibe en poco grado la formación de ARN. Ambas acciones se combinan para promover un desequilibrio metabólico que resulta en la muerte de la célula. La actividad inhibitoria del fármaco, por su analogía con el uracilo, tiene efecto sobre el veloz crecimiento de las células neoplásicas que aprovechan preferentemente la molécula del uracilo para la biosíntesis del ácido nucleico. Los efectos de una privación de ADN y ARN atacan más a las células que crecen y se multiplican sin control que a las normales.
+
+Su eficacia radica en que se une de forma irreversible a la enzima timidilato sintasa, esencial para la síntesis de nucleótidos de timina. La timina es una de las cuatro bases nitrogenadas que forman parte del ADN, y su carencia implica que el ADN no se puede replicar, lo que inhibe la división celular, y por tanto, el crecimiento tumoral.
+
+ Indicaciones terapéuticas
+ Enfermedad de Bowen
+ Basaliomas superficiales solos o acompañados.
+ Cáncer de páncreas, integrándose en las líneas FOLFIRINOX, FOLFOX, FOLFIRI y FIRGEM.
+ Cáncer de colon o recto con metástasis, en asociación con irinotecán y leucovorina.
+La solución inyectable se utiliza en ciertos casos como paliativo de los carcinomas de seno, recto y colon cuando no pueda intervenirse quirúrgicamente.
+
+ Advertencias y precauciones
+Las mujeres embarazadas deben evitar el medicamento a menos que el oncólogo tratante lo autorice según su análisis de la historia clínica. En la aplicación tópica, la superficie cutánea tratada no debe ser mayor de 500cm², alrededor de 23 × 23cm.
+
+Personas con deficiencia de dihidropirimidina deshidrogenasa DPD, enzima fundamental en el metabolismo del fluorouracilo, pueden desarrollar una toxicidad grave e inesperada por una deficiencia en la actividad de la DPD (por ejemplo, estomatitis, diarrea, inflamación mucosa, neutropenia y neurotoxicidad). Así mismo los pacientes con mutaciones del Gen DPYD que causan deficiencia de DPD, tienen un mayor riesgo de toxicidad potencialmente mortal, y no deben ser tratados con 5-fluorouracilo ni ninguna otra fluoropirimidina (capecitabina, floxuridina y fluorouracilo). Para aquellos pacientes tratados con fluoropirimidinas se recomienda la realización de una prueba genética anterior al tratamiento que determine si poseen deficiencia del Gen DPYD.
+
+ Formas farmacéuticas
+ Ampolleta conteniendo 250mg endovenosa.
+ Crema tópica al 1% y 5%.
+ Solución tópica al 1%, 2% y 5%.
+
+ Véase también
+ Α-hederina
+
+ Referencias
+
+ Bibliografía
+ Bertram G. Katzung; p.946.

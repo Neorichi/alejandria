@@ -1,0 +1,49 @@
+# MedlinePlus en español · l
+
+* [Labio leporino y paladar hendido](labio-leporino-y-paladar-hendido.md) - El paladar hendido y el labio leporino sucede en los primeros meses de embarazo. Un bebé puede tener paladar hendido o labio leporino o ambos. 
+* [Lactancia](lactancia.md) - La lactancia materna ofrece a su bebé los nutrientes que necesita y puede protegerlo contra algunas enfermedades. Todos los beneficios aquí.
+* [Ladilla](ladilla.md) - Las ladillas o piojos del pubis son insectos muy pequeños que en general viven en el área púbica o genital de los humanos.
+* [Leishmaniasis](leishmaniasis.md) - La leishmaniasis (leishmania), también conocida como Kala-azar, es una enfermedad parasitaria transmitida por la picadura de un mosquito infectado.
+* [Lesiones de la espalda](lesiones-de-la-espalda.md) - Las lesiones de la espalda más comunes son distenciones y torceduras, discos herniados y fractura de vértebras. Entérese sobre tratamientos y más aquí.
+* [Lesiones del manguito rotatorio del hombro](lesiones-del-manguito-rotatorio-del-hombro.md) - Tendinitis, bursitis y desgarros son problemas comunes del manguito rotatorio. Entérese sobre las lesiones del hombro aquí.
+* [Lesiones del ojo](lesiones-del-ojo.md) - Las lesiones oculares pueden ser lo suficientemente grave como para dañar su visión. Entérese sobre prevención y primeros auxilios en caso de una lesión.
+* [Lesiones del plexo braquial](lesiones-del-plexo-braquial.md) - Lesiones del plexo braquial se producen por un trauma en el hombro, tumores o inflamación. Entérese sobre  tratamientos como la terapia física y cirugía.
+* [Lesiones en la cabeza](lesiones-en-la-cabeza.md) - De moderadas a graves, es importante conocer las señales de advertencia de las lesiones de la cabeza. Más información sobre las lesiones de la cabeza aquí.
+* [Lesiones por electricidad](lesiones-por-electricidad.md) - Cuando usted entra en contacto directo con la electricidad, la corriente puede pasar por su cuerpo y causar lesiones internas o externas. Entérese aquí.
+* [Lesiones por inhalación](lesiones-por-inhalacion.md) - Hay una gran variedad de sustancias como el humo y los gases tóxicos que se pueden inhalar y causar lesiones internas. Síntomas y tratamiento aquí.
+* [Lesiones y enfermedades de la cadera](lesiones-y-enfermedades-de-la-cadera.md) - Conozca los detalles sobre diferentes problemas de la cadera y los tratamientos o terapias aqui.
+* [Lesiones y enfermedades de la cara](lesiones-y-enfermedades-de-la-cara.md) - Las lesiones de la cara pueden causar dolor y afectar la apariencia. Podrían afectar la vista, la respiración y la capacidad de tragar. Entérese aquí.
+* [Lesiones y enfermedades de la columna vertebral](lesiones-y-enfermedades-de-la-columna-vertebral.md) - Las lesiones y trastornos de la columna, como la escoliosis o hernia de disco, pueden causar dolor y otros problemas. Entérese sobre tratamientos y más.
+* [Lesiones y enfermedades de la mandíbula](lesiones-y-enfermedades-de-la-mandibula.md) - Los tipos de lesiones y trastornos de la mandíbula que pueden causar problemas son las dislocaciones, fracturas y los dientes desalineados. Más aquí.
+* [Lesiones y enfermedades de la mano](lesiones-y-enfermedades-de-la-mano.md) - ¿Está experimentando problemas con sus manos como dolor o rigidez? Encuentre información acerca de lesiones y trastornos de las manos aquí.
+* [Lesiones y enfermedades de la muñeca](lesiones-y-enfermedades-de-la-muneca.md) - El dolor en la muñeca puede ser causado por movimientos repetitivos, lesiones u otros problemas. Más sobre trastornos y lesiones de la muñeca aquí.
+* [Lesiones y enfermedades de la nariz](lesiones-y-enfermedades-de-la-nariz.md) - Hay muchos problemas que pueden afectar a la nariz: la desviación del tabique nasal, pólipos, hemorragias, rinitis, o fracturas. Aprenda más aquí.
+* [Lesiones y enfermedades de la pierna](lesiones-y-enfermedades-de-la-pierna.md) - Las lesiones y trastornos de las piernas pueden afectar a toda la pierna o sólo una parte. Lea sobre esguinces, torceduras y fracturas de la pierna.
+* [Lesiones y enfermedades de la rodilla](lesiones-y-enfermedades-de-la-rodilla.md) - Las lesiones y trastornos de la rodilla pueden causar dolor y rigidez. Entérese cómo las enfermedades reumáticas y daño al cartílago afectan a la rodilla.
+* [Lesiones y enfermedades de los dedos](lesiones-y-enfermedades-de-los-dedos.md) - ¿Se machucó el dedo por accidente? Es difícil regresar a sus quehaceres diarios. Entérese sobre las lesiones y trastornos de los dedos aquí.
+* [Lesiones y enfermedades de los dedos del pie](lesiones-y-enfermedades-de-los-dedos-del-pie.md) - Lesiones y trastornos del dedo del pie incluyen juanetes, esguinces, fracturas y uñas encarnadas. Lea sobre dolor del dedo del pie y sus tratamientos. 
+* [Lesiones y enfermedades del brazo](lesiones-y-enfermedades-del-brazo.md) - Lesiones y trastornos del brazo incluyen problemas de los nervios, esguinces, luxaciones, tendinitis y enfermedades como la artritis. Más aquí.
+* [Lesiones y enfermedades del codo](lesiones-y-enfermedades-del-codo.md) - Hay muchas cosas que pueden causar dolor en el codo. Los problemas más comunes son la tendinitis, bursitis y la artritis. Entérese.
+* [Lesiones y enfermedades del cuello](lesiones-y-enfermedades-del-cuello.md) - El dolor de cuello es muy común y puede ocurrir por muchas razones. Aprenda las diferentas causas y cómo lidiar con el dolor de cuello.
+* [Lesiones y enfermedades del hombro](lesiones-y-enfermedades-del-hombro.md) - Los hombros se pueden ver afectados por lesiones como los esguinces, distensiones y desgarro del manguito rotador. Tratamientos para lesiones aquí.
+* [Lesiones y enfermedades del pie](lesiones-y-enfermedades-del-pie.md) - El cuidado de los pies es una parte importante de su cuidado de salud general. Aprenda sobre las lesiones y trastornos comunes de los pies.
+* [Lesiones y enfermedades del talón](lesiones-y-enfermedades-del-talon.md) - ¿Qué causa el dolor en el talón? Lea sobre las causas y condiciones que pueden resultar en problemas con dolor en el talón. 
+* [Lesiones y enfermedades del tobillo](lesiones-y-enfermedades-del-tobillo.md) - Las lesiones del tobillo y los trastornos del tobillo pueden afectar los tendones y el cartílago. Aprenda sobre los esguinces y fracturas del tobillo.
+* [Lesiones y enfermedades del tórax](lesiones-y-enfermedades-del-torax.md) - Al interior de su pecho se encuentran órganos vitales, como el corazón, el esófago y los pulmones. Conozca las diferentes lesiones y enfermedades del tórax
+* [Lesión cerebral traumática](lesion-cerebral-traumatica.md) - El traumatismo cerebral ocurre cuando una lesión o golpe en la cabeza daña el cerebro. El tratamiento y pronóstico dependen de lo grave de la lesión.
+* [Leucemia](leucemia.md) - La leucemia es el cáncer de los glóbulos blancos. Hay dos clases de leucemia: aguda y crónica. Aprenda más sobre los diversos tipos.
+* [Leucemia en niños](leucemia-en-ninos.md) - La leucemia es el cáncer de los glóbulos blancos y es el tipo de cáncer infantil más común. Aprenda sobre síntomas y opciones de tratamiento.
+* [Leucemia linfocítica aguda](leucemia-linfocitica-aguda.md) - La leucemia linfocítica aguda o la leucemia linfoblástica aguda es un cáncer de los glóbulos blancos. Información sobre los síntomas y el tratamiento.
+* [Leucemia linfocítica crónica](leucemia-linfocitica-cronica.md) - La leucemia linfocítica crónica es un cáncer de los glóbulos blancos. Es el segundo tipo de leucemia más común en adultos. Tratamientos aquí.
+* [Leucemia mielógena aguda](leucemia-mielogena-aguda.md) - La leucemia mieloide (mielógena) aguda es un cáncer de los glóbulos blancos. Este tipo de cáncer generalmente empeora rápidamente si no es tratado. 
+* [Leucemia mielógena crónica](leucemia-mielogena-cronica.md) - La leucemia mieloide (mielógena) crónica es un cáncer de los glóbulos blancos. Por lo general, afecta a los adultos mayores. Síntomas y tratamientos.
+* [Leucodistrofias](leucodistrofias.md) - Las leucodistrofias son enfermedades raras que afectan a las células del cerebro y a menudo son genéticas. Lea más información aquí acerca del tema.
+* [Ligadura de trompas](ligadura-de-trompas.md) - La ligadura de trompas es una cirugía para prevenir que una mujer quede embarazada. Información sobre esta forma permanente de anticoncepción aquí.
+* [Limpieza, sanitización y desinfección](limpieza-sanitizacion-y-desinfeccion.md) - Para evitar infectarse con gérmenes de superficies y objetos, es importante lavarse las manos con frecuencia. También debe limpiar y desinfectar superficies y o
+* [Linfedema](linfedema.md) - La linfedema es un tipo de inflamación que ocurre cuando la linfa se acumula en el tejido blando del cuerpo. Causas y opciones para tratamiento aquí.
+* [Linfoma](linfoma.md) - El linfoma es un cáncer y afecta al sistema inmunitario. El linfoma de Hodgkin y el linfoma no Hodgkin son tipos de linfoma. Síntomas y tratamientos.
+* [Linfoma de Hodgkin](linfoma-de-hodgkin.md) - El linfoma de Hodgkin es un tipo de cáncer del sistema linfático. Aprenda sobre los síntomas y tratamientos aquí.
+* [Lipoproteína de muy baja densidad (VLDL)](lipoproteina-de-muy-baja-densidad-vldl.md) - VLDL es uno de los tipos de colesterol "malo". Tener demasiado puede provocar una acumulación de colesterol en las arterias. Aprenda cómo reducir su nivel de VL
+* [Lunares](lunares.md) - Los lunares son crecimientos de la piel. La mayoría de la gente los tiene. Consulte con su médico si algún lunar o marca cambia de tamaño o de color.
+* [Lupus](lupus.md) - El lupus es una enfermedad autoinmune que hace que su sistema inmunitario ataque sus tejidos y células sanos. Esto puede causar daños a muchas partes de su cuer
+* [Lágrimas](lagrimas.md) - Las lágrimas mantienen sus ojos limpios y húmedos. Lea acerca de las lágrimas y los problemas que pueden suceder con el conducto lagrimal de sus ojos.

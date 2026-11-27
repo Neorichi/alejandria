@@ -1,0 +1,58 @@
+---
+type: Artículo de enciclopedia
+title: Granuloma inguinal
+description: El granuloma inguinal, donovanosis o granuloma venéreo es una enfermedad bacteriana producida por el bacilo Gram-negativo Klebsiella granulomatis (antes conocida como Calymmatobacterium granulomatis).
+resource: https://es.wikipedia.org/wiki/Granuloma_inguinal
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Granuloma_inguinal"}
+license: CC BY-SA 4.0
+id: eswiki-Granuloma_inguinal
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Granuloma inguinal
+
+- **Nombre:** Granuloma inguinal
+- **Diseasesdb:** 3888
+- **Medlineplus:** 000636
+- **Meshid:** D006100
+- **Sinónimos:** Donovanosis, granuloma venéreo
+
+El **granuloma inguinal**, **donovanosis** o **granuloma venéreo** es una enfermedad bacteriana producida por el bacilo Gram-negativo *Klebsiella granulomatis* (antes conocida como *Calymmatobacterium granulomatis*). Es una infección de transmisión sexual.
+
+Fue descrita por primera vez en Calcuta, en 1882; y la bacteria fue reconocida por Charles Donovan en Madrás, en 1905.
+
+Epidemiología
+La donovanosis es endémica de áreas tropicales y subtropicales, como Papúa Nueva Guinea, Australia central, El Caribe, Sudamérica, sur de África, India y Vietnam. Se dan casos en países desarrollados, pero son poco frecuentes. La mayoría de los casos ocurre en adultos entre los 20-40 años de edad, y tiene mayor prevalencia en hombres. Está asociada a una pobre higiene y es más común en estratos sociales bajos. Se trasmite principalmente por vía sexual, aunque se han reportado casos de transmisión madre a hijo al momento del parto, o por inoculación accidental.
+
+Manifestaciones clínicas
+
+El periodo de incubación usualmente es de 1 a 6 semanas, después de las cuales aparecen uno o más nódulos subcutáneos en genitales (pene o vulva) o región inguinal que se erosionan y forman úlceras. Estas úlceras suelen ser limpias, de borde bien definidos, indoloras y sangran al contacto. Estas lesiones tienden a crecer lentamente, y se diseminan por contigüidad o por autoinoculación a los tejidos adyacentes, y se pueden diseminar a vagina, cérvix, trompas de Falopio, ovarios, ano (este también puede ser sitio de lesión primaria), colon y vejiga. La hinchazón genital, sobre todo de los labios de la vulva, es frecuente y puede evolucionar a seudoelefantiasis. La erosión progresiva de los tejidos afectados puede destruir el pene y otros órganos afectados.
+
+Se pueden dar lesiones primarias extragenitales por contacto orogenital en boca, cuello, faringe y ojos. Se han descrito casos de afectación de huesos, hígado y otros órganos internos, por propagación hematógena.
+
+Existen otras formas clínicas menos comunes de la enfermedad:
+ La forma necrótica se ve en individuos con una infección crónica, son lesiones destructivas con exudado maloliente. Se cree que se da por la infección secundaria de bacterias anaerobias.
+ La forma hipertrófica, que se caracteriza por lesiones verrugosas o con forma de coliflor.
+ La forma esclerótica o cicatrizal, que se caracteriza por formación temprana de tejido fibrótico.
+
+Diagnóstico
+
+El diagnóstico de donovanosis se basa en la historia sexual del paciente y la presentación clínica.
+
+El diagnóstico definitivo se hace demostrando la presencia de cuerpos de Donovan en frotis preparados a partir de los bordes de lesión activa. Para teñir la muestra se puede utilizar las tinciones de Wright, Giemsa o Leishman. Los cuerpos de Donovan son inclusiones intracelulares en forma de bastón, ovaladas, que se tiñen más hacia los extremos (en forma de alfiler de seguridad cerrado) que se observan en el citoplasma de los macrófagos e histiocitos encontrados en las lesiones. Estas inclusiones intracelulares son especímenes de *Klebsiella granulomatis* encapsulados.
+
+No se ha podido cultivar a *K. granulomatis* en medios de cultivo sólidos artificiales, pero si se ha podido cultivar en embriones de pollo, en monocitos humanos y en células Hep-2 (células epiteliales humanas). También puede ser detectado por amplificación del gen phoE en PCR.
+
+El diagnóstico diferencial debe incluir chancroide, sífilis, carcinoma de células escamosas, úlceras herpéticas asociadas al VIH, infección por *Entamoeba histolytica*, leishmaniasis, actinomicosis, histoplasmosis, entre otras.
+
+Tratamiento
+La azitromicina es el antibiótico de primera línea para el tratamiento del granuloma inguinal. La eritromicina, tetraciclina, doxiciclina, trimetropim-sulfametoxazol y cloranfenicol también son eficaces contra *K. granulomatis*. Si se interrumpe el tratamiento antibiótico prematuramente, las lesiones suelen cicatrizar, pero la tasa de recidivas es mayor.
+
+Bibliografía
+ Harrison, Principios de Medicina Interna. 18 ed. (2011). Cap. 161.
+
+Referencias

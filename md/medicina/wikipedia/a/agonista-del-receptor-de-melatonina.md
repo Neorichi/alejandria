@@ -1,0 +1,64 @@
+---
+type: Artículo de enciclopedia
+title: Agonista del receptor de melatonina
+description: Los agonistas del receptor de melatonina son análogos de la melatonina que se unen al receptor de melatonina y lo activan.
+resource: https://es.wikipedia.org/wiki/Agonista_del_receptor_de_melatonina
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Agonista_del_receptor_de_melatonina"}
+license: CC BY-SA 4.0
+id: eswiki-Agonista_del_receptor_de_melatonina
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Agonista del receptor de melatonina
+
+- **Caption:** Melatonina, el agonista del receptor de melatonina prototipo
+- **Medlineplus:** D008550
+
+Los **agonistas del receptor de melatonina** son análogos de la melatonina que se unen al receptor de melatonina y lo activan. Los agonistas del receptor de melatonina tienen varias aplicaciones terapéuticas que incluyen el tratamiento de los trastornos del sueño y la depresión. El descubrimiento y desarrollo de agonistas del receptor de melatonina fue motivado por la necesidad de análogos más potentes que la melatonina, con mejor farmacocinética y vida media más larga. Los agonistas del receptor de melatonina se desarrollaron con la estructura de la melatonina como modelo.
+
+Los receptores de melatonina son receptores acoplados a proteína G y se expresan en varios tejidos del cuerpo. Hay dos subtipos del receptor en humanos, el receptor de melatonina 1 (MT1) y el receptor de melatonina 2 (MT2). Los agonistas de la melatonina y los receptores de melatonina, en el mercado o en ensayos clínicos, se unen y activan ambos tipos de receptores. La unión de los agonistas a los receptores se ha investigado desde 1986, pero aún no se comprende completamente. Cuando los agonistas del receptor de melatonina se unen a sus receptores y los activan, provocan numerosos procesos fisiológicos.
+
+ Historia
+
+En 1917 McCord y Allen descubrieron la melatonina en sí. En 1958, Aaron B. Lerner y sus colegas aislaron la sustancia N-acetil-5-metoxitriptamina y la llamaron melatonina. Los sitios de unión de melatonina de alta afinidad se caracterizaron farmacológicamente en el cerebro bovino en 1979. El primer receptor melatonérgico se clonó a partir de melanóforos de *Xenopus laevis* en 1994. En 1994-1995, Reppert y sus colegas caracterizaron y clonaron los receptores de melatonina en el ser humano.
+
+El TIK-301 (PD-6735, LY-156,735) ha estado en un ensayo clínico de fase II en los Estados Unidos (EE. UU.) desde 2002. La FDA otorgó la designación de fármaco huérfano TIK-301 en mayo de 2004, para su uso como tratamiento para el trastorno del ritmo circadiano del sueño en personas ciegas sin percepción de la luz y personas con discinesia tardía. En 2005 ramelteon (Rozerem®) fue aprobado en los EE. UU. indicado para el tratamiento de insomnio, caracterizada como dificultad para conciliar el sueño, en los adultos. La melatonina en forma de liberación prolongada (nombre comercial Circadin®) fue aprobada en 2007 en Europa (UE) para su uso como tratamiento a corto plazo, en pacientes de 55 años o mayores, para el insomnio primario (mala calidad del sueño). Los productos que contienen melatonina están disponibles como suplemento dietético en los Estados Unidos y Canadá. En 2009 la agomelatina (Valdoxan®, Melitor®, Thymanax®) fue también aprobado en Europa y está indicado para el tratamiento del trastorno depresivo mayor en adultos. El Tasimelteon completó el ensayo clínico de fase III en los Estados Unidos para el insomnio primario en 2010. La Administración de Alimentos y Medicamentos (FDA) otorgó el estado de designación de medicamento huérfano al tasimelteón para personas ciegas sin percepción de la luz con trastorno del sueño y vigilia que no dura 24 horas en enero del mismo año, y la aprobación final de la FDA para el mismo propósito se logró en enero de 2014 bajo el nombre comercial Hetlioz®.
+
+ Receptores de melatonina
+
+En los seres humanos, existen dos subtipos de receptores de melatonina a los que se dirigen los agonistas de melatonina, MT1 y MT2. Son receptores acoplados a proteína G y se expresan en varios tejidos del cuerpo, juntos o individualmente. Los receptores MT1 se expresan en muchas regiones del sistema nervioso central (SNC): núcleo supraquiasmático (SCN) del hipotálamo, hipocampo, sustancia negra, cerebelo, vías dopaminérgicas centrales, área tegmental ventral y núcleo accumbens. MT1 también se expresa en la retina, ovario, testículo, glándula mamaria, circulación coronaria y aorta, vesícula biliar, hígado, riñón, piel y sistema inmunológico. Los receptores MT2 se expresan principalmente en el SNC, también en pulmón, tejido cardíaco, coronario y aórtico, miometriales y de la granulosa, células inmunes, duodeno y adipocitos.
+
+ Mecanismo de acción
+La unión de la melatonina a los receptores de melatonina activa algunas vías de señalización. La activación del receptor MT1 inhibe la adenilil ciclasa y su inhibición provoca un efecto ondulante de no activación; comenzando con la formación decreciente de monofosfato de adenosina cíclico (cAMP), y luego progresando a una menor actividad de la proteína quinasa A (PKA), lo que a su vez dificulta la fosforilación de la proteína de unión a elementos que responde a cAMP (proteína de unión a CREB) en P-CREB. Los receptores MT1 también activan la fosfolipasa C (PLC), afectan los canales iónicos y regulan el flujo de iones dentro de la célula. La unión de la melatonina a los receptores MT2 inhibe la adenilil ciclasa que disminuye la formación de cAMP. También dificulta la guanilil ciclasa y, por tanto, la formación de monofosfato de guanosina cíclico (cGMP). La unión a los receptores MT2 probablemente afecte a la PLC, lo que aumenta la actividad de la proteína quinasa C (PKC). La activación del receptor puede provocar un flujo de iones dentro de la célula.
+
+Cuando los agonistas de los receptores de melatonina activan sus receptores, provocan numerosos procesos fisiológicos. Los receptores MT1 y MT2 pueden ser un objetivo para el tratamiento de los trastornos del sueño circadianos y no circadianos debido a sus diferencias en farmacología y función dentro del SCN. El SCN es responsable de mantener el ciclo de 24 horas que regula muchas funciones corporales diferentes, desde el sueño hasta las funciones inmunes. Se han identificado receptores de melatonina en el sistema cardiovascular. La evidencia de estudios en animales apunta a un papel dual de la melatonina en la vasculatura. La activación de los receptores MT1 media la vasoconstricción y la activación de los receptores MT2 media la vasodilatación. La melatonina participa en la regulación de las respuestas inmunitarias tanto en humanos como en animales mediante la activación de los receptores MT1 y MT 2. Los receptores MT1 y MT2 están muy extendidos en el ojo y participan en la regulación de la secreción del humor acuoso, que es importante para el glaucoma, y en la fototransducción. Esta no es una lista completa, ya que muchos de los posibles procesos necesitan confirmación adicional.
+
+ Diseño y desarrollo de fármacos
+Se conocen los receptores y la estructura de la melatonina. Por lo tanto, los investigadores comenzaron a investigar las modulaciones de la estructura central para desarrollar mejores agonistas que la melatonina; más potente, con mejor farmacocinética y una vida media más prolongada. TIK-301 (figura 1) es un agonista de las primeras clases. Es muy similar a la melatonina y ha llegado a los ensayos clínicos. Esto llevó a más investigaciones sobre la molécula, principalmente la sustitución del anillo aromático. Varias modulaciones mostraron una actividad prometedora, especialmente el anillo de naftaleno que está presente en la agomelatina (figura 1). Otros sistemas de anillos también han mostrado actividad agonista de melatonina. Entre ellos se encuentran el indano, que está presente en ramelteon (figura 1) y el sistema de anillos de tasimelteon (figura 1).
+
+ Relación estructura-actividad
+La estructura general de la melatonina es el anillo de indol con el grupo metoxi en la posición 5 (grupo 5-metoxi) y la cadena lateral acilaminoetilo en la posición 3. Las dos cadenas laterales son importantes para unirse y activar los receptores. El anillo de indol se ha evaluado en todas las posiciones por el efecto de las sustituciones, como se ve en la figura 1. Cada puesto se explica con más detalle a continuación:
+
+ Unión y farmacóforo
+La 2-yodomelatonina se sintetizó en 1986 y su radioligando, 2- [125I] -melatonina, ha sido útil para encontrar dianas celulares de melatonina. Aunque el receptor de melatonina no se caracterizó y clonó en el ser humano hasta 1994, fue posible comenzar a realizar estudios de unión en varios tejidos antes de ese momento. Los grupos más importantes son el grupo 5-metoxi y la cadena lateral acilaminoetilo, porque se unen a los receptores y los activan. El grupo –NH del anillo indol no es importante para la unión y activación. Por tanto, es posible sustituirlo por otros sistemas de anillos aromáticos. El anillo aromático y la cadena lateral de etilo mantienen la distancia correcta entre esos dos grupos. La distancia correcta es la clave para una buena unión y más importante que el tipo de sistema de anillos aromáticos que contiene el análogo. Por lo tanto, es posible utilizar diferentes sistemas de anillos en análogos del receptor de melatonina, si la distancia es correcta.
+
+Los receptores de melatonina constan de proteínas de alrededor de 40 kDa cada una. El receptor MT1 codifica 350 aminoácidos y el MT2 codifica 362 aminoácidos. La unión de la melatonina y sus análogos a los receptores no se conoce completamente. El espacio de unión para la melatonina y sus análogos en el receptor MT1 es más pequeño que en el MT2. Las investigaciones suelen centrarse en dos bolsillos de encuadernación, para las dos cadenas laterales. El bolsillo de unión del grupo 5-metoxi se investiga más que el otro bolsillo. Los investigadores coinciden en que el oxígeno del grupo se une a los residuos de histidina (His) en el dominio transmembrana 5 (TM5) del receptor con un enlace de hidrógeno; His195 en MT1 y His208 en MT2. Otro aminoácido, la valina 192 (Val), también participa en la unión del grupo 5-metoxi al unirse a la porción metilo del grupo.
+
+La unión del grupo N-acetilo es más compleja y menos conocida. Los aminoácidos importantes en el bolsillo de unión para este grupo difieren entre los dos receptores. Las serinas, Ser110 y Ser114, en el dominio TM3, parecen ser importantes para unirse al receptor MT1. Sin embargo, es probable que la asparagina 175 (Asn) en el dominio TM4 sea importante para el receptor MT2. El sistema de anillos aromáticos en la melatonina y sus análogos probablemente contribuye con cierta afinidad de unión al unirse a los anillos aromáticos de los aminoácidos fenilalanina (Phe) y triptófano (Trp) en el receptor. Los enlaces que se forman son interacciones de van der Waals. La unión de N-acetilo y el bolsillo de unión, la unión del sistema de anillo y los dominios importantes son algo conocidos y necesitan más investigación.
+
+Los insecticidas de carbamato se dirigen a los receptores de melatonina humanos.
+
+ Estado actual
+Para 2014 había tres agonistas de melatonina en el mercado; ramelteon (Rozerem), agomelatina (Valdoxan, Melitor, Thymanax) y tasimelteon (Hetlioz). Ramelteon fue desarrollado por *Takeda Pharmaceutical Company* y aprobado en los Estados Unidos en 2005. La agomelatina fue desarrollada por la empresa farmacéutica *Servier* y aprobada en Europa en 2009. El tasimelteon fue desarrollado por *Vanda Pharmaceuticals* y completó el ensayo de fase III en 2010. Fue aprobado por la FDA el 31 de enero de 2014 para el tratamiento del trastorno de sueño-vigilia que no dura 24 horas en personas totalmente ciegas.
+
+Un agonista de la melatonina ha recibido la designación de fármaco huérfano y está pasando por ensayos clínicos en los Estados Unidos: TIK-301. Originalmente el TIK-301 fue desarrollado por *Eli Lilly and Company* y llamado LY-156,735, no fue hasta julio de 2007 que *Tikvah Pharmaceuticals* se hizo cargo del desarrollo y lo llamó TIK-301. Actualmente se encuentra en ensayos de fase II y lo ha estado desde 2002. En julio de 2010 en Europa, se aprobó el uso de melatonina de liberación prolongada (*Circadin, Neurim Pharmaceuticals*) durante 13 semanas en pacientes con insomnio mayores de 55 años. Además, *Neurim Pharmaceuticals* informó los resultados de un ensayo de fase II positivo de su compuesto de investigación piromelatina (Neu-P11) en febrero de 2013.
+
+ Véase también
+
+ TIK-301 (LY-156,735, PD-6735)
+
+ Referencias

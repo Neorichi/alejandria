@@ -1,0 +1,39 @@
+---
+type: Artículo de enciclopedia
+title: Acumulador criptográfico
+description: Un acumulador criptográfico es un algoritmo criptográfico que tiene como una entrada un conjunto amplio de elementos, X, y devuelve un solo valor, Acc, de tamaño constante y normalmente reducido.
+resource: https://es.wikipedia.org/wiki/Acumulador_criptográfico
+tags: [seguridad, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Acumulador_criptográfico"}
+license: CC BY-SA 4.0
+id: eswiki-Acumulador_criptográfico
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Acumulador criptográfico
+
+Un **acumulador criptográfico** es un algoritmo criptográfico que tiene como una entrada un conjunto amplio de elementos, *X*, y devuelve un solo valor, *Acc*, de tamaño constante y normalmente reducido. Este valor puede usarse para representar al conjunto. Este valor, junto con otro valor llamado **testigo**, *T*, permite probar eficientemente, a través de un **algoritmo de verificación** si un elemento, *x*, pertenece al conjunto de partida *X*. Es decir, el elemento *x ha sido acumulado (o no) en Acc*.
+
+Para gestionar el acumulador suele ser necesaria la presencia de una entidad a la que se llama **Gestor del acumulador** que es el que se encarga de manipular dicho acumulador. Por tanto se encarga por ejemplo de hacer que se calcule valor del acumulador, gestionar los valores testigos o, si se trata de un acumulador dinámico, de borrar o insertar elementos en el conjunto.
+
+Introducidos en 1993 por Josh Benaloh y Michael de Mare los acumuladores criptográficos se han usado como primitiva criptográfica en muy distintos tipos de aplicaciones como: Sellado de tiempo, listas negras, compresión, revocación de permisos, diccionarios autenticables.
+
+Clasificación
+Podemos clasificar los acumuladores criptográficos en función a varios criterios
+Según la variabilidad de los conjuntos iniciales
+Podemos clasificar los acumuladores criptográficos en función de la variabilidad de los conjuntos iniciales en:
+**Estáticos**.- No se puede hallar el valor que le corresponde a un conjunto, a partir de resultados anteriores. El conjunto inicial es fijo
+**Dinámicos**.- Para hallar el valor final que le corresponde a un conjunto se pueden usar resultados anteriores. Es decir, se puede hallar el nuevo valor de un conjunto resultado de insertar y/o borrar elementos del conjunto anterior. A veces, para realizar estas gestiones de añadir/borrar elementos es necesario cierto conocimiento. Por tanto es necesario la presencia de una entidad encargada de este tarea a la que se llama **Gestor del acumulador**.
+
+Según la confianza en el Gestor del acumulador
+Según la confianza que hay que tener en el Gestor del acumulador en podemos clasificar a los acumuladores criptográficos dinámicos en:
+**Débiles**.- Requieren que el gestor del acumulador sea confiable.
+**Fuertes**.- No requieren confiar en el gestor del acumulador.
+
+Según su comportamiento con los elementos que no pertenecen al conjunto inicial
+Podemos decir que un acumulador criptográfico es **Universal** si se puede demostrar eficientemente que cierto elemento no pertenece al conjunto inicial.
+
+Referencias

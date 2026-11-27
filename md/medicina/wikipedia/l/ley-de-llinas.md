@@ -1,0 +1,26 @@
+---
+type: Artículo de enciclopedia
+title: Ley de Llinás
+description: "La ley de Llinás, o ley de la no intercambiabilidad, es una ley de la neurociencia que fue enunciada por el colombiano Rodolfo Llinás en 1989 al ser galardonado con la Luigi Galvani Lecture and Award dentro de las Fidia …"
+resource: https://es.wikipedia.org/wiki/Ley_de_Llinás
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Ley_de_Llinás"}
+license: CC BY-SA 4.0
+id: eswiki-Ley_de_Llinás
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Ley de Llinás
+
+La **ley de Llinás**, o **ley de la no intercambiabilidad**, es una ley de la neurociencia que fue enunciada por el colombiano Rodolfo Llinás en 1989 al ser galardonado con la Luigi Galvani Lecture and Award dentro de las Fidia Research Foundation Neuroscience Award Lectures y que condensa los descubrimientos que hizo con sus colaboradores durante los años 80.
+
+La ley establece que:
+
+Dada una neurona de un determinado tipo (e.g. una neurona talámica) no puede ser funcionalmente reemplazada por una de otro tipo (e.g. una neurona de la oliva inferior) incluso si su conectividad sináptica y el tipo de neurotransmisor liberado son idénticos (la diferencia entre las neuronas talámicas y las neuronas de la oliva inferior es que las propiedades electrofisiologícas intrínsecas son extraordinariamente distintas).
+
+La enunciación de esta ley es una consecuencia del artículo escrito por el propio Rodolfo Llinás en 1988 y publicado en Science con el título *"The Intrinsic Electrophysiological Properties of Mammalian Neurons: Insights into Central Nervous System Function"* y que es considerado un manifiesto que marca el cambio de mentalidad en neurociencia respecto al aspecto funcional de las neuronas con más de 1250 citas en la bibliografía científica. Hasta ese momento el convencimiento de la neurociencia dictaba que sólo las conexiones y los neurotransmisores liberados por las neuronas determinaban la función de una neurona. Las investigaciones realizadas por Llinás con sus colaboradores durante los años 80 sobre vertebrados pusieron de manifiesto que la suposición mantenida hasta entonces era errónea.
+
+ Bibliografía

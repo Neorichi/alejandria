@@ -1,0 +1,40 @@
+---
+type: Artículo de enciclopedia
+title: Brugia malayi
+description: Brugia malayi es un especie de nematodo espirúrido que causa filariasis en humanos.
+resource: https://es.wikipedia.org/wiki/Brugia_malayi
+tags: [medicina, wikipedia]
+sources:
+  - {"id": "eswiki", "title": "Wikipedia (es) 2026-11-01", "author": "community:wikipedia-es", "last_modified": "2026-11-01T00:00:00Z", "resource": "https://es.wikipedia.org/wiki/Brugia_malayi"}
+license: CC BY-SA 4.0
+id: eswiki-Brugia_malayi
+generated: {"by": "alejandria/2026.11.27", "at": "2026-11-27T17:14:52Z"}
+status: stable
+stale_after: 2027-11-27T17:14:52Z
+---
+
+# Brugia malayi
+
+- **Name:** Brugia malayi
+- **Regnum:** Animalia
+- **Phylum:** Nematoda
+- **Classis:** Secernentea
+- **Ordo:** Spirurida
+- **Familia:** Filariidae
+- **Genus:** Brugia
+- **Binomial:** Brugia malayi
+- **Binomial authority:** Brug 1927
+
+***Brugia malayi*** es un especie de nematodo espirúrido que causa filariasis en humanos. Identificado por Lichtenstein y nombrado por Brug en 1927, diferenciándolo de la especie *Wuchereria bancrofti*, llamado inicialmente *Filaria malayi*. En 1958 el nuevo género *Brugia* fue propuesto por Buckley, y el cambio produjo la especie *Brugia malayi*. Es un organismo limitado a las regiones tropicales de Asia. Son transmitidos al hombre por mosquitos, en especial *Mansonia*, *Anopheles* y *Aedes*.
+
+ Ciclo de vida
+Las larvas infectantes son transmitidas en la picadura de artrópodos infestados. Las larvas migran al sitio apropiado del cuerpo del hospedador, donde se desarrollan en adultos productores de microfilarias. Los adultos se alojan en varios tejidos humanos donde pueden vivir durante varios años. Los agentes de la filariasis linfática residen en los vasos y ganglios linfáticos. *B. malayi* tiende a alojarse particularmente en los vasos linfáticos, tal como *Wuchereria bancrofti*. Los gusanos hembras producen microfilarias, que circulan en la sangre.
+
+Las microfilarias infectan mosquitos, dentro de los cuales se desarrollan en 1 o 2 semanas en una larva filariforme ( estadio) infectante. Durante las subsecuentes picadas del insecto, las larvas infectan el hospedador vertebrado. Migran a los vasos linfáticos, donde se desarrollan en adultos, un proceso lento que puede requerir hasta 18 meses.
+
+Recientemente se descubrió que *B. malayi* contiene una bacteria endosimbiótica, *Wolbachia*, en todos sus estadios de vida. La secuencia genómica de esta bacteria se determinó en los Estados Unidos, indicando también que *Wolbachia* puede ser destruida al tratar el hospedador humano con doxiciclina. Los nematodos curados de la bacteria son infértiles y gozan de una incrementada motilidad.
+
+ Características
+Las microfilarias miden 270 por 8 µm, tienen una vaina que recubre su cuerpo y una cola con una constricción terminal, núcleos elongados pero ausentes en la porción cefálica. La vaina que cubre al organismo se colorea cuando el preparado microscópico se tiñe, a diferencia de *Wuchereria bancrofti*, el cual no retiene el colorante.
+
+ Referencias
