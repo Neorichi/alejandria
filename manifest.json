@@ -4,24 +4,24 @@
    "id": "seguridad",
    "titulo": "Seguridad informática",
    "descripcion": "Vulnerabilidades explotadas (CISA KEV), técnicas y grupos de ataque (MITRE ATT&CK) y tipos de fallo (CWE).",
-   "version": "2026.11.27.1517",
+   "version": "2026.11.27.1821",
    "articulos": 5975,
    "fichero": "seguridad.sqlite",
-   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1517/seguridad.sqlite",
-   "bytes": 14675968,
-   "sha256": "487049502c55513e51141016639c25fd5888317a5770d6f5ec684f8fab0516ea",
-   "fuentes": "CISA Known Exploited Vulnerabilities 2026.11.25; MITRE ATT&CK Enterprise; MITRE CWE; Wikipedia (es) 2026-11-01"
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1821/seguridad.sqlite",
+   "bytes": 15810560,
+   "sha256": "4d172bf6083c7147fc612df3b9314dc6acc39ef62d480fb9371dca6c7138c463",
+   "fuentes": "CISA Known Exploited Vulnerabilities 2026.11.25; MITRE ATT&CK Enterprise; MITRE CWE 5.0; Wikipedia (es) 2026-11-01"
   },
   {
    "id": "medicina",
    "titulo": "Medicina y salud",
    "descripcion": "Temas de salud de MedlinePlus en español y artículos de medicina de Wikipedia. No sustituye a un médico.",
-   "version": "2026.11.27.1517",
+   "version": "2026.11.27.1821",
    "articulos": 16618,
    "fichero": "medicina.sqlite",
-   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1517/medicina.sqlite",
-   "bytes": 88444928,
-   "sha256": "826d47175a1460d197b2c64340e17581b71db93df1a4d315ca6644b1d62cd96e",
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1821/medicina.sqlite",
+   "bytes": 88555520,
+   "sha256": "fccae50107553269c0229438799086a6e88529b6e27cc36be1668caf027cc685",
    "fuentes": "MedlinePlus en español; Wikipedia (es) 2026-11-01"
   },
   {
@@ -34,9 +34,13 @@
    "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1517/wikipedia-resumida.sqlite",
    "bytes": 1994829824,
    "sha256": "0743f802a03baa90fa49c26b9a5d07047ea4f28e243c8443d4eff072bb62cdf7",
-   "fuentes": "Wikipedia (es) 2026-11-01"
+   "fuentes": "Wikipedia (es) 2026-11-01",
+   "okf": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1821/wikipedia-resumida.okf.tar.gz",
+   "okf_bytes": 826641447,
+   "okf_sha256": "9f50bc7bed763ebe1a3cc477c06fea613764c50cef3bd5d40712f60f21f3ad19"
   }
  ],
- "version": "2026.11.27.1517",
- "formato": 1
+ "version": "2026.11.27.1821",
+ "formato": 1,
+ "okf_version": "0.2"
 }
