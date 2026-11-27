@@ -14,12 +14,14 @@ cp /Volumes/Disk1TB/nesi-pocket/tools/enciclopedia/*.py /Volumes/Disk1TB/nesi-po
 git add README.md herramientas .gitignore 2>/dev/null || git add README.md herramientas
 git commit -q -m "Herramientas y README ($V)" || true
 git push -q origin HEAD:main
-# Markdown in batches: removed files first, then new/changed ones 100 files (~400 MB) at a time.
-git add -u md
-git diff --cached --quiet || { git commit -q -m "Markdown $V: ficheros quitados o cambiados"; git push -q origin HEAD:main; }
+# Markdown in batches of 100 files (~400 MB): deleted ones first, then changed and new ones.
+git ls-files -d md | xargs git rm -q --cached --ignore-unmatch
+git diff --cached --quiet || { git commit -q -m "Markdown $V: ficheros quitados"; git push -q origin HEAD:main; }
+rm -f /tmp/alejandria-lote-*
+{ git ls-files -m md; git ls-files --others --exclude-standard md; } | split -l 100 - /tmp/alejandria-lote-
 batch=0
-git ls-files --others --exclude-standard md | split -l 100 - /tmp/alejandria-lote-
 for f in /tmp/alejandria-lote-*; do
+  [ -e "$f" ] || continue   # nothing changed: the glob stays literal
   batch=$((batch + 1))
   xargs git add < "$f"
   git commit -q -m "Markdown $V (lote $batch)"
