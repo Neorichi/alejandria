@@ -36,6 +36,8 @@ BIO = re.compile(r"^(nacidos|fallecidos|personas|alumnado|médicos|científicos|
 
 NOFACT = re.compile(r"imagen|image|archivo|file|coor|mapa|map|escudo|bandera|flag|pie|tamaño|size|alt$|firma|"
                     r"logo|upright|ubicaci|location|sonido|audio|color|estilo|web|sitio|url|cod|código", re.I)
+SWITCHES = {"no", "sí", "si", "yes", "auto", "wikidata", "-", "—", "?", "ninguno", "ninguna", "n/a", "true", "false",
+            "ocultar", "oculto", "none", "0", "1"}
 MEDIA = re.compile(r"\.(svg|png|jpe?g|gif|ogg|oga|webm|tif)\b|_[NSEWO]_", re.I)
 
 
@@ -52,6 +54,8 @@ def infobox(code):
                 continue
             v = clean_inline(p.value)
             v = re.sub(r"\b(derecha|izquierda|right|left|centro|center)?\|?\d+px\b(\|[^|]*)*", "", v).strip(" |")
+            if v.lower().strip(" .") in SWITCHES:
+                continue  # "Sepultura: no", "Cabecera: wikidata": switches of the template, not facts
             if v and len(v) < 120 and not v.startswith(("http", "{")) and not MEDIA.search(v):
                 facts.append(f"- **{k.replace('_', ' ').capitalize()}:** {v}")
             if len(facts) >= 10:
