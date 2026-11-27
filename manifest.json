@@ -1,0 +1,30 @@
+{
+ "packs": [
+  {
+   "id": "seguridad",
+   "titulo": "Seguridad informática",
+   "descripcion": "Vulnerabilidades explotadas (CISA KEV), técnicas y grupos de ataque (MITRE ATT&CK) y tipos de fallo (CWE).",
+   "version": "2026.11.27.1335",
+   "articulos": 4588,
+   "fichero": "seguridad.sqlite",
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1335/seguridad.sqlite",
+   "bytes": 8998912,
+   "sha256": "bdadde0f357a07eb97ed5c41461b25a8e3db60e771f9908f89a973902a48e7c7",
+   "fuentes": "CISA Known Exploited Vulnerabilities 2026.11.25; MITRE ATT&CK Enterprise; MITRE CWE"
+  },
+  {
+   "id": "medicina",
+   "titulo": "Medicina y salud",
+   "descripcion": "Temas de salud de MedlinePlus en español y artículos de medicina de Wikipedia. No sustituye a un médico.",
+   "version": "2026.11.27.1335",
+   "articulos": 1016,
+   "fichero": "medicina.sqlite",
+   "url": "https://github.com/Neorichi/alejandria/releases/download/v2026.11.27.1335/medicina.sqlite",
+   "bytes": 4947968,
+   "sha256": "fc34b6bf45dfa986ce6a32852572ba70bdd3e89c658f6b4526e7bf848863469e",
+   "fuentes": "MedlinePlus en español"
+  }
+ ],
+ "version": "2026.11.27.1335",
+ "formato": 1
+}
