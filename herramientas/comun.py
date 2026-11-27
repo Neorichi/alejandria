@@ -13,13 +13,15 @@ FUENTES = os.path.join(RAIZ, "fuentes")
 REPO = os.path.join(RAIZ, "alejandria")
 MD = os.path.join(REPO, "md")
 GITHUB = "Neorichi/alejandria"
+# Packs too big for git (the whole Wikipedia, ~8-10 GB of Markdown) are kept here, outside the repo.
+FUERA = os.path.join(RAIZ, "fuera-del-repo", "md")
 
 
 class Escritor:
     """Writes articles into md/<pack>/0000.md, 0001.md… (about 4 MB each)."""
 
-    def __init__(self, pack, max_bytes=4_000_000):
-        self.dir = os.path.join(MD, pack)
+    def __init__(self, pack, max_bytes=4_000_000, base=None):
+        self.dir = os.path.join(base or MD, pack)
         os.makedirs(self.dir, exist_ok=True)
         for f in os.listdir(self.dir):
             if f.endswith(".md"):

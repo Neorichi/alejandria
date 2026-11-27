@@ -11,8 +11,9 @@ import json
 import os
 import sqlite3
 import sys
+import zlib
 
-from comun import GITHUB, MD, RAIZ, REPO, leer_md
+from comun import FUERA, GITHUB, MD, RAIZ, REPO, leer_md
 
 # The .sqlite files are too big for git: they go to a GitHub release (publicar.sh), not to the repo.
 PAQ = os.path.join(RAIZ, "paquetes")
@@ -28,6 +29,11 @@ PACKS = {
 }
 
 
+def deflate(text):
+    c = zlib.compressobj(9, zlib.DEFLATED, -15)  # raw deflate: what Apple's COMPRESSION_ZLIB reads
+    return c.compress(text.encode("utf-8")) + c.flush()
+
+
 def compilar(pack, version):
     os.makedirs(PAQ, exist_ok=True)
     out = os.path.join(PAQ, f"{pack}.sqlite")
@@ -40,24 +46,38 @@ def compilar(pack, version):
         PRAGMA journal_mode = OFF;
         PRAGMA synchronous = OFF;
         CREATE TABLE meta(key TEXT PRIMARY KEY, value TEXT);
-        CREATE TABLE docs(id INTEGER PRIMARY KEY, uid TEXT, title TEXT, url TEXT, source TEXT, license TEXT, body TEXT);
-        CREATE VIRTUAL TABLE fts USING fts5(title, body, content='docs', content_rowid='id',
+        -- Source and license once per pack (not on 2 million rows); the url is empty when it is the
+        -- Wikipedia one (meta url_wikipedia + title): 27-nov, that kept the summary pack under 2 GB.
+        CREATE TABLE sources(id INTEGER PRIMARY KEY, source TEXT, license TEXT);
+        CREATE TABLE docs(id INTEGER PRIMARY KEY, title TEXT, src INTEGER, url TEXT, body BLOB);
+        -- Contentless index (the text is not stored twice) and bodies compressed with raw deflate:
+        -- the summary Wikipedia went from ~4 GB to under 2 GB, the limit of a GitHub release file.
+        CREATE VIRTUAL TABLE fts USING fts5(title, body, content='',
                                             tokenize='unicode61 remove_diacritics 2');
     """)
     n = 0
     sources = set()
-    files = sorted(os.path.join(d, f) for d, _, fs in os.walk(os.path.join(MD, pack)) for f in fs if f.endswith(".md"))
+    src_ids = {}
+    WIKI = "https://es.wikipedia.org/wiki/"
+    src = os.path.join(MD, pack) if os.path.isdir(os.path.join(MD, pack)) else os.path.join(FUERA, pack)
+    files = sorted(os.path.join(d, f) for d, _, fs in os.walk(src) for f in fs if f.endswith(".md"))
     for path in files:
         rows = []
         for meta, body in leer_md(path):
             n += 1
-            rows.append((n, meta.get("id", ""), meta.get("titulo", ""), meta.get("url", ""), meta.get("fuente", ""),
-                         meta.get("licencia", ""), body))
-            sources.add(meta.get("fuente", ""))
-        db.executemany("INSERT INTO docs VALUES (?,?,?,?,?,?,?)", rows)
-        db.executemany("INSERT INTO fts(rowid, title, body) VALUES (?,?,?)", [(r[0], r[2], r[6]) for r in rows])
+            key = (meta.get("fuente", ""), meta.get("licencia", ""))
+            if key not in src_ids:
+                src_ids[key] = len(src_ids) + 1
+                db.execute("INSERT INTO sources VALUES (?,?,?)", (src_ids[key],) + key)
+            title, url = meta.get("titulo", ""), meta.get("url", "")
+            if url == WIKI + title.replace(" ", "_"):
+                url = ""
+            rows.append((n, title, src_ids[key], url, body))
+            sources.add(key[0])
+        db.executemany("INSERT INTO docs VALUES (?,?,?,?,?)", [r[:4] + (deflate(r[4]),) for r in rows])
+        db.executemany("INSERT INTO fts(rowid, title, body) VALUES (?,?,?)", [(r[0], r[1], r[4]) for r in rows])
     titulo, desc = PACKS.get(pack, (pack, ""))
-    meta = {"pack": pack, "titulo": titulo, "descripcion": desc, "version": version, "articulos": str(n),
+    meta = {"pack": pack, "compresion": "deflate", "url_wikipedia": WIKI, "titulo": titulo, "descripcion": desc, "version": version, "articulos": str(n),
             "fuentes": "; ".join(sorted(s for s in sources if s))}
     db.executemany("INSERT INTO meta VALUES (?,?)", meta.items())
     db.execute("CREATE INDEX docs_title ON docs(title COLLATE NOCASE)")

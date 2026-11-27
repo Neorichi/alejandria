@@ -15,11 +15,11 @@ import xml.etree.ElementTree as ET
 
 import mwparserfromhell as mwp
 
-from comun import FUENTES, Escritor
+from comun import FUENTES, FUERA, Escritor
 
 DUMP = os.path.join(FUENTES, "eswiki-latest-pages-articles.xml.bz2")
-LIC = "CC BY-SA 4.0 (Wikipedia en español y sus autores)"
-FUENTE = "Wikipedia en español (volcado 2026-11-02)"
+LIC = "CC BY-SA 4.0"
+FUENTE = "Wikipedia (es) 2026-11-01"
 
 SKIP_SECTIONS = re.compile(r"^(referencias|notas|bibliograf[ií]a|enlaces externos|v[eé]ase tambi[eé]n|fuentes|"
                            r"notas y referencias|referencias y notas|lecturas? adicional(es)?|galer[ií]a)$", re.I)
@@ -52,9 +52,9 @@ def infobox(code):
                 continue
             v = clean_inline(p.value)
             v = re.sub(r"\b(derecha|izquierda|right|left|centro|center)?\|?\d+px\b(\|[^|]*)*", "", v).strip(" |")
-            if v and len(v) < 160 and not v.startswith(("http", "{")) and not MEDIA.search(v):
+            if v and len(v) < 120 and not v.startswith(("http", "{")) and not MEDIA.search(v):
                 facts.append(f"- **{k.replace('_', ' ').capitalize()}:** {v}")
-            if len(facts) >= 14:
+            if len(facts) >= 10:
                 break
         return "\n".join(facts)
     return ""
@@ -129,9 +129,9 @@ def to_md(title, text):
     if len(full) < 40:
         return None
     lead = full.split("\n#", 1)[0].strip()
-    if len(lead) > 1200:
-        cut = lead[:1200]
-        lead = cut[: max(cut.rfind(". "), 600) + 1] + " …"
+    if len(lead) > 800:
+        cut = lead[:800]
+        lead = cut[: max(cut.rfind(". "), 400) + 1] + " …"
     if facts:
         lead = facts + "\n\n" + lead
         full = facts + "\n\n" + full
@@ -172,7 +172,7 @@ def url(title):
 
 if __name__ == "__main__":
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 0
-    w_lead, w_full = Escritor("wikipedia-resumida/es"), Escritor("wikipedia/es")
+    w_lead, w_full = Escritor("wikipedia-resumida/es"), Escritor("wikipedia/es", base=FUERA)
     w_med, w_sec = Escritor("medicina/wikipedia"), Escritor("seguridad/wikipedia")
     n = 0
     with mp.Pool(max(1, os.cpu_count() - 1)) as pool:
